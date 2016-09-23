@@ -6,9 +6,9 @@
         "competency": "Understands potential attack vectors within applications.",
         "examples": {
             "0": "Example rating 0",
-            "1": "Example rating 1",
-            "2": "Example rating 2",
-            "3": "Example rating 3"
+            "1": "Is aware of a few common attacks from OWASP such as XSS, CSRF, and SQL injection.",
+            "2": "Familiar with the entire OWASP Top 10 and how they may be used to take advantage of an application.",
+            "3": "Has an in-depth understanding of most types of attack vectors and how they affect and exploit their team's applications. Knows how to avoid unsafe programming patterns and can guide others in best practices."
         },
         "rating": "",
         "comment:": ""
@@ -20,9 +20,9 @@
         "competency": "Writes code that protects against potential attack vectors.",
         "examples": {
             "0": "Example rating 0",
-            "1": "Example rating 1",
-            "2": "Example rating 2",
-            "3": "Example rating 3"
+            "1": "Can use a library to protect against common attacks from OWASP such as XSS, CSRF, and SQL injection.",
+            "2": "Writes code to defend against attacks when not provided by a library - and understands the security guarantees frameworks do and do not provide.",
+            "3": "Can write robust, and well-tested code to protect against many types of attacks for all layers of their team's applications. Makes security vulnerabilities a priority and proactively considers them during planning."
         },
         "rating": "",
         "comment:": ""
@@ -34,9 +34,9 @@
         "competency": "Analyses the team's applications for vulnerabilities.",
         "examples": {
             "0": "Example rating 0",
-            "1": "Example rating 1",
-            "2": "Example rating 2",
-            "3": "Example rating 3"
+            "1": "Reviews new code written by themselves or others and evaluates how it may be vulnerable to attacks from OWASP.",
+            "2": "Reviews both new code and old code for vulnerabilities and also actively refactors old code to make it more secure and resistant to attacks. Responds to security issues quickly.",
+            "3": "Consistently analyzes team code for vulnerabilities, actively writes mitigations against common vulnerabilities, and quickly implements fixes or updates for security issues (such as CVE) when found. This person also actively reviews CVE notices for how they may affect QL and team applications."
         },
         "rating": "",
         "comment:": ""
@@ -48,9 +48,9 @@
         "competency": "Understands the monitoring metrics and tools used by the company and how to integrate with them (e.g. logs, usage, system, security).",
         "examples": {
             "0": "Example rating 0",
-            "1": "Example rating 1",
-            "2": "Example rating 2",
-            "3": "Example rating 3"
+            "1": "Is aware of core services, their purpose, and which tools to integrate with, but needs guidance to integrate with their application.",
+            "2": "Can do complete setup for an application to connect to core services - either directly or through SDKs provided by the company.",
+            "3": "Contributes to libraries and SDKs for core services and participates in setting standards, including evaluation of those tools and systems. (Splunk, App Dynamics, SCOM, Zabbix, Acunetix, etc) "
         },
         "rating": "",
         "comment:": ""
@@ -62,9 +62,9 @@
         "competency": "Profiles an application to identify and implement performance enhancements.",
         "examples": {
             "0": "Example rating 0",
-            "1": "Example rating 1",
-            "2": "Example rating 2",
-            "3": "Example rating 3"
+            "1": "Can connect a profiler to their application and understands its output to identify inefficient codeblocks.",
+            "2": "Takes an active and consistent interest in profiling and monitoring and often uses tools to identify and improve expensive code paths.",
+            "3": "Knows how to measure performance and bottlenecks at all tiers of their application and frequently optimizes application code to be more efficient. Considers performance tuning part of the shipping process."
         },
         "rating": "",
         "comment:": ""
@@ -76,9 +76,9 @@
         "competency": "Writes maintainable and modular code.",
         "examples": {
             "0": "Example rating 0",
-            "1": "Example rating 1",
-            "2": "Example rating 2",
-            "3": "Example rating 3"
+            "1": "Implements quickly and correctly. Demonstrates regular, incremental, and visible progress. Avoids coupling and over-architecting.",
+            "2": "Can be trusted to write small systems or libraries in a well-architected and modular manner without oversight. Comments their code well and writes software with flexibility and users in mind.",
+            "3": "Has written large-scale applications or libraries while maintaining solid software architecture using best practices. Writes thoughtful code that takes users into account and considers readability and comprehension a priority (principle of least surprise)."
         },
         "rating": "",
         "comment:": ""
@@ -90,9 +90,9 @@
         "competency": "Understands common development principles (e.g. DRY, KISS, YAGNI).",
         "examples": {
             "0": "Example rating 0",
-            "1": "Example rating 1",
-            "2": "Example rating 2",
-            "3": "Example rating 3"
+            "1": "Is aware of a few basic software development philosophies such as YAGNI, KISS and how they affect software design and development.",
+            "2": "Has an in-depth understanding of several software development philosophies from Wikipedia: Software Development Philosophies, and has experience using them in practice - including when ignoring them caused issues or made development more difficult.",
+            "3": "Understands many development principles and philosophies from Wikipedia: Software Development Philosophies, how they affect the process of software development and software engineering and the quality of software - including when they are important to follow and when they can be ignored."
         },
         "rating": "",
         "comment:": ""
@@ -104,9 +104,9 @@
         "competency": "Understands object-oriented programming paradigms and patterns.",
         "examples": {
             "0": "Example rating 0",
-            "1": "Example rating 1",
-            "2": "Example rating 2",
-            "3": "Example rating 3"
+            "1": "Understands and is familiar with basic OOP fundamentals such as objects, inheritance, data modeling and relationships. Knows all SOLID principles.",
+            "2": "Understands OOP and more advanced topics such as domain driven design, composition, and the law of demeter. Familiar with SOLID, GRASP, and many other design patterns such as factories, repositories, facades, decorators, etc and has used them when developing.",
+            "3": "Has in depth knowledge of most OOP design patterns and has built or managed large-scale software using them."
         },
         "rating": "",
         "comment:": ""
@@ -118,9 +118,9 @@
         "competency": "Understands the various types of testing and their importance (e.g. unit, functional, acceptance, user).",
         "examples": {
             "0": "Example rating 0",
-            "1": "Example rating 1",
-            "2": "Example rating 2",
-            "3": "Example rating 3"
+            "1": "Understands unit testing and its purpose.",
+            "2": "Understands the value of multiple types of test suites for an application or software and the different scenarios they help protect against. Knows how to write most types of tests for their team's projects.",
+            "3": "Has in-depth knowledge on the various types of testing and the value they add. Understands all types of testing and what is needed to make automated test suites robust enough to cover nearly every scenario and enable continuous deployment."
         },
         "rating": "",
         "comment:": ""
@@ -132,9 +132,9 @@
         "competency": "Writes comprehensive tests for all code.",
         "examples": {
             "0": "Example rating 0",
-            "1": "Example rating 1",
-            "2": "Example rating 2",
-            "3": "Example rating 3"
+            "1": "Proactively writes unit tests or acceptance tests for their projects.",
+            "2": "Has used both TDD and BDD and has significant experience with at least one of them. Helps push the bar higher on code coverage and other testing metrics for projects they are involved in.",
+            "3": "A champion of automated testing. Has experience writing all types of tests including unit tests and acceptance or integration tests. A proponent of high code coverage (>90%) and enforces that standard on their projects."
         },
         "rating": "",
         "comment:": ""
@@ -146,9 +146,9 @@
         "competency": "Performs VCS management such as committing, merging, handling conflicts.",
         "examples": {
             "0": "Example rating 0",
-            "1": "Example rating 1",
-            "2": "Example rating 2",
-            "3": "Example rating 3"
+            "1": "Can use team's version control system to perform simple functions such as commits, branches and merging. May be reliant on a GUI or non-console interface.",
+            "2": "Can perform complex functions such as rebasing, bisect, searching through vcs history, check-in locks, stashing, and partial staging. Knows the dangers of some commands and how to avoid losing data.",
+            "3": "Understands the meaning behind VCS commands and how they work. Comfortable with console or CLI. Can handle conflict resolution for any situation and recovering data when something goes wrong. Often helps others when they have a vcs-related issue."
         },
         "rating": "",
         "comment:": ""
@@ -160,9 +160,9 @@
         "competency": "Understands best practices for multi-person or team workflows and branch/merging strategies.",
         "examples": {
             "0": "Example rating 0",
-            "1": "Example rating 1",
-            "2": "Example rating 2",
-            "3": "Example rating 3"
+            "1": "Is familiar with development and branching workflows used at QL and knows what is required of them as a developer. Understands the concepts of continuous integration, continuous deployment, and continuous delivery.",
+            "2": "Has an in-depth understanding of multiple development workflows such as git flow, trunk-based development, branch-based development and why some workflows may work better for certain situations. Involved in defining the workflow and improving the development and vcs integration process for their projects and team.",
+            "3": "Has experience with multiple workflows and how they work with different team sizes. Understands the trade-offs with different development strategies and how to balance between the needs of development teams and business partners for change management. Considered an expert in this domain and helps many teams across the company improve their processes and learn optimal development and vcs processes."
         },
         "rating": "",
         "comment:": ""

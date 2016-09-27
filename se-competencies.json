@@ -2,6 +2,9 @@
     "_comment": "https://confluence/display/TRAC/Software+Development+and+Architecture+Skills+V2",
     "_comment.2": "http://git/SKluck/trac/",
 
+    "type": "Software Engineering",
+    "version": "2.0.0",
+
     "sections": {
         "Quality and Health": {
             "competencies": {

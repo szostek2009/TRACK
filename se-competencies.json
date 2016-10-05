@@ -388,7 +388,7 @@
                     "references": {
                         "Apache Thrift": "https://en.wikipedia.org/wiki/Apache_Thrift",
                         "Amazon Ion": "https://amznlabs.github.io/ion-docs/",
-                        "Transit": "https://github.com/cognitect/transit-format",
+                        "Transit": "https://github.com/cognitect/transit-format"
                     },
                     "examples": {
                         "0": "May have experience integrating with external systems through libraries but has limited understanding of the underlying protocols.",

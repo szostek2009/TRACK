@@ -26,7 +26,7 @@
                         "3": "Has an in-depth understanding of most types of attack vectors and how they affect and exploit their team's applications. Knows how to avoid unsafe programming patterns and can guide others in best practices."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "Q2": {
                     "category": "Skill",
@@ -42,7 +42,7 @@
                         "3": "Can write robust, and well-tested code to protect against many types of attacks for all layers of their team's applications. Makes security vulnerabilities a priority and proactively considers them during planning."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "Q3": {
                     "category": "Behavior",
@@ -59,7 +59,7 @@
                         "3": "Consistently analyzes team code for vulnerabilities, actively writes mitigations against common vulnerabilities, and quickly implements fixes or updates for security issues (such as CVE) when found. This person also actively reviews CVE notices for how they may affect QL and team applications."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "Q4": {
                     "category": "Skill",
@@ -71,7 +71,7 @@
                         "3": "Contributes to libraries and SDKs for core services and participates in setting standards, including evaluation of those tools and systems. (Splunk, App Dynamics, SCOM, Zabbix, Acunetix, etc) "
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "Q5": {
                     "category": "Skill",
@@ -84,7 +84,7 @@
                         "3": "Knows how to measure performance and bottlenecks at all tiers of their application and frequently optimizes application code to be more efficient. Considers performance tuning part of the shipping process."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "Q6": {
                     "category": "Knowledge",
@@ -97,7 +97,7 @@
                         "3": "Understands the most important metrics for measuring application health and performance such as response time, throughput, error rates, logging and how to respond appropriately at various thresholds. Does what it takes to ensure a high-performance application (proactively and reactively)."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "Q7": {
                     "category": "Behavior",
@@ -110,7 +110,7 @@
                         "3": "Sets an example for others in following standards and doing the right thing. Addresses NFRs and actively works to ensure compliance with company standards. Works hard to adhere to standards without cutting corners to ship sooner."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "Q8": {
                     "category": "Behavior",
@@ -123,7 +123,7 @@
                         "3": "Proactively writes defensive code. Can quickly spot bugs or problematic code during code reviews. Has a deep understanding of the team's codebases and understands the importance of fixing bugs and minimizing Known Shippables."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "Q9": {
                     "category": "Skill",
@@ -136,7 +136,7 @@
                         "3": "Can quickly troubleshoot issues, find bugs and their solutions. Efficiently identifies issues in pressure situations such as outages. The \"Goto person\" when other developers cannot isolate and identify issues."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "Q10": {
                     "category": "Skill",
@@ -149,7 +149,7 @@
                         "3": "Has deep knowledge and understanding of how error handling works in all aspects of the team's applications. Has written error handlers and knows how to safely log errors for monitoring. Writes code to protect against all situations - including rare failures or edge cases. Can write code that is defensive and fails gracefully for client or user experience."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 }
             }
         },
@@ -165,7 +165,7 @@
                         "3": "Has written large-scale applications or libraries while maintaining solid software architecture using best practices. Writes thoughtful code that takes users into account and considers readability and comprehension a priority (principle of least surprise)."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "C2": {
                     "category": "Knowledge",
@@ -180,7 +180,7 @@
                         "3": "Understands many development principles and philosophies, how they affect the process of software development and software engineering and the quality of software - including when they are important to follow and when there may be reason to ignore or bypass them."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "C3": {
                     "category": "Knowledge",
@@ -192,7 +192,7 @@
                         "3": "Has in depth knowledge of most OOP design patterns and has built or managed large-scale software using them."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "C4": {
                     "category": "Knowledge",
@@ -204,7 +204,7 @@
                         "3": "Has deep knowledge of most functional programming design patterns and has built or managed large-scale software using them."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "C5": {
                     "category": "Knowledge",
@@ -216,7 +216,7 @@
                         "3": "Has in-depth familiarity with various implementations of crypto and using them in a production environment. Has great knowledge of most crypto algorithms including how to use them and their costs."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 }
             }
         },
@@ -232,7 +232,7 @@
                         "3": "Has in-depth knowledge on the various types of testing and the value they add. Understands all types of testing and what is needed to make automated test suites robust enough to cover nearly every scenario and enable continuous deployment."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "T2": {
                     "category": "Behavior",
@@ -244,7 +244,7 @@
                         "3": "A champion of automated testing. Has experience writing all types of tests including unit tests and acceptance or integration tests. A proponent of high code coverage (>90%) and enforces that standard on their projects."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "T3": {
                     "category": "Skill",
@@ -256,7 +256,7 @@
                         "3": "Understands the meaning behind VCS commands and how they work. Comfortable with console or CLI. Can handle conflict resolution for any situation and recovering data when something goes wrong. Often helps others when they have a vcs-related issue."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "T4": {
                     "category": "Knowledge",
@@ -268,7 +268,7 @@
                         "3": "Has experience with multiple workflows and how they work with different team sizes. Understands the trade-offs with different development strategies and how to balance between the needs of development teams and business partners for change management. Considered an expert in this domain and helps many teams across the company improve their processes and learn optimal development and vcs processes."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "T5": {
                     "category": "Knowledge",
@@ -280,7 +280,7 @@
                         "3": "Has extensive knowledge of how to build and compile projects across the enterprise for a wide range of project types - including awareness of both unix and windows-based projects. Actively works on process improvement for simpler, faster, and more reproducible builds. An expert in the release management process - often consults and assists other teams and developers with troubleshooting."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "T6": {
                     "category": "Knowledge",
@@ -292,7 +292,7 @@
                         "3": "Has extensive knowledge of how to deploy projects across the enterprise for a wide range of project types - including awareness of both unix and windows-based projects. Actively works on process improvement for simpler, faster, and more consistent deployments. An expert in the release management process - often consults and assists other teams and developers with troubleshooting."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "T7": {
                     "category": "Knowledge",
@@ -307,7 +307,7 @@
                         "3": "Often helps define best practices and standards across the company for release management. A leading voice on the team with a focus on the shipping process - taking in requirements and delivering high quality code to clients as quickly and safely as possible. An expert of release engineering for their team and others."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "T8": {
                     "category": "Knowledge",
@@ -319,7 +319,7 @@
                         "3": "Has in-depth knowledge and experience with package managers and dependency management for multiple application ecosystems or languages. Understands the impact of relying on public systems or services for dependency management and what can be done to reduce risk of downtime for QL. Understands software licensing - both open source and proprietary - and their ramifications for software use."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 }
             }
         },
@@ -335,7 +335,7 @@
                         "3": "Has great experience with frameworks and comparing the features they provide to judge which frameworks or libraries should be used by the team's applications. Works with architects and identifies opportunities to serve the QL developer community with shared code or solve common problems across development teams."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "I2": {
                     "category": "Knowledge",
@@ -353,7 +353,7 @@
                         "3": "Understands implementation details for many authentication protocols such as NTLM, Kerberos, OAuth, OpenID Connect, and SAML. Has familiarity with authorization methods used within the company such as Authorizor and Active Directory - or has implemented their own RBAC or ACL system."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "I3": {
                     "category": "Behavior",
@@ -365,7 +365,7 @@
                         "3": "Actively maintains large libraries or modules used across the company. Has great knowledge of maintaining packages and takes developer experience into account when making changes - including following consistent versioning schemes. Likely involved in the maintenance and administration of internal package repositories."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "I4": {
                     "category": "Behavior",
@@ -380,7 +380,7 @@
                         "3": "Involved in promoting QL open-source efforts - both internally (virtual teams) and externally (has open-sourced high-quality code)."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "I5": {
                     "category": "Knowledge",
@@ -397,7 +397,7 @@
                         "3": "Understands in-depth of communication protocols and common enterprise system architecture such as service buses, queues, and event-driven architecture. Has familiarity with optimizing data transport layers through protocols and formats such as Apache Thrift, Amazon Ion, Transit, etc."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "I6": {
                     "category": "Behavior",
@@ -409,7 +409,7 @@
                         "3": "Takes care to present a thoughtful developer or client experience - such as simple APIs, pleasant documentation, and clear error messages. Has experience with or uses concepts such as API versioning, feature flags, semantic versioning in their systems or libraries to lessen change impact to consumers."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "I7": {
                     "category": "Behavior",
@@ -421,7 +421,7 @@
                         "3": "A domain expert and thought leader within a development community. Helps teams and entire communities develop standards to improve their collaboration methods."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 }
             }
         },
@@ -437,7 +437,7 @@
                         "3": "Has architected or built a significant portion of several production-quality systems from multiple categories of application."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "F2": {
                     "category": "Knowledge",
@@ -449,7 +449,7 @@
                         "3": "Has in-depth understanding of many types of databases and their strengths and weaknesses including SQL, Graph DB, Key-value, and Document-store. Has used multiple types of database backends in production systems."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "F3": {
                     "category": "Skill",
@@ -461,7 +461,7 @@
                         "3": "Defines procedure and writes documentation for set up of development environment and has in-depth knowledge of system dependencies and how to install them - including any required VMs, databases or system tools. Actively works on process improvement and knowledgeshare with others."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "F4": {
                     "category": "Knowledge",
@@ -473,7 +473,7 @@
                         "3": "Has extensive experience managing system dependencies and requirements for installing and running applications in production configuration. Understands the requirements for integrating with native system's launcher (e.g. win services, system.d, init.d, supervisor, etc) for creating robust app server setups."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "F5": {
                     "category": "Skill",
@@ -485,7 +485,7 @@
                         "3": "Writes high quality, idiomatic and tested code for multiple layers of the team's applications such as client-side javascript, backend .net, and database queries and schema. Has in-depth understanding of each layer and can dive deep when necessary."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 }
             }
         },
@@ -501,7 +501,7 @@
                         "3": "Can implement new libraries and frameworks and share that knowledge with others. Can dive deep into others' code to seek a greater understanding beyond what the documentation may provide. Uses third-party code wisely and avoids being tightly coupled to specific implementations. Knows how to analyze libraries for code quality and security."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "V2": {
                     "category": "Behavior",
@@ -513,7 +513,7 @@
                         "3": "Actively encourages an open-source culture and shared common libraries to reduce the need for rewriting code. Helps the internal community come together and increase knowledgeshare and sharing of code. Has experience with a wide range of third party libraries, SDKs, and frameworks and helps guides others looking for code solutions."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "V3": {
                     "category": "Skill",
@@ -525,7 +525,7 @@
                         "3": "Actively investigates and reviews new technology such as programming languages or services and tools such as database technologies. Can justify their use and when to make use of them within QL in an enterprise setting. Understands the ramifications of introducing a new technology within QL in a mission critical system. Has discovered, researched, and implemented a new technology within QL while satisfying NFRs and company standards for quality and security."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "V4": {
                     "category": "Behavior",
@@ -537,7 +537,7 @@
                         "3": "Leads an IT community. Works to improve developer relations and recruiting at QL. Mentors other engineers and frequently gives talks both within QL and outside of QL at conferences or meetups. Is a domain expert and makes great effort to be available to assist other developers and teams."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "V5": {
                     "category": "Behavior",
@@ -549,7 +549,7 @@
                         "3": "Has their finger on the pulse of technology and the industry. Actively stays current on all technologies in their domain including frontend, backend, database, and any other systems used by their team - even components they do not directly contribute too. Usually one of the first in the company to know about an upcoming technology and how it may be useful."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 }
             }
         },
@@ -565,7 +565,7 @@
                         "3": "Leads development for one or more large-scale extensible and modular systems. Drives best practices and engagement within their developer community for building better systems within the enterprise."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "A2": {
                     "category": "Knowledge",
@@ -577,7 +577,7 @@
                         "3": "Drives application and system design to be more resilient and less coupled to changes to upstream services. Sets best practices for inter-system communication using common protocols and industry standards for performance, security, and interoperability."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "A3": {
                     "category": "Knowledge",
@@ -592,7 +592,7 @@
                         "3": "Has in-depth knowledge on many types of system architecture and most in use within the company. Understands the impact each type of architecture has on operational concerns such as scalability, availability, consistency, backups, monitoring and logging as well as development concerns such as simplicity, flexibility, ownership, and autonomy."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "A4": {
                     "category": "Knowledge",
@@ -604,7 +604,7 @@
                         "3": "Understands data sanitization and both the requirements and limitations of data formats, storage and transport used across the enterprise. Sets standards for protecting data and pushes others to be more respectful and protective of company data."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "A5": {
                     "category": "Behavior",
@@ -619,7 +619,7 @@
                         "3": "Carefully considers the impact of changes on their codebases and the future ability to make changes to it. Brings attention to technical debt and other intangible factors that may slow development - including presenting solutions to address them and prioritizing them. Designs and writes software that is more resilient to technical debt and actively researches for new patterns and behaviors to protect against it. Often has a technical vision for their projects and plans to address internal software technical debt as well as system or integration issues."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "A6": {
                     "category": "Skill",
@@ -631,7 +631,7 @@
                         "3": "Can tailor messaging, documentation and presentations to contain the right amount of details for specific target audiences - including engineers and senior leaders. Thoughtfully considers feedback and input from all partners and collaborates with others to come to the best solution for the company."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "A7": {
                     "category": "Behavior",
@@ -643,7 +643,7 @@
                         "3": "Writes clear, thorough, and useful documentation in every facet of software development. Comments code consistently and clearly. Designs system architecture and data modeling diagrams. Authors simple upgrade and usage guidelines for users of their applications and libraries. Encourages others to document their software and processes to increase shared knowledge."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "A8": {
                     "category": "Knowledge",
@@ -662,7 +662,7 @@
                         "3": "Has deep knowledge in a specialized domain. Has experience with designing, architecting, and building software in that domain. Recognized in the company as a domain expert."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "A9": {
                     "category": "Knowledge",
@@ -674,7 +674,7 @@
                         "3": "An expert in writing efficiently scalable software. Understands scalability concerns and remedies for all layers of a traditional software stack including applications, services, and databases. Frequently measures performance of their software and improves optimization and efficiency."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 },
                 "A10": {
                     "category": "Knowledge",
@@ -686,7 +686,7 @@
                         "3": "Has in-depth knowledge and experience with distributed computing architectures and applications. Understands the benefits, trade-offs and challenges of building distributed systems in real-world scenarios."
                     },
                     "rating": "",
-                    "comment:": ""
+                    "comment": ""
                 }
             }
         }

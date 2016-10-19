@@ -1,6 +1,7 @@
-# trac
+# TRAC Surveys
 
 Temporary home for TRAC survey templates
 
-- [se-competencies.json](http://git/pages/SKluck/trac/se-competencies.json)
-- [blank-competencies.json](http://git/pages/SKluck/trac/blank-competencies.json)
+- [Core Competencies Survey](core-survey.json)
+- [Software Development Engineer Survey](se-survey.json)
+- [Sample Survey](sample-survey.json)

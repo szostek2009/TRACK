@@ -1,4 +1,5 @@
 {
-  "Core Competencies": "http://git/pages/SKluck/trac/core-survey.json",
-  "Software Engineering": "http://git/pages/SKluck/trac/se-survey.json"
+    "Core Competencies": "http://git/pages/SKluck/trac/core-survey.json",
+    "Software Engineering": "http://git/pages/SKluck/trac/se-survey.json",
+    "Sample": "http://git/pages/SKluck/trac/sample-survey.json"
 }

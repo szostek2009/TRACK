@@ -1,6 +1,7 @@
 {
     "Core Competencies": "https://git/pages/SKluck/trac/surveys/core-survey.json",
     "Software Engineering": "https://git/pages/SKluck/trac/surveys/se-survey.json",
+    "Web UI Engineering": "https://git/pages/SKluck/trac/surveys/webui-survey.json",
     "Tech U Learning Consultant": "https://git/pages/SKluck/trac/surveys/techu-learning.json",
     "Sample": "https://git/pages/SKluck/trac/surveys/sample-survey.json"
 }

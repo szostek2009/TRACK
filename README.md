@@ -22,7 +22,7 @@ This single-page application allows users to easily fill out peer or self-evalua
 
 ## Creating a survey
 
-tbd
+tbdd
 
 ## Quick links
 

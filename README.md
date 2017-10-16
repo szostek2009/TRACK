@@ -7,7 +7,7 @@ This single-page application allows users to easily fill out peer or self-evalua
 ### Features
 
 - Clean, easy to use user experience and design.
-- Surveys consist of a list of sections and specific skills or *competencies* within each section.
+- Surveys consist of a list of sections and specific asdasd or *competencies* within each section.
     - Competencies are scored from 0-3.
     - Competencies can also be marked as **I don't know** or **Not applicable** for peer reviewers.
     - Extra comments can be made on each competency to provide more context for a rating.
@@ -22,7 +22,7 @@ This single-page application allows users to easily fill out peer or self-evalua
 
 ## Creating a survey
 
-tbdd
+tbd
 
 ## Quick links
 

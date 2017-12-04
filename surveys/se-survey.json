@@ -288,7 +288,7 @@
                     "examples": {
                         "0": "Can deploy the team's applications using QL tools and systems through a GUI or app but lacks understanding of how the process works.",
                         "1": "Understands the individual commands, scripts or processes for deploying their applications.",
-                        "2": "Has an in-depth understanding of the processes run in order to deploy their team's projects to multiple environments - including both on-premise and cloud. Aware of specific QL processes or caveats for our enterprise environment including consideration of our staging environments and network conditions. Can quickly debug issues that arise anywhere in the process.",
+                        "2": "Has an in-depth understanding of the processes run in order to deploy their team's projects to multiple environments - including both on-premises and cloud. Aware of specific QL processes or caveats for our enterprise environment including consideration of our staging environments and network conditions. Can quickly debug issues that arise anywhere in the process.",
                         "3": "Has extensive knowledge of how to deploy projects across the enterprise for a wide range of project types - including awareness of both unix and windows-based projects. Actively works on process improvement for simpler, faster, and more consistent deployments. An expert in the release management process - often consults and assists other teams and developers with troubleshooting."
                     },
                     "rating": "",

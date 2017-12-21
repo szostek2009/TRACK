@@ -1,0 +1,379 @@
+{
+    "type": "Executive Assistant",
+    "version": "1.0.0-beta",
+
+    "id": "",
+    "name": "",
+    "updated": "",
+
+    "sections": {
+        "Coordination": {
+            "competencies": {
+                "C1": {
+                    "category": "Skill",
+                    "competency": "Calendering and Scheduling (meetings, rooms, agendas, itineraries)",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C2": {
+                    "category": "Skill",
+                    "competency": "Travel and Conferences (airline and lodging)",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C3": {
+                    "category": "Skill",
+                    "competency": "Events and Offsites",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C4": {
+                    "category": "Skill",
+                    "competency": "Catering",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C5": {
+                    "category": "Skill",
+                    "competency": "Space Planning / Moving and Packing",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C6": {
+                    "category": "Skill",
+                    "competency": "Presentations and Speeches",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C7": {
+                    "category": "Skill",
+                    "competency": "Virtual Teams",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C8": {
+                    "category": "Skill",
+                    "competency": "Delegation and Gate Keeping of Leaders",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Building Trust": {
+            "competencies": {
+                "T1": {
+                    "category": "Skill",
+                    "competency": " Builds strong, lasting relationships with others.",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "Performs one on one's with direct reports.  Gets to know their direct team on a personal level.",
+                        "2": "Earns trust of team members by building meaningful relationships, respecting privacy, and maintaining transparency. Creates an environment where team members trust each other.",
+                        "3": "Proactively networks and builds relationships across Technology and the business. Utilizes relationships to tie threads between Technology and the business."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T2": {
+                    "category": "Skill",
+                    "competency": " Takes ownership and is accountable for themselves and their leader.",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "Takes responsibility for the team's results by leveraging a delivery and prioritization process, and ensures coverage by their team to fit the needs of their business domain.",
+                        "2": "Has a high level of ownership and initiative on items relating to their specific business or IT domain. ",
+                        "3": "Takes the conn on tying the threads between their team and partner teams, and takes interest in the vision and performance of teams outside of their domain."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T3": {
+                    "category": "Skill",
+                    "competency": " Has noticeable and admirable presence.",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "Makes a good first impression.  Displays appropriate levels of confidence and capability. ",
+                        "2": "Uses an open and accepting physiology and tone that makes themselves approachable by others, even when extremely busy.",
+                        "3": "Maintains composure in front of the team even in very challenging situations, to help the team remain calm.  Stands up for team in times of need and shields them from noise."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T4": {
+                    "category": "Skill",
+                    "competency": "Consistently overcomes obstacles and delivers results.",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "Demonstrates a high degree of integrity by honoring commitments, and delivering timely results.",
+                        "2": "Teaches others how to overcome obstacles in order to achieve personal and team goals. ",
+                        "3": "Communicates and ties threads across business and technology teams in order to overcome obstacles, and ensures teams learn from past experiences."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T5": {
+                    "category": "Skill",
+                    "competency": "Knows the right contacts (The Focus, Vendors, restricted rooms, supplies, printing, etc)",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T6": {
+                    "category": "Skill",
+                    "competency": "Knowing business partners and what they do",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T7": {
+                    "category": "Skill",
+                    "competency": "Knowing team members and improving their experiences",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T8": {
+                    "category": "Skill",
+                    "competency": "Mentoring",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T9": {
+                    "category": "Skill",
+                    "competency": "Accoutabilibuddy",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Organization": {
+            "competencies": {
+                "O1": {
+                    "category": "Skill",
+                    "competency": " Leverages and seeks technology opportunities (reporting, Confluence, Microsoft Suite, quick learning and early adopter)",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "Provides ongoing feedback to team members, and creates actionable goals and development plans with them.",
+                        "2": "Is effective at providing tailored coaching to team members to realize their desired goals and objectives.",
+                        "3": "Has proven success by coaching team members and achieving transformational growth. Leads outside his/her role by providing coaching and direct feedback to those outside of their immediate team."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "O2": {
+                    "category": "Skill",
+                    "competency": "Action and conn follow up or notes and minutes.",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "Sets basic expectations up front, such as hours, attire, behavior, etc. Holds self accountable.",
+                        "2": "Ensures that each person on their team understands what success looks like for their role. Takes appropriate action when team members do not meet expectations or commitments.",
+                        "3": "Develops expectations for team members across teams in broader team initiatives, and ensures that everyone understands the unique role that they play."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "03": {
+                    "category": "Skill",
+                    "competency": "Researching",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "Forms a team that leverages the strength of each individual. Drives resolution to team dynamic and interpersonal conflicts.",
+                        "2": "Effectively leads teams through changes, including forming, storming, norming and performing.",
+                        "3": "Grooms a successor for their role, and grows the bench strength of our leadership team."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "04": {
+                    "category": "Skill",
+                    "competency": "Purchasing and expensing (P Cards and Maude)",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "Provides team members with the tools, knowledge, and resources they need to be successful in their current role.",
+                        "2": "Gives team members challenging work that develops their natural talents, and connects mentors and mentees. Works with team and team members to set and achieve meaningful goals.",
+                        "3": "Seeks out and provides opportunities for team members to experience performing a level up from their current role."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Communicating Effectively": {
+            "competencies": {
+                "E1": {
+                    "category": "Skill",
+                    "competency": "Takes ownership of their communication",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "Delivers messages in a timely fashion; acts with a sense of urgency.",
+                        "2": "Proactively communicates critical information to the right people, and ensures that \"message sent\" is \"message received\". Takes ownership of mistakes, and effectively leverages the three step process.",
+                        "3": "Creates environment of proactive communication within their team, and fosters ownership of communication on the individual level."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "E2": {
+                    "category": "Behavior",
+                    "competency": "Aware of the communication needs of others",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "Selects the appropriate delivery method, and is effective at crafting a message.",
+                        "2": "Recognizes how words, tone and physiology impacts results then adapts accordingly.",
+                        "3": "Ensures team members are effective at selecting the right delivery method, and crafting a message."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "E3": {
+                    "category": "Skill",
+                    "competency": " Clear and concise communicator",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "Uses basic communication skills (physiology, tone, and words) to effectively deliver a message.",
+                        "2": "Clearly communicates expectations with both the team and individual Team Members.",
+                        "3": "Ensures that there is clear visibility into the team's commitments for all interested parties, and that team members are communicating in a \"gump\" fashion."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "E4": {
+                    "category": "Behavior",
+                    "competency": "Voice of the Leader",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "E5": {
+                    "category": "Behavior",
+                    "competency": "Discretion and confidentiality",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "",
+                        "2": "",
+                        "3": ""
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Strategic Thinking": {
+            "competencies": {
+                "S1": {
+                    "category": "Behavior",
+                    "competency": "Plans Strategically (including time management)",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "Ensures team backlog is groomed, prioritized, and is ready to be worked on at the beginning of each sprint.",
+                        "2": "Drives quarterly planning and work break down sessions to prepare their team for future business and technology initiatives.",
+                        "3": "Ensures that the team has a road map that makes it clear where they're going well into the future."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "S2": {
+                    "category": "Behavior",
+                    "competency": "Adapts to Change",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "Demonstrates to the team that change is good by being open and flexible.",
+                        "2": "Leads team through problem solving when road blocks exist. Provides a framework enabling team members to make effective and timely decisions.",
+                        "3": "Can shift priorities to adapt to variable needs from our business, clients, other teams, and the business market."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "S3": {
+                    "category": "Behavior",
+                    "competency": "Effective Decision Maker",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency",
+                        "1": "Understands the business, technology, and clients of the team well enough to make decisions that impact the company.",
+                        "2": "Understands where their business and IT as a whole is going and makes decisions based on an aligned vision and roadmap.",
+                        "3": "Knows how their team and systems impact partner teams, other systems, and the FOC. Leverages both IFR and VFR to measure performance and make decisions."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        }
+    }
+}

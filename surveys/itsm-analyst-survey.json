@@ -1,0 +1,89 @@
+{
+  "version": "1.0.0",
+  "type": "ITSM Analyst",
+  "id": "",
+  "name": "",
+  "updated": "",
+  "sections": {
+    "Defines ITIL Tools and Processes": {
+      "competencies": {
+        "": {
+          "category": "Skill",
+          "competency": "Promotes change and gains adoption on new processes",
+          "examples": {
+            "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+            "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+            "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+            "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Delivers team/product level problem, incident, configuration management (CM) and change metrics": {
+      "competencies": {
+        "": {
+          "category": "Skill",
+          "competency": "Seeks efficiency opportunities in reporting through automation",
+          "examples": {
+            "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+            "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+            "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+            "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Analyze problem, incident, CM and change data for process improvement": {
+      "competencies": {
+        "": {
+          "category": "Skill",
+          "competency": "",
+          "examples": {
+            "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+            "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+            "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+            "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Performs outage research and facilitates activities related to root cause analysis": {
+      "competencies": {
+        "": {
+          "category": "Skill",
+          "competency": "Drives the completion of action items and follow up related to deep dive results in the supported area",
+          "examples": {
+            "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+            "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+            "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+            "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Promotes value of ITIL processes across IT": {
+      "competencies": {
+        "": {
+          "category": "Skill",
+          "competency": "Takes part in or drives strategic IT Insights epics to level up the entire Insights service management team",
+          "examples": {
+            "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+            "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+            "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+            "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    }
+  }
+}

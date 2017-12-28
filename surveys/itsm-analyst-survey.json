@@ -5,9 +5,9 @@
   "name": "",
   "updated": "",
   "sections": {
-    "Defines ITIL Tools and Processes": {
+    "Skills": {
       "competencies": {
-        "": {
+        "Defines ITIL Tools and Processes": {
           "category": "Skill",
           "competency": "Promotes change and gains adoption on new processes",
           "examples": {
@@ -18,12 +18,8 @@
           },
           "rating": "",
           "comment": ""
-        }
-      }
-    },
-    "Delivers team/product level problem, incident, configuration management (CM) and change metrics": {
-      "competencies": {
-        "": {
+        },
+        "Delivers team/product level problem, incident, configuration management (CM) and change metrics": {
           "category": "Skill",
           "competency": "Seeks efficiency opportunities in reporting through automation",
           "examples": {
@@ -34,12 +30,8 @@
           },
           "rating": "",
           "comment": ""
-        }
-      }
-    },
-    "Analyze problem, incident, CM and change data for process improvement": {
-      "competencies": {
-        "": {
+        },
+        "Analyze problem, incident, CM and change data for process improvement": {
           "category": "Skill",
           "competency": "",
           "examples": {
@@ -50,12 +42,8 @@
           },
           "rating": "",
           "comment": ""
-        }
-      }
-    },
-    "Performs outage research and facilitates activities related to root cause analysis": {
-      "competencies": {
-        "": {
+        },
+        "Performs outage research and facilitates activities related to root cause analysis": {
           "category": "Skill",
           "competency": "Drives the completion of action items and follow up related to deep dive results in the supported area",
           "examples": {
@@ -66,12 +54,8 @@
           },
           "rating": "",
           "comment": ""
-        }
-      }
-    },
-    "Promotes value of ITIL processes across IT": {
-      "competencies": {
-        "": {
+        },
+        "Promotes value of ITIL processes across IT": {
           "category": "Skill",
           "competency": "Takes part in or drives strategic IT Insights epics to level up the entire Insights service management team",
           "examples": {

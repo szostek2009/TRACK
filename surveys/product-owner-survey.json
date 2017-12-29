@@ -69,7 +69,7 @@
         },
         "PV6": {
           "category": "Skill",
-          "competency": "Can explain why we're building the product, what problem it will solve, and for who\t",
+          "competency": "Can explain why we're building the product, what problem it will solve, and for who",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -93,7 +93,7 @@
         },
         "PV8": {
           "category": "Skill",
-          "competency": "Exhibits 'system thinking' and can clearly articulate the big picture in which the product lives\t",
+          "competency": "Exhibits 'system thinking' and can clearly articulate the big picture in which the product lives",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -145,7 +145,7 @@
         },
         "BK3": {
           "category": "Skill",
-          "competency": "Establishes effective working relationship with business partners\t",
+          "competency": "Establishes effective working relationship with business partners",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -157,7 +157,7 @@
         },
         "BK4": {
           "category": "Skill",
-          "competency": "Understands business processes and systems, application/system work flows, user scenarios, and data needs\t",
+          "competency": "Understands business processes and systems, application/system work flows, user scenarios, and data needs",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -169,7 +169,7 @@
         },
         "BK5": {
           "category": "Skill",
-          "competency": "Understands the technical capabilities and limitations of the underlying technology that forms the product\t",
+          "competency": "Understands the technical capabilities and limitations of the underlying technology that forms the product",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -181,7 +181,7 @@
         },
         "BK6": {
           "category": "Skill",
-          "competency": "Understands and can explain basic agile development principles\t",
+          "competency": "Understands and can explain basic agile development principles",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -193,7 +193,7 @@
         },
         "BK7": {
           "category": "Skill",
-          "competency": "Understands and can help guide a team that leverages Scrum, Kanban, or XP agile development methodologies\t",
+          "competency": "Understands and can help guide a team that leverages Scrum, Kanban, or XP agile development methodologies",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -221,7 +221,7 @@
         },
         "B2": {
           "category": "Skill",
-          "competency": "Drives backlog refinement (i.e. grooming) ceremony once a sprint, so that stories are effectively prioritized and prepped for the development team with clear acceptance criteria\t",
+          "competency": "Drives backlog refinement (i.e. grooming) ceremony once a sprint, so that stories are effectively prioritized and prepped for the development team with clear acceptance criteria",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -245,7 +245,7 @@
         },
         "B4": {
           "category": "Skill",
-          "competency": "Writes user stories with clear, testable acceptance criteria, mapped to features\t",
+          "competency": "Writes user stories with clear, testable acceptance criteria, mapped to features",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -257,7 +257,7 @@
         },
         "B5": {
           "category": "Skill",
-          "competency": "Decides the priority of stories\t",
+          "competency": "Decides the priority of stories",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -269,7 +269,7 @@
         },
         "B6": {
           "category": "Skill",
-          "competency": "Ensures feature acceptance criteria is fully covered by all stories that map to a feature\t",
+          "competency": "Ensures feature acceptance criteria is fully covered by all stories that map to a feature",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -293,7 +293,7 @@
         },
         "B8": {
           "category": "Skill",
-          "competency": "Participates in team stand up ceremonies\t",
+          "competency": "Participates in team stand up ceremonies",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -305,7 +305,7 @@
         },
         "B9": {
           "category": "Skill",
-          "competency": "Participates in the sprint retrospective ceremony once a sprint\t",
+          "competency": "Participates in the sprint retrospective ceremony once a sprint",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -317,7 +317,7 @@
         },
         "B10": {
           "category": "Skill",
-          "competency": "Organizes and drives the show and tell ceremony once a sprint\t",
+          "competency": "Organizes and drives the show and tell ceremony once a sprint",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -329,7 +329,7 @@
         },
         "B11": {
           "category": "Skill",
-          "competency": "Ensures the team has a clear and well-understood release plan, at the story level, for each release\t",
+          "competency": "Ensures the team has a clear and well-understood release plan, at the story level, for each release",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -341,7 +341,7 @@
         },
         "B12": {
           "category": "Skill",
-          "competency": "When a story has been completed by the development team, ensures acceptance criteria has been met\t",
+          "competency": "When a story has been completed by the development team, ensures acceptance criteria has been met",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -353,7 +353,7 @@
         },
         "B13": {
           "category": "Skill",
-          "competency": "Ensures development team backlog is fully refined and prioritized for current and next sprint\t",
+          "competency": "Ensures development team backlog is fully refined and prioritized for current and next sprint",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -365,7 +365,7 @@
         },
         "B14": {
           "category": "Skill",
-          "competency": "Ensures an appropriate balance of features, bugs and technical debt in each sprint and release\t",
+          "competency": "Ensures an appropriate balance of features, bugs and technical debt in each sprint and release",
           "examples": {
             "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
             "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",

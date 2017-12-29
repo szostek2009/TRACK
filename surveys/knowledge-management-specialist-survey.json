@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "type": "Knowledge Management Specialist ",
+  "type": "Knowledge Management Specialist",
   "id": "",
   "name": "",
   "updated": "",
@@ -229,7 +229,7 @@
         }
       }
     },
-    "Usability\t": {
+    "Usability": {
       "competencies": {
         "U1": {
           "category": "Behavior",

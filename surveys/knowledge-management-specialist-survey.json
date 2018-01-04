@@ -1,277 +1,281 @@
 {
-  "version": "1.0.0",
-  "type": "Knowledge Management Specialist",
-  "id": "",
-  "name": "",
-  "updated": "",
-  "sections": {
-    "Audience": {
-      "competencies": {
-        "A1": {
-          "category": "Skill",
-          "competency": "Seeks to understand the needs of the intended audience when creating KM tools. Validates that the KM tools created meet the intended audience's needs throughout the development life cycle. For example, they spend time in the audience's workspace regularly throughout development to gain perspective.",
-          "examples": {
-            "0": "0 - Works with experienced team members to understand the value of identifying needs and validating usefulness throughout the development life cycle.",
-            "1": "Asks about the audience's needs during the initial discussions with stakeholders. Validates the tool's usefulness for the audience with peers only, rather than with the audience.",
-            "2": "Digs deeply with stakeholders to identify the audience's background and needs during the initial project discussions. Validates the tool's usefulness for the audience with stakeholders and peers only, rather than with the audience.",
-            "3": "Digs deeply with stakeholders and the audience to identify the audience's background, existing knowledge, and needs during the initial project discussions and throughout the development life cycle. Validates the tool's usefulness for the audience with stakeholders, peers, and all audiences. Drives team project initiatives around audience validation. Regularly seeks feedback from the audience throughout the development life cycle (i.e., before, during, and after rollout)."
-          },
-          "rating": "",
-          "comment": ""
+    "_comment": "https://confluence/display/TRAC/Knowledge+Management+Specialist",
+
+    "type": "Knowledge Management Specialist",
+    "version": "1.0.0",
+
+    "id": "",
+    "name": "",
+    "updated": "",
+
+    "sections": {
+        "Audience": {
+            "competencies": {
+                "A1": {
+                    "category": "Skill",
+                    "competency": "Seeks to understand the needs of the intended audience when creating KM tools. Validates that the KM tools created meet the intended audience's needs throughout the development life cycle. For example, they spend time in the audience's workspace regularly throughout development to gain perspective.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand the value of identifying needs and validating usefulness throughout the development life cycle.",
+                        "1": "Asks about the audience's needs during the initial discussions with stakeholders. Validates the tool's usefulness for the audience with peers only, rather than with the audience.",
+                        "2": "Digs deeply with stakeholders to identify the audience's background and needs during the initial project discussions. Validates the tool's usefulness for the audience with stakeholders and peers only, rather than with the audience.",
+                        "3": "Digs deeply with stakeholders and the audience to identify the audience's background, existing knowledge, and needs during the initial project discussions and throughout the development life cycle. Validates the tool's usefulness for the audience with stakeholders, peers, and all audiences. Drives team project initiatives around audience validation. Regularly seeks feedback from the audience throughout the development life cycle (i.e., before, during, and after rollout)."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Collaboration": {
+            "competencies": {
+                "C1": {
+                    "category": "Knowledge",
+                    "competency": "Knowledgeable about various life cycles used for content and software development (e.g., DDLC and SDLC).",
+                    "examples": {
+                        "0": "Works with experienced team members to understand the industry standard life cycles.",
+                        "1": "Understands the industry standard life cycles.",
+                        "2": "Understands the industry standard life cycles and how they are applied within Technology.",
+                        "3": "Has extensive knowledge about industry standards and how they are applied within Technology.  Regularly seeks opportunities to improve the way our teams implement life cycles."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C2": {
+                    "category": "Skill",
+                    "competency": "Incorporates agile practices and priorities into their own work and the team's work. These practices and priorities include working iteratively, failing fast, stakeholder collaboration over scope negotiation, and responding to change over following a plan.",
+                    "examples": {
+                        "0": "Attends standups and other agile ceremonies. Works iteratively when asked to do so.",
+                        "1": "Prioritizes working iteratively and accommodating changing needs, over adherence to ceremonies.",
+                        "2": "When asked, shares knowledge with teammates about working iteratively and accommodating changing needs, over adherence to ceremonies.",
+                        "3": "Regularly seeks opportunities to share knowledge with teammates about working iteratively and accommodating changing needs, over adherence to ceremonies.  Drives team project initiatives around working iteratively, failing fast, stakeholder collaboration over scope negotiation, and responding to change over following a plan. "
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C3": {
+                    "category": "Behavior",
+                    "competency": "Communicates regularly and clearly with stakeholders about project expectations, deadlines, statuses, and feedback.",
+                    "examples": {
+                        "0": "Provides updates to stakeholders when requested.",
+                        "1": "Provides updates to stakeholders less than every two weeks throughout the project and requests feedback.",
+                        "2": "At the project inception, sets clear expectations with the stakeholders about communication time frames and needs.    Provides updates to stakeholders, and requests feedback from stakeholders at a regular cadence more often than every two weeks throughout the project.",
+                        "3": "At the project inception, sets clear expectations with the stakeholders about communication time frames and needs.  Allows no more than a couple of business days to go by without communicating with stakeholders. Regularly seeks opportunities to share knowledge with teammates about stakeholder communication. Drives team project initiatives around stakeholder communication.   Throughout the project, provides stakeholders with updates about progress and requests feedback at a regular cadence."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C4": {
+                    "category": "Behavior",
+                    "competency": "Works closely with other technical communication team members (e.g., Holocron, Content Strategy, Digital Asset Management (DAM), Tech U, Technical Writers, and KM Specialists) to improve content creation, storage, maintenance, and sharing.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand other technical communication roles. Works with experienced team members to understand options for content creation, storage, maintenance, and sharing within QL Technology. Works to develop relationships with other technical communication team members.",
+                        "1": "When opportunities are observed within QL Technology, works with experienced team members and other technical communication team members to improve options for content creation, storage, maintenance, and sharing. Has established relationships with other technical communication-focused team members.",
+                        "2": "When opportunities are observed within QL Technology, collaborates with other technical communication team members to improve options for content creation, storage, maintenance, and sharing. When requested, provides their own input and expertise to other technical communication team members to improve knowledge sharing across the FOC. Maintains collaborative relationships with other technical communication-focused team members.",
+                        "3": "Regularly seeks opportunities to collaborate with other technical communication team members to improve content creation, storage, maintenance, and sharing across the FOC. Provides input and expertise to other technical communication team members to improve knowledge sharing. Maintains collaborative relationships with other technical communication-focused team members.  Drives team project initiatives around collaboration with other technical communication roles in the FOC to improve knowledge sharing."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Tools": {
+            "competencies": {
+                "T1": {
+                    "category": "Behavior",
+                    "competency": "Works with other Technology teams to build knowledge repositories that systematically capture, organize, and categorize knowledge-based information. Connects Technology team members with information and expertise via online searchable libraries.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand the techniques that are used to build repositories.",
+                        "1": "Meets with stakeholders and experienced team members to identify client needs.  Works to build portions of the repository with oversight from experienced team members.",
+                        "2": "Meets with stakeholders to identify client needs, and works independently to build portions of the repository. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that knowledge repositories comply with established QL Technology KM standards.",
+                        "3": "Meets with stakeholders to identify client needs, and works independently to build portions of the repository. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that knowledge repositories comply with established QL Technology KM standards. Regularly looks for opportunities to implement new knowledge repositories, and to enhance those that exist. Drives team project initiatives around building repositories"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T2": {
+                    "category": "Behavior",
+                    "competency": "Works with other Technology teams to build workflows for vetting and maintaining knowledge in knowledge repositories.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand the techniques that are used to build workflows.",
+                        "1": "Meets with stakeholders and experienced team members to identify client needs.  Works to build portions of the repository with oversight from experienced team members.",
+                        "2": "Meets with stakeholders to identify client needs, and works independently to build portions of the repository. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that knowledge repositories comply with established QL Technology KM standards.",
+                        "3": "Meets with stakeholders to identify client needs, and works independently to build portions of the repository. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that knowledge repositories comply with established QL Technology KM standards. Regularly looks for opportunities to implement new knowledge repositories, and to enhance those that exist. Drives team project initiatives around building repositories"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T3": {
+                    "category": "Skill",
+                    "competency": "Works with other Technology teams to create and maintain taxonomies for knowledge repositories. Utilizes taxonomies to encourage knowledge sharing, maintenance, and finding.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand the techniques that are used to build workflows.",
+                        "1": "Meets with stakeholders and experienced team members to identify client needs Works to build or enhance portions of the workflows with oversight from experienced team members.",
+                        "2": "Meets with stakeholders to identify client needs. Works independently to build or enhance portions of the workflow. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that workflows comply with established QL Technology KM and technical writing standards.",
+                        "3": "Meets with stakeholders to identify client needs  Works independently to build or enhance portions of the workflow. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that workflows comply with established QL Technology KM and technical writing standards. Regularly looks for opportunities to implement new workflows, and to enhance those that exist. Drives team project initiatives around building workflows."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T4": {
+                    "category": "Skill",
+                    "competency": "Actively seeks proficiency (either as an admin or a power-user) with all knowledge-sharing platforms used by QL Technology.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand the techniques that are used to build and maintain taxonomies.",
+                        "1": "Meets with stakeholders and experienced team members to identify client needs. Works to build or enhance portions of the taxonomy with oversight from experienced team members.",
+                        "2": "Meets with stakeholders to identify client needs. Works independently to build or enhance portions of the taxonomy. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that taxonomies comply with established QL Technology KM standards.",
+                        "3": "Meets with stakeholders to identify client needs.  Works independently to build or enhance portions of the taxonomy. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that taxonomies comply with established QL Technology KM standards. Works across teams to ensure that taxonomies are compatible and avoid confusion. Regularly looks for opportunities to implement new taxonomies, and to enhance those that exist. Drives team project initiatives around building taxonomies."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T5": {
+                    "category": "Knowledge",
+                    "competency": "Able to make useful knowledge-sharing recommendations based on the relative merits of each knowledge platform.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand knowledge-sharing platforms.",
+                        "1": "Works with experienced team members and platform support teams to understand how Technology uses knowledge-sharing platforms, both for knowledge-sharing and knowledge-seeking.",
+                        "2": "Works with platform support teams to understand how Technology uses knowledge-sharing platforms, both for knowledge-sharing and knowledge-seeking. Identifies best practices for using the platforms. Is considered an experienced user.",
+                        "3": "Works with platform support teams to understand how Technology uses knowledge-sharing platforms, both for knowledge-sharing and knowledge-seeking. Identifies best practices for using the platforms, and regularly encourages team members to use them. Is considered an expert user. Drives team project initiatives around knowledge platform education."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T6": {
+                    "category": "Skill",
+                    "competency": "Ensures that QL Technology KM processes, procedures, taxonomies, workflows, and repositories meet established QL Technology KM standards, regardless of the platform.",
+                    "examples": {
+                        "0": "Works with experienced team members and platform support teams to understand the merits of each platform.",
+                        "1": "Understands the merits of the most popular knowledge-sharing platforms used by Technology. Discusses them with their teammates.",
+                        "2": "Understands the merits of the most popular knowledge-sharing platforms used by Technology. Makes recommendations to teammates and stakeholders about the right platform for the audiences and information to be shared/stored.",
+                        "3": "Understands the merits of all knowledge-sharing platforms used by Technology. Makes recommendations to teammates and stakeholders about the right platform for the audiences and information to be shared/stored. Drives team project initiatives around knowledge platform recommendations."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T7": {
+                    "category": "Skill",
+                    "competency": "Builds knowledge-sharing processes and tools in compliance with QL Information Security standards.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand current standards for KM. Discusses internally with the team the impact that standards have on processes, procedures, taxonomies, workflows, tools, repositories, and platforms.",
+                        "1": "Understands some current QL Technology standards for KM. When building processes, procedures, taxonomies, workflows, and repositories, works with experienced team members to ensure that they adhere to established standards.",
+                        "2": "Understands all current QL Technology standards for KM. When building processes, procedures, taxonomies, workflows, and repositories, ensures that they adhere to established standards. When asked, guides other team members on implementing KM standards.",
+                        "3": "Understands all current QL Technology standards for KM. When building processes, procedures, taxonomies, workflows, and repositories, ensures that they adhere to established standards. Teaches other team members how to implement KM standards. Regularly seeks opportunities to improve KM standard adherence. Drives team initiatives around applying KM standards to processes, procedures, taxonomies, workflows, and repositories."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Culture": {
+            "competencies": {
+                "C1": {
+                    "category": "Behavior",
+                    "competency": "Works with other Technology teams to eliminate and prevent duplicate content.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand how and why duplicate content is created and can be prevented.",
+                        "1": "Understands how and why duplicate content is created and can be prevented. Works with experienced team members to identify duplicate content. Works with content owner(s) and experienced team members to eliminate duplicate content, and create a single source of truth.",
+                        "2": "Understands how and why duplicate content is created and can be prevented. Works to identify duplicate content. Works with content owner(s) to eliminate duplicate content, and create a single source of truth. Builds processes using techniques that discourage content duplication.",
+                        "3": "Understands how and why duplicate content is created and can be prevented. Is always on the lookout for potential duplicate content and practices that can create it. Works with content owner(s) to eliminate duplicate content, and create a single source of truth. Builds processes using techniques that discourage or prevent content duplication. Shares knowledge with other Technology team members about duplicate content prevention techniques. Drives team project initiatives around identifying, eliminating, and preventing duplicate content."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C2": {
+                    "category": "Behavior",
+                    "competency": "Fosters a knowledge-sharing culture within Technology.",
+                    "examples": {
+                        "0": "Has internal team discussions about what a knowledge-sharing culture looks like, and some techniques to encourage it.",
+                        "1": "Has internal team discussions about what a knowledge-sharing culture looks like. Shares knowledge about techniques for encouraging a knowledge-sharing culture. Recognizes ineffective practices",
+                        "2": "When requested, helps teams improve their practices to encourage a knowledge-sharing culture. Provides guidance to Technology team members when observing ineffective practices. Uses ISMs and proven results to motivate teams to use the QL Technology KM tools, practices, and standards that are put in place.",
+                        "3": "Regularly seeks opportunities to help teams improve their practices to encourage a knowledge-sharing culture. Provides guidance to Technology team members when observing ineffective practices. Uses ISMs and proven results to motivate teams to use the KM tools, practices, and standards that are put in place. Drives team project initiatives around creating a knowledge-sharing culture."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C3": {
+                    "category": "Skill",
+                    "competency": "As much as the knowledge platform allows, makes content maintenance easy for Technology team members. They do this by building knowledge repositories with feedback and editing options, and flexible processes and workflows.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand the importance and impact of content feedback. Works with experienced team members and platform support teams to understand the functionality within platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). Works with experienced team members to understand how to research content owners and editing history using metadata.",
+                        "1": "Understands the importance and impact of content feedback. When asked, encourages a culture of personal responsibility toward content improvement using feedback and editing options. Understands feedback and editing functionality within popular knowledge platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). When asked, shares knowledge with team members about how to research content owners and editing history using metadata.",
+                        "2": "Understands the importance and impact of content feedback. Encourages a culture of personal responsibility toward content improvement using feedback and editing options. Understands feedback and editing functionality within all knowledge platforms. This includes options that available to users, and to admins (even if they do not have admin-level access). When requested, helps improve content and process/workflow maintenance within knowledge repositories. Ensures that feedback and editing options within platforms are useful for content owners, and promotes their use. Builds tools that do not require platform admin intervention to modify metadata.",
+                        "3": "Understands the importance and impact of content feedback. Encourages a culture of personal responsibility toward content improvement using feedback and editing options. Understands feedback and editing functionality within all knowledge platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). Regularly seeks opportunities to improve content and process/workflow maintenance within knowledge repositories. Ensures that feedback and editing options within platforms are useful for content owners, and promotes their use. Builds repositories and processes that allow easy (non-admin) access to view and modify content metadata such as content owner, last updated by, and last update date/time. Drives team project initiatives around content maintenance and metadata."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C4": {
+                    "category": "Behavior",
+                    "competency": "Works with other Technology teams to establish and maintain KM standards for QL Technology.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand current QL Technology standards for KM. Discusses their benefits and challenges internally with the team.",
+                        "1": "Understands current standards for QL Technology KM. When asked, works with other Technology teams and leadership to establish and communicate standards with team members. Asks leaders to hold teams accountable when standards are not adhered to. When asked, shares knowledge with team members about the benefits of having and using standards. Works with experienced team members to modify or enhance standards to meet evolving needs.",
+                        "2": "Understands current QL Technology standards for KM. Works with other Technology teams and leadership to establish and communicate standards with team members. Asks leaders to hold teams accountable when standards are not adhered to. Shares knowledge with team members about the benefits of having and using standards. When asked, modifies or enhances standards to meet evolving needs.",
+                        "3": "Understands current standards for QL Technology KM. Regularly looks for situations where implementing standards would be helpful to team members. Works with other Technology teams and leadership to establish and communicate standards with team members. Holds teams accountable when standards are not adhered to. Shares knowledge with team members about the benefits of having and using standards. Regularly seeks opportunities to modify or enhance standards to meet evolving needs. Drives team initiatives around creating and enhancing standards."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Growth": {
+            "competencies": {
+                "G1": {
+                    "category": "Knowledge",
+                    "competency": "Seeks internal and external resources for information that will improve knowledge management within QL Technology such as techniques, processes, and tools.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand internal and external resources for information.",
+                        "1": "When asked, reviews industry resources and SME websites and books. Discusses new techniques with the team.",
+                        "2": "Regularly reviews industry resources and SME websites and books. Presents recommendations to the team about ways the team can improve their work using new techniques. Ensures that new techniques drive future-proofing of solutions. ",
+                        "3": "Regularly reviews industry resources and SME websites and books.  Expert-level knowledge of FinTech industry-related knowledge management best practices.  Presents recommendations to the team about ways that they can improve their work using new techniques. Fully researches the benefits of using a new technique before making the recommendation. Ensures that new techniques drive future-proofing of solutions. Drives team initiatives around implementing new techniques, process, and tools."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Usability": {
+            "competencies": {
+                "U1": {
+                    "category": "Behavior",
+                    "competency": "Works with other Technology teams to improve team members' search experience on our knowledge platforms such as Office 365, SharePoint, Confluence, and the I Drive when they are seeking information.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand the current user experience when searching for information. Works with experienced team members and platform support teams to understand search functionality within the different platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). Works with experienced team members to understand how to provide feedback for improvement.",
+                        "1": "Understands the importance and impact of search experiences. When asked, encourages a culture of personal responsibility toward search improvement using options such as providing feedback and completing metadata. Understands search functionality within popular knowledge platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). When asked, shows team members the best methods to use when searching for information.",
+                        "2": "Understands the importance and impact of search experiences. Encourages a culture of personal responsibility toward search improvement using options such as providing feedback and completing metadata. Understands search functionality within popular knowledge platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). Shows team members the best methods to use when searching for information. Ensures that feedback options are easy to use and useful for content owners and content seekers.",
+                        "3": "Understands the importance and impact of search experiences. Encourages a culture of personal responsibility toward search improvement using options such as providing feedback and completing metadata. Understands search functionality within all knowledge platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). Shows team members the best methods to use when searching for information. Ensures that feedback options are easy to use and helpful for content owners and content seekers. Regularly seeks opportunities to improve the search experience within knowledge repositories. Drives team initiatives around improving the search experience for our team members. "
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "U2": {
+                    "category": "Behavior",
+                    "competency": "Seeks to understand the challenge to be solved when creating tools, and focuses on solving that quickly using Minimum Viable Product (MVP) solutions, without increasing scope.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand the current team member experience using various methods of sharing information. Works with experienced team members and platform support teams to understand knowledge-sharing functionality within the different platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). Works with experienced team members to understand how to provide feedback for improvement.",
+                        "1": "Understands the importance and impact of knowledge-sharing experiences. When asked, encourages a culture of personal responsibility toward knowledge-sharing improvement using options such as providing feedback and completing metadata. Understands knowledge-sharing functionality within popular knowledge platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). When asked, shows team members the best methods to use when sharing information.",
+                        "2": "Understands the importance and impact of knowledge-sharing experiences. Encourages a culture of personal responsibility toward knowledge-sharing improvement using options such as providing feedback and completing metadata. When asked, shows team members the best methods to use when sharing information. Ensures that feedback options are easy to use and useful for content owners and content seekers. Understands knowledge-sharing functionality within popular knowledge platforms. This includes options available to users, and to admins (even if they do not have admin-level access) When asked, and functionality is available, configures knowledge platforms to improve the knowledge-sharing experience.",
+                        "3": "Understands the importance and impact of knowledge-sharing experiences. Encourages a culture of personal responsibility toward knowledge-sharing improvement using options such as providing feedback and completing metadata. Shows team members the best methods to use when sharing information. Ensures that feedback options are easy to use and useful for content owners and content seekers. Understands knowledge-sharing functionality within all knowledge platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). Regularly seeks opportunities to improve the knowledge-sharing experience within knowledge repositories. When functionality is available, configures knowledge platforms to improve the knowledge-sharing experience. Drives team initiatives around improving knowledge-sharing."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Simplicity": {
+            "competencies": {
+                "S1": {
+                    "category": "Skill",
+                    "competency": "Seeks to understand the challenge to be solved when creating tools, and focuses on solving that quickly using Minimum Viable Product (MVP) solutions, without increasing scope.",
+                    "examples": {
+                        "0": "Works with experienced team members to understand the value of creating MVP solutions.",
+                        "1": "Requests solutions from the stakeholder(s), produces those solutions, then presents them to the stakeholder(s) (i.e., they act as an order taker). Solution is overly complex or includes unnecessary content. When a stakeholder changes or adds to the scope of work, it is incorporated without discussing the value, feasibility, and additional time/risk that may be involved.",
+                        "2": "Works with the stakeholder(s) to fully understand the challenge to be solved. Uses their teammates' expertise to help design creative MVP solutions, and presents them to the stakeholder(s) as recommendations. Works iteratively with the stakeholder(s) to create solutions and regularly gathers and incorporates their feedback. When a stakeholder changes or adds to the scope of work, the value, feasibility, and additional time/risk involved are discussed with the stakeholder(s) and when not critical, are reserved for future work.",
+                        "3": "Works with the stakeholder(s) to fully understand the challenge to be solved. Uses their own expertise to help design creative MVP solutions and presents them to the stakeholder(s) as recommendations. Works iteratively with the stakeholder(s) to create solutions and regularly gathers and incorporates their feedback. When a stakeholder changes or adds to the scope of work, the value, feasibility, and additional time/risk involved are discussed with the stakeholder(s) and when not critical, are reserved for future work. Drives team project initiatives around requirements gathering and designing MVP solutions."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
         }
-      }
-    },
-    "Collaboration": {
-      "competencies": {
-        "C1": {
-          "category": "Knowledge",
-          "competency": "Knowledgeable about various life cycles used for content and software development (e.g., DDLC and SDLC).",
-          "examples": {
-            "0": "0 - Works with experienced team members to understand the industry standard life cycles.",
-            "1": "1 - Understands the industry standard life cycles.",
-            "2": "2 - Understands the industry standard life cycles and how they are applied within Technology.",
-            "3": "Has extensive knowledge about industry standards and how they are applied within Technology.  Regularly seeks opportunities to improve the way our teams implement life cycles."
-          },
-          "rating": "",
-          "comment": ""
-        },
-        "C2": {
-          "category": "Skill",
-          "competency": "Incorporates agile practices and priorities into their own work and the team's work. These practices and priorities include working iteratively, failing fast, stakeholder collaboration over scope negotiation, and responding to change over following a plan.",
-          "examples": {
-            "0": "0 - Attends standups and other agile ceremonies. Works iteratively when asked to do so.",
-            "1": "1 - Prioritizes working iteratively and accommodating changing needs, over adherence to ceremonies.",
-            "2": "2 - When asked, shares knowledge with teammates about working iteratively and accommodating changing needs, over adherence to ceremonies.",
-            "3": "Regularly seeks opportunities to share knowledge with teammates about working iteratively and accommodating changing needs, over adherence to ceremonies.  Drives team project initiatives around working iteratively, failing fast, stakeholder collaboration over scope negotiation, and responding to change over following a plan. "
-          },
-          "rating": "",
-          "comment": ""
-        },
-        "C3": {
-          "category": "Behavior",
-          "competency": "Communicates regularly and clearly with stakeholders about project expectations, deadlines, statuses, and feedback.",
-          "examples": {
-            "0": "0 - Provides updates to stakeholders when requested.",
-            "1": "1 - Provides updates to stakeholders less than every two weeks throughout the project and requests feedback.",
-            "2": "At the project inception, sets clear expectations with the stakeholders about communication time frames and needs.    Provides updates to stakeholders, and requests feedback from stakeholders at a regular cadence more often than every two weeks throughout the project.",
-            "3": "At the project inception, sets clear expectations with the stakeholders about communication time frames and needs.  Allows no more than a couple of business days to go by without communicating with stakeholders. Regularly seeks opportunities to share knowledge with teammates about stakeholder communication. Drives team project initiatives around stakeholder communication.   Throughout the project, provides stakeholders with updates about progress and requests feedback at a regular cadence."
-          },
-          "rating": "",
-          "comment": ""
-        },
-        "C4": {
-          "category": "Behavior",
-          "competency": "Works closely with other technical communication team members (e.g., Holocron, Content Strategy, Digital Asset Management (DAM), Tech U, Technical Writers, and KM Specialists) to improve content creation, storage, maintenance, and sharing.",
-          "examples": {
-            "0": "Works with experienced team members to understand other technical communication roles. Works with experienced team members to understand options for content creation, storage, maintenance, and sharing within QL Technology. Works to develop relationships with other technical communication team members.",
-            "1": "When opportunities are observed within QL Technology, works with experienced team members and other technical communication team members to improve options for content creation, storage, maintenance, and sharing. Has established relationships with other technical communication-focused team members.",
-            "2": "When opportunities are observed within QL Technology, collaborates with other technical communication team members to improve options for content creation, storage, maintenance, and sharing. When requested, provides their own input and expertise to other technical communication team members to improve knowledge sharing across the FOC. Maintains collaborative relationships with other technical communication-focused team members.",
-            "3": "Regularly seeks opportunities to collaborate with other technical communication team members to improve content creation, storage, maintenance, and sharing across the FOC. Provides input and expertise to other technical communication team members to improve knowledge sharing. Maintains collaborative relationships with other technical communication-focused team members.  Drives team project initiatives around collaboration with other technical communication roles in the FOC to improve knowledge sharing."
-          },
-          "rating": "",
-          "comment": ""
-        }
-      }
-    },
-    "Tools": {
-      "competencies": {
-        "T1": {
-          "category": "Behavior",
-          "competency": "Works with other Technology teams to build knowledge repositories that systematically capture, organize, and categorize knowledge-based information. Connects Technology team members with information and expertise via online searchable libraries.",
-          "examples": {
-            "0": "0 - Works with experienced team members to understand the techniques that are used to build repositories.",
-            "1": "Meets with stakeholders and experienced team members to identify client needs.  Works to build portions of the repository with oversight from experienced team members.",
-            "2": "Meets with stakeholders to identify client needs, and works independently to build portions of the repository. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that knowledge repositories comply with established QL Technology KM standards.",
-            "3": "Meets with stakeholders to identify client needs, and works independently to build portions of the repository. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that knowledge repositories comply with established QL Technology KM standards. Regularly looks for opportunities to implement new knowledge repositories, and to enhance those that exist. Drives team project initiatives around building repositories"
-          },
-          "rating": "",
-          "comment": ""
-        },
-        "T2": {
-          "category": "Behavior",
-          "competency": "Works with other Technology teams to build workflows for vetting and maintaining knowledge in knowledge repositories.",
-          "examples": {
-            "0": "0 - Works with experienced team members to understand the techniques that are used to build workflows.",
-            "1": "Meets with stakeholders and experienced team members to identify client needs.  Works to build portions of the repository with oversight from experienced team members.",
-            "2": "Meets with stakeholders to identify client needs, and works independently to build portions of the repository. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that knowledge repositories comply with established QL Technology KM standards.",
-            "3": "Meets with stakeholders to identify client needs, and works independently to build portions of the repository. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that knowledge repositories comply with established QL Technology KM standards. Regularly looks for opportunities to implement new knowledge repositories, and to enhance those that exist. Drives team project initiatives around building repositories"
-          },
-          "rating": "",
-          "comment": ""
-        },
-        "T3": {
-          "category": "Skill",
-          "competency": "Works with other Technology teams to create and maintain taxonomies for knowledge repositories. Utilizes taxonomies to encourage knowledge sharing, maintenance, and finding.",
-          "examples": {
-            "0": "0 - Works with experienced team members to understand the techniques that are used to build workflows.",
-            "1": "Meets with stakeholders and experienced team members to identify client needs Works to build or enhance portions of the workflows with oversight from experienced team members.",
-            "2": "Meets with stakeholders to identify client needs. Works independently to build or enhance portions of the workflow. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that workflows comply with established QL Technology KM and technical writing standards.",
-            "3": "Meets with stakeholders to identify client needs  Works independently to build or enhance portions of the workflow. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that workflows comply with established QL Technology KM and technical writing standards. Regularly looks for opportunities to implement new workflows, and to enhance those that exist. Drives team project initiatives around building workflows."
-          },
-          "rating": "",
-          "comment": ""
-        },
-        "T4": {
-          "category": "Skill",
-          "competency": "Actively seeks proficiency (either as an admin or a power-user) with all knowledge-sharing platforms used by QL Technology.",
-          "examples": {
-            "0": "0 - Works with experienced team members to understand the techniques that are used to build and maintain taxonomies.",
-            "1": "Meets with stakeholders and experienced team members to identify client needs. Works to build or enhance portions of the taxonomy with oversight from experienced team members.",
-            "2": "Meets with stakeholders to identify client needs. Works independently to build or enhance portions of the taxonomy. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that taxonomies comply with established QL Technology KM standards.",
-            "3": "Meets with stakeholders to identify client needs.  Works independently to build or enhance portions of the taxonomy. Communicates work with the rest of the team to ensure that we create a cohesive product. Ensures that taxonomies comply with established QL Technology KM standards. Works across teams to ensure that taxonomies are compatible and avoid confusion. Regularly looks for opportunities to implement new taxonomies, and to enhance those that exist. Drives team project initiatives around building taxonomies."
-          },
-          "rating": "",
-          "comment": ""
-        },
-        "T5": {
-          "category": "Knowledge",
-          "competency": "Able to make useful knowledge-sharing recommendations based on the relative merits of each knowledge platform.",
-          "examples": {
-            "0": "0 - Works with experienced team members to understand knowledge-sharing platforms.",
-            "1": "1 - Works with experienced team members and platform support teams to understand how Technology uses knowledge-sharing platforms, both for knowledge-sharing and knowledge-seeking.",
-            "2": "Works with platform support teams to understand how Technology uses knowledge-sharing platforms, both for knowledge-sharing and knowledge-seeking. Identifies best practices for using the platforms. Is considered an experienced user.",
-            "3": "Works with platform support teams to understand how Technology uses knowledge-sharing platforms, both for knowledge-sharing and knowledge-seeking. Identifies best practices for using the platforms, and regularly encourages team members to use them. Is considered an expert user. Drives team project initiatives around knowledge platform education."
-          },
-          "rating": "",
-          "comment": ""
-        },
-        "T6": {
-          "category": "Skill",
-          "competency": "Ensures that QL Technology KM processes, procedures, taxonomies, workflows, and repositories meet established QL Technology KM standards, regardless of the platform.",
-          "examples": {
-            "0": "0 - Works with experienced team members and platform support teams to understand the merits of each platform.",
-            "1": "Understands the merits of the most popular knowledge-sharing platforms used by Technology. Discusses them with their teammates.",
-            "2": "Understands the merits of the most popular knowledge-sharing platforms used by Technology. Makes recommendations to teammates and stakeholders about the right platform for the audiences and information to be shared/stored.",
-            "3": "Understands the merits of all knowledge-sharing platforms used by Technology. Makes recommendations to teammates and stakeholders about the right platform for the audiences and information to be shared/stored. Drives team project initiatives around knowledge platform recommendations."
-          },
-          "rating": "",
-          "comment": ""
-        },
-        "T7": {
-          "category": "Skill",
-          "competency": "Builds knowledge-sharing processes and tools in compliance with QL Information Security standards.",
-          "examples": {
-            "0": "Works with experienced team members to understand current standards for KM. Discusses internally with the team the impact that standards have on processes, procedures, taxonomies, workflows, tools, repositories, and platforms.",
-            "1": "Understands some current QL Technology standards for KM. When building processes, procedures, taxonomies, workflows, and repositories, works with experienced team members to ensure that they adhere to established standards.",
-            "2": "Understands all current QL Technology standards for KM. When building processes, procedures, taxonomies, workflows, and repositories, ensures that they adhere to established standards. When asked, guides other team members on implementing KM standards.",
-            "3": "Understands all current QL Technology standards for KM. When building processes, procedures, taxonomies, workflows, and repositories, ensures that they adhere to established standards. Teaches other team members how to implement KM standards. Regularly seeks opportunities to improve KM standard adherence. Drives team initiatives around applying KM standards to processes, procedures, taxonomies, workflows, and repositories."
-          },
-          "rating": "",
-          "comment": ""
-        }
-      }
-    },
-    "Culture": {
-      "competencies": {
-        "C1": {
-          "category": "Behavior",
-          "competency": "Works with other Technology teams to eliminate and prevent duplicate content.",
-          "examples": {
-            "0": "0 - Works with experienced team members to understand how and why duplicate content is created and can be prevented.",
-            "1": "Understands how and why duplicate content is created and can be prevented. Works with experienced team members to identify duplicate content. Works with content owner(s) and experienced team members to eliminate duplicate content, and create a single source of truth.",
-            "2": "Understands how and why duplicate content is created and can be prevented. Works to identify duplicate content. Works with content owner(s) to eliminate duplicate content, and create a single source of truth. Builds processes using techniques that discourage content duplication.",
-            "3": "Understands how and why duplicate content is created and can be prevented. Is always on the lookout for potential duplicate content and practices that can create it. Works with content owner(s) to eliminate duplicate content, and create a single source of truth. Builds processes using techniques that discourage or prevent content duplication. Shares knowledge with other Technology team members about duplicate content prevention techniques. Drives team project initiatives around identifying, eliminating, and preventing duplicate content."
-          },
-          "rating": "",
-          "comment": ""
-        },
-        "C2": {
-          "category": "Behavior",
-          "competency": "Fosters a knowledge-sharing culture within Technology.",
-          "examples": {
-            "0": "0 - Has internal team discussions about what a knowledge-sharing culture looks like, and some techniques to encourage it.",
-            "1": "Has internal team discussions about what a knowledge-sharing culture looks like. Shares knowledge about techniques for encouraging a knowledge-sharing culture. Recognizes ineffective practices",
-            "2": "When requested, helps teams improve their practices to encourage a knowledge-sharing culture. Provides guidance to Technology team members when observing ineffective practices. Uses ISMs and proven results to motivate teams to use the QL Technology KM tools, practices, and standards that are put in place.",
-            "3": "Regularly seeks opportunities to help teams improve their practices to encourage a knowledge-sharing culture. Provides guidance to Technology team members when observing ineffective practices. Uses ISMs and proven results to motivate teams to use the KM tools, practices, and standards that are put in place. Drives team project initiatives around creating a knowledge-sharing culture."
-          },
-          "rating": "",
-          "comment": ""
-        },
-        "C3": {
-          "category": "Skill",
-          "competency": "As much as the knowledge platform allows, makes content maintenance easy for Technology team members. They do this by building knowledge repositories with feedback and editing options, and flexible processes and workflows.",
-          "examples": {
-            "0": "Works with experienced team members to understand the importance and impact of content feedback. Works with experienced team members and platform support teams to understand the functionality within platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). Works with experienced team members to understand how to research content owners and editing history using metadata.",
-            "1": "Understands the importance and impact of content feedback. When asked, encourages a culture of personal responsibility toward content improvement using feedback and editing options. Understands feedback and editing functionality within popular knowledge platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). When asked, shares knowledge with team members about how to research content owners and editing history using metadata.",
-            "2": "Understands the importance and impact of content feedback. Encourages a culture of personal responsibility toward content improvement using feedback and editing options. Understands feedback and editing functionality within all knowledge platforms. This includes options that available to users, and to admins (even if they do not have admin-level access). When requested, helps improve content and process/workflow maintenance within knowledge repositories. Ensures that feedback and editing options within platforms are useful for content owners, and promotes their use. Builds tools that do not require platform admin intervention to modify metadata.",
-            "3": "Understands the importance and impact of content feedback. Encourages a culture of personal responsibility toward content improvement using feedback and editing options. Understands feedback and editing functionality within all knowledge platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). Regularly seeks opportunities to improve content and process/workflow maintenance within knowledge repositories. Ensures that feedback and editing options within platforms are useful for content owners, and promotes their use. Builds repositories and processes that allow easy (non-admin) access to view and modify content metadata such as content owner, last updated by, and last update date/time. Drives team project initiatives around content maintenance and metadata."
-          },
-          "rating": "",
-          "comment": ""
-        },
-        "C4": {
-          "category": "Behavior",
-          "competency": "Works with other Technology teams to establish and maintain KM standards for QL Technology.",
-          "examples": {
-            "0": "Works with experienced team members to understand current QL Technology standards for KM. Discusses their benefits and challenges internally with the team.",
-            "1": "Understands current standards for QL Technology KM. When asked, works with other Technology teams and leadership to establish and communicate standards with team members. Asks leaders to hold teams accountable when standards are not adhered to. When asked, shares knowledge with team members about the benefits of having and using standards. Works with experienced team members to modify or enhance standards to meet evolving needs.",
-            "2": "Understands current QL Technology standards for KM. Works with other Technology teams and leadership to establish and communicate standards with team members. Asks leaders to hold teams accountable when standards are not adhered to. Shares knowledge with team members about the benefits of having and using standards. When asked, modifies or enhances standards to meet evolving needs.",
-            "3": "Understands current standards for QL Technology KM. Regularly looks for situations where implementing standards would be helpful to team members. Works with other Technology teams and leadership to establish and communicate standards with team members. Holds teams accountable when standards are not adhered to. Shares knowledge with team members about the benefits of having and using standards. Regularly seeks opportunities to modify or enhance standards to meet evolving needs. Drives team initiatives around creating and enhancing standards."
-          },
-          "rating": "",
-          "comment": ""
-        }
-      }
-    },
-    "Growth": {
-      "competencies": {
-        "G1": {
-          "category": "Knowledge",
-          "competency": "Seeks internal and external resources for information that will improve knowledge management within QL Technology such as techniques, processes, and tools.",
-          "examples": {
-            "0": "0 - Works with experienced team members to understand internal and external resources for information.",
-            "1": "When asked, reviews industry resources and SME websites and books. Discusses new techniques with the team.",
-            "2": "Regularly reviews industry resources and SME websites and books. Presents recommendations to the team about ways the team can improve their work using new techniques. Ensures that new techniques drive future-proofing of solutions. ",
-            "3": "Regularly reviews industry resources and SME websites and books.  Expert-level knowledge of FinTech industry-related knowledge management best practices.  Presents recommendations to the team about ways that they can improve their work using new techniques. Fully researches the benefits of using a new technique before making the recommendation. Ensures that new techniques drive future-proofing of solutions. Drives team initiatives around implementing new techniques, process, and tools."
-          },
-          "rating": "",
-          "comment": ""
-        }
-      }
-    },
-    "Usability": {
-      "competencies": {
-        "U1": {
-          "category": "Behavior",
-          "competency": "Works with other Technology teams to improve team members' search experience on our knowledge platforms such as Office 365, SharePoint, Confluence, and the I Drive when they are seeking information.",
-          "examples": {
-            "0": "Works with experienced team members to understand the current user experience when searching for information. Works with experienced team members and platform support teams to understand search functionality within the different platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). Works with experienced team members to understand how to provide feedback for improvement.",
-            "1": "Understands the importance and impact of search experiences. When asked, encourages a culture of personal responsibility toward search improvement using options such as providing feedback and completing metadata. Understands search functionality within popular knowledge platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). When asked, shows team members the best methods to use when searching for information.",
-            "2": "Understands the importance and impact of search experiences. Encourages a culture of personal responsibility toward search improvement using options such as providing feedback and completing metadata. Understands search functionality within popular knowledge platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). Shows team members the best methods to use when searching for information. Ensures that feedback options are easy to use and useful for content owners and content seekers.",
-            "3": "Understands the importance and impact of search experiences. Encourages a culture of personal responsibility toward search improvement using options such as providing feedback and completing metadata. Understands search functionality within all knowledge platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). Shows team members the best methods to use when searching for information. Ensures that feedback options are easy to use and helpful for content owners and content seekers. Regularly seeks opportunities to improve the search experience within knowledge repositories. Drives team initiatives around improving the search experience for our team members. "
-          },
-          "rating": "",
-          "comment": ""
-        },
-        "U2": {
-          "category": "Behavior",
-          "competency": "Seeks to understand the challenge to be solved when creating tools, and focuses on solving that quickly using Minimum Viable Product (MVP) solutions, without increasing scope.",
-          "examples": {
-            "0": "Works with experienced team members to understand the current team member experience using various methods of sharing information. Works with experienced team members and platform support teams to understand knowledge-sharing functionality within the different platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). Works with experienced team members to understand how to provide feedback for improvement.",
-            "1": "Understands the importance and impact of knowledge-sharing experiences. When asked, encourages a culture of personal responsibility toward knowledge-sharing improvement using options such as providing feedback and completing metadata. Understands knowledge-sharing functionality within popular knowledge platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). When asked, shows team members the best methods to use when sharing information.",
-            "2": "Understands the importance and impact of knowledge-sharing experiences. Encourages a culture of personal responsibility toward knowledge-sharing improvement using options such as providing feedback and completing metadata. When asked, shows team members the best methods to use when sharing information. Ensures that feedback options are easy to use and useful for content owners and content seekers. Understands knowledge-sharing functionality within popular knowledge platforms. This includes options available to users, and to admins (even if they do not have admin-level access) When asked, and functionality is available, configures knowledge platforms to improve the knowledge-sharing experience.",
-            "3": "Understands the importance and impact of knowledge-sharing experiences. Encourages a culture of personal responsibility toward knowledge-sharing improvement using options such as providing feedback and completing metadata. Shows team members the best methods to use when sharing information. Ensures that feedback options are easy to use and useful for content owners and content seekers. Understands knowledge-sharing functionality within all knowledge platforms. This includes options that are available to users, and to admins (even if they do not have admin-level access). Regularly seeks opportunities to improve the knowledge-sharing experience within knowledge repositories. When functionality is available, configures knowledge platforms to improve the knowledge-sharing experience. Drives team initiatives around improving knowledge-sharing."
-          },
-          "rating": "",
-          "comment": ""
-        }
-      }
-    },
-    "Simplicity": {
-      "competencies": {
-        "S1": {
-          "category": "Skill",
-          "competency": "Seeks to understand the challenge to be solved when creating tools, and focuses on solving that quickly using Minimum Viable Product (MVP) solutions, without increasing scope.",
-          "examples": {
-            "0": "0 - Works with experienced team members to understand the value of creating MVP solutions.",
-            "1": "Requests solutions from the stakeholder(s), produces those solutions, then presents them to the stakeholder(s) (i.e., they act as an order taker). Solution is overly complex or includes unnecessary content. When a stakeholder changes or adds to the scope of work, it is incorporated without discussing the value, feasibility, and additional time/risk that may be involved.",
-            "2": "Works with the stakeholder(s) to fully understand the challenge to be solved. Uses their teammates' expertise to help design creative MVP solutions, and presents them to the stakeholder(s) as recommendations. Works iteratively with the stakeholder(s) to create solutions and regularly gathers and incorporates their feedback. When a stakeholder changes or adds to the scope of work, the value, feasibility, and additional time/risk involved are discussed with the stakeholder(s) and when not critical, are reserved for future work.",
-            "3": "Works with the stakeholder(s) to fully understand the challenge to be solved. Uses their own expertise to help design creative MVP solutions and presents them to the stakeholder(s) as recommendations. Works iteratively with the stakeholder(s) to create solutions and regularly gathers and incorporates their feedback. When a stakeholder changes or adds to the scope of work, the value, feasibility, and additional time/risk involved are discussed with the stakeholder(s) and when not critical, are reserved for future work. Drives team project initiatives around requirements gathering and designing MVP solutions."
-          },
-          "rating": "",
-          "comment": ""
-        }
-      }
     }
-  }
 }

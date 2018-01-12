@@ -1,5 +1,5 @@
 {
-    "_comment": "https://confluence/display/TRAC/Tech+U+Roles",
+    "_comment": "https://confluence/display/TRAC/Learning+and+Development+Roles",
 
     "type": "Tech U Learning, Instructional, Development Roles",
     "version": "1.0.0",
@@ -25,7 +25,7 @@
                 },
                 "C2": {
                     "category": "Behavior",
-                    "competency": "Schedules team meetings and Tech U learning. ",
+                    "competency": "Schedules team meetings and Tech U learning.",
                     "examples": {
                         "0": "Scheduling team meetings and learning with reminders from team, including booking rooms, creating invitations in team calendar, updating LMS with class information, and responding to facilities about room arrangement.",
                         "1": "Schedules team meetings and learning with reminders from team, including booking rooms, creating onsite and remote invitations in team calendar, updating LMS with class information, and responding to facilities about room arrangement.",

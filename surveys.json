@@ -5,18 +5,24 @@
 
     "Leader": "https://git/pages/SKluck/trac/surveys/leader-survey.json",
 
-    "Agile Coach": "https://git/pages/SKluck/trac/surveys/agile-coach-survey.json",
-    "Agile Release Manager": "https://git/pages/SKluck/trac/surveys/agile-release-manager-survey.json",
-    "Business Support Specialist": "https://git/pages/SKluck/trac/surveys/business-support-specialist-survey.json",
     "Executive Assistant": "https://git/pages/SKluck/trac/surveys/executive-assistant-survey.json",
     "Knowledge Management Specialist": "https://git/pages/SKluck/trac/surveys/knowledge-management-specialist-survey.json",
-    "Product Owner": "https://git/pages/SKluck/trac/surveys/product-owner-survey.json",
-
-    "IT Service Management Analyst": "https://git/pages/SKluck/trac/surveys/itsm-analyst-survey.json",
 
     "Tech U Roles": "https://git/pages/SKluck/trac/surveys/techu-learning-survey.json",
     "Technical Editor": "https://git/pages/SKluck/trac/surveys/technical-editor-survey.json",
     "Technical Writer": "https://git/pages/SKluck/trac/surveys/technical-writer-survey.json",
+
+    "Agile Coach (V1)": "https://git/pages/SKluck/trac/surveys/agile-coach-survey.json",
+    "Agile Release Manager (V1)": "https://git/pages/SKluck/trac/surveys/agile-release-manager-survey.json",
+
+    "Business Support Specialist (V1)": "https://git/pages/SKluck/trac/surveys/business-support-specialist-survey.json",
+    "Product Owner (V1)": "https://git/pages/SKluck/trac/surveys/product-owner-survey.json",
+
+    "IT Service Management Analyst (V1)": "https://git/pages/SKluck/trac/surveys/itsm-analyst-survey.json",
+
+    "BI - Business Analyst (V1)": "https://git/pages/SKluck/trac/surveys/bi-business-analyst-survey.json",
+    "BI - Engineer (V1)": "https://git/pages/SKluck/trac/surveys/bi-engineer-survey.json",
+    "BI - Big Data Engineer (V1)": "https://git/pages/SKluck/trac/surveys/bi-big-data-engineer-survey.json",
 
     "Sample": "https://git/pages/SKluck/trac/surveys/sample-survey.json"
 }

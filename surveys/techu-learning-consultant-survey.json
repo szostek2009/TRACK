@@ -1,13 +1,17 @@
 {
+  "_comment": "https://confluence/display/TRAC/Learning+Consultant",
+
   "version": "1.0.0",
-  "type": "Learning Consultant ",
+  "type": "Learning Consultant",
+
   "id": "",
   "name": "",
   "updated": "",
+
   "sections": {
-    "Facilitation ": {
+    "Facilitation": {
       "competencies": {
-        "1": {
+        "F1": {
           "category": "Skill",
           "competency": "Sets learning environment.",
           "examples": {
@@ -19,7 +23,7 @@
           "rating": "",
           "comment": ""
         },
-        "2": {
+        "F2": {
           "category": "Skill",
           "competency": "Creates an engaging and collaborative learning environment.",
           "examples": {
@@ -31,7 +35,7 @@
           "rating": "",
           "comment": ""
         },
-        "3": {
+        "F3": {
           "category": "Skill",
           "competency": "Facilitates learning discussions and activities.",
           "examples": {
@@ -43,7 +47,7 @@
           "rating": "",
           "comment": ""
         },
-        "4": {
+        "F4": {
           "category": "Behavior",
           "competency": "Collaborates on maintenance for Tech U learning offerings.",
           "examples": {
@@ -55,7 +59,7 @@
           "rating": "",
           "comment": ""
         },
-        "5": {
+        "F5": {
           "category": "Behavior",
           "competency": "Ramps up to facilitate instructor-led classes.",
           "examples": {
@@ -69,21 +73,21 @@
         }
       }
     },
-    "Brand ": {
+    "Brand": {
       "competencies": {
-        "6": {
+        "B1": {
           "category": "Skill",
           "competency": "Maintains and updates the Tech U website.",
           "examples": {
             "0": "Updates the website as necessary with reminders from the team.",
             "1": "Autonomously updates the website when applicable.",
             "2": "Drives maintenance of website to ensure information is accurate and our clients have a good user experience.",
-            "3": "Seeks opportunities to share knowledge and new learn techniques on how to maintain and update the website. "
+            "3": "Seeks opportunities to share knowledge and new learn techniques on how to maintain and update the website."
           },
           "rating": "",
           "comment": ""
         },
-        "7": {
+        "B2": {
           "category": "Skill",
           "competency": "Represents Tech U brand when consulting by providing an ideal client experience.",
           "examples": {
@@ -97,9 +101,9 @@
         }
       }
     },
-    "Development ": {
+    "Development": {
       "competencies": {
-        "8": {
+        "D1": {
           "category": "Behavior",
           "competency": "Establishes partnership with instructional designers to contribute to development projects.",
           "examples": {
@@ -111,7 +115,7 @@
           "rating": "",
           "comment": ""
         },
-        "9": {
+        "D2": {
           "category": "Skill",
           "competency": "Able to manage QL Technology learning programs.",
           "examples": {
@@ -125,9 +129,9 @@
         }
       }
     },
-    "Analysis ": {
+    "Analysis": {
       "competencies": {
-        "10": {
+        "A1": {
           "category": "Skill",
           "competency": "Conducts analysis of learning requests and offers consulting options for teams requesting new learning.",
           "examples": {
@@ -139,7 +143,7 @@
           "rating": "",
           "comment": ""
         },
-        "11": {
+        "A2": {
           "category": "Skill",
           "competency": "Evaluates conferences attended by QL and FOC team members to determine value and number of attendees, and also participates in knowledge sharing sessions.",
           "examples": {
@@ -151,7 +155,7 @@
           "rating": "",
           "comment": ""
         },
-        "12": {
+        "A3": {
           "category": "Skill",
           "competency": "Evaluates external learning offerings for Technology team members.",
           "examples": {
@@ -163,7 +167,7 @@
           "rating": "",
           "comment": ""
         },
-        "13": {
+        "A4": {
           "category": "Behavior",
           "competency": "Identifies team member knowledge, skill, and behavior gaps throughout the onboarding process.",
           "examples": {

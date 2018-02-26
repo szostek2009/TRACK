@@ -1,13 +1,17 @@
 {
+  "_comment": "https://confluence/display/TRAC/Learning+Coordinator",
+
   "version": "1.0.0",
-  "type": "Learning Coordinator ",
+  "type": "Learning Coordinator",
+
   "id": "",
   "name": "",
   "updated": "",
+
   "sections": {
     "Coordination": {
       "competencies": {
-        "1": {
+        "C1": {
           "category": "Behavior",
           "competency": "Maintains stock of learning materials including workbooks, reference documents, promotional materials, and any additional materials needed for class activities.",
           "examples": {
@@ -19,7 +23,7 @@
           "rating": "",
           "comment": ""
         },
-        "2": {
+        "C2": {
           "category": "Behavior",
           "competency": "Schedules Tech U instructor-led classes. ",
           "examples": {
@@ -31,19 +35,19 @@
           "rating": "",
           "comment": ""
         },
-        "3": {
+        "C3": {
           "category": "Skill",
           "competency": "Coordinates Tech U training room schedule.",
           "examples": {
             "0": "Coordinates all room requests for the Tech U training room including blocking off the time in MeetingPlanner and our team calendar with reminders from the team.",
             "1": "Autonomously updates both tools for meeting room reservation requests.",
-            "2": "Supports Tech U partnerships when rooms are needed or assists in finding other rooms. ",
+            "2": "Supports Tech U partnerships when rooms are needed or assists in finding other rooms.",
             "3": "Drives partnerships when rooms are needed and actively engages with Focus to find other training rooms when applicable."
           },
           "rating": "",
           "comment": ""
         },
-        "4": {
+        "C4": {
           "category": "Skill",
           "competency": "Develops onboarding groups through various reports and increase awareness with facilitators on remote participants.",
           "examples": {
@@ -55,26 +59,26 @@
           "rating": "",
           "comment": ""
         },
-        "5": {
+        "C5": {
           "category": "Skill",
           "competency": "Conducts planning meetings to schedule instructor-led learning offerings.",
           "examples": {
             "0": "Schedules the instructor-led class planning meeting with the team, participates in discussion, and brings copies of reporting or data to make recommendations for specific learning offerings.",
             "1": "Drives the team learning planning meeting and creates Outlook calendar entries of learning offerings and makes adjustments as needed with reminders from the team.",
-            "2": "Autonomously schedules and drives the team learning planning meeting. Prepares mock up of recommended learning schedule for upcoming month to expedite the planning process. ",
-            "3": "Creates and updates documentation on how to conduct instructor-led planning meetings. Identifies opportunities to improve the planning process. "
+            "2": "Autonomously schedules and drives the team learning planning meeting. Prepares mock up of recommended learning schedule for upcoming month to expedite the planning process.",
+            "3": "Creates and updates documentation on how to conduct instructor-led planning meetings. Identifies opportunities to improve the planning process."
           },
           "rating": "",
           "comment": ""
         },
-        "6": {
+        "C6": {
           "category": "Behavior",
           "competency": "Coordinates team meetings.",
           "examples": {
             "0": "Schedules and sets up team meetings including taking notes and posting the agenda in the room with support from the team.",
-            "1": "Autonomously schedules and sets up team meetings. Updates agenda in meeting invite, participates in meeting discussion and summarizes action items.  ",
+            "1": "Autonomously schedules and sets up team meetings. Updates agenda in meeting invite, participates in meeting discussion and summarizes action items.",
             "2": "Drives communication with the team to update agenda items and action items assigned in previous discussions.",
-            "3": "Autonomously maintains team meeting information and seeks opportunities to share knowledge on coordinating team meetings.  "
+            "3": "Autonomously maintains team meeting information and seeks opportunities to share knowledge on coordinating team meetings."
           },
           "rating": "",
           "comment": ""
@@ -83,13 +87,13 @@
     },
     "Networking": {
       "competencies": {
-        "7": {
+        "N1": {
           "category": "Skill",
           "competency": "Maintains and updates the Tech U website calendar.",
           "examples": {
             "0": "Updates and maintains the calendar on team website with support and reminders from the team or leader.",
-            "1": "Autonomously updates and maintains the calendar one month in advance.  ",
-            "2": "Autonomously updates and maintains the calendar two months in advance. ",
+            "1": "Autonomously updates and maintains the calendar one month in advance.",
+            "2": "Autonomously updates and maintains the calendar two months in advance.",
             "3": "Seeks opportunities to share knowledge on how to maintain and update the calendar on team website. Also looks for opportunities to learn new techniques and automate calendar maintenance and updates."
           },
           "rating": "",
@@ -97,9 +101,9 @@
         }
       }
     },
-    "Development ": {
+    "Development": {
       "competencies": {
-        "8": {
+        "D1": {
           "category": "Behavior",
           "competency": "Establishes Tech U partnerships to create and develop learning, outcomes, and activities.",
           "examples": {
@@ -115,7 +119,7 @@
     },
     "Analysis": {
       "competencies": {
-        "9": {
+        "A1": {
           "category": "Skill",
           "competency": "Monitors and updates Tech U Cherwell tickets by communicating with team and requestors.",
           "examples": {

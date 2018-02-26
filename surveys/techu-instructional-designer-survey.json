@@ -1,13 +1,17 @@
 {
+  "_comment": "https://confluence/display/TRAC/Instructional+Designer-+IT",
+
   "version": "1.0.0",
   "type": "Instructional Designers - IT",
+
   "id": "",
   "name": "",
   "updated": "",
+
   "sections": {
     "Partnership": {
       "competencies": {
-        "1": {
+        "P1": {
           "category": "Behavior",
           "competency": "Evaluates external training vendors and learning resources.",
           "examples": {
@@ -19,13 +23,13 @@
           "rating": "",
           "comment": ""
         },
-        "2": {
+        "P2": {
           "category": "Behavior",
           "competency": "Establishes Tech U partnerships to develop learning offerings.",
           "examples": {
             "0": "Participates in the discussion of developing learning materials and completes assigned action items.",
             "1": "Participates and engages in the discussion by making suggestions for team contributions and asking for specific action items.",
-            "2": "Drives partnership by actively communicating with the team on a roadmap for the project that includes regular updates, roadblocks, and what contributions the rest of the team can make to move execution forward. ",
+            "2": "Drives partnership by actively communicating with the team on a roadmap for the project that includes regular updates, roadblocks, and what contributions the rest of the team can make to move execution forward.",
             "3": "Seeks opportunities to share knowledge on how to communicate project updates so the team could step in to help at any time. Makes recommendations to leadership on how they or the team can improve collaboration on development projects."
           },
           "rating": "",
@@ -35,7 +39,7 @@
     },
     "Analysis": {
       "competencies": {
-        "3": {
+        "A1": {
           "category": "Skill",
           "competency": "Creates and conducts analysis of learning requests and offers learning development solutions based on the assessment criteria.",
           "examples": {
@@ -47,7 +51,7 @@
           "rating": "",
           "comment": ""
         },
-        "4": {
+        "A2": {
           "category": "Skill",
           "competency": "Establishes learning outcomes that align with needs analysis results and incorporate Bloom's Taxonomy.",
           "examples": {
@@ -61,26 +65,26 @@
         }
       }
     },
-    "Design ": {
+    "Design": {
       "competencies": {
-        "5": {
+        "D1": {
           "category": "Skill",
           "competency": "Follows instructional design model.",
           "examples": {
             "0": "Is aware of instructional design models but needs support on how to use the model as a guide for development of learning materials.  ",
             "1": "Identifies and implements an instructional design model.",
             "2": "Identifies and implements an instructional design model based on the instructional method that is applicable to the needs assessment.",
-            "3": "Seeks opportunities to share knowledge and learn new techniques on how to develop learning materials based on the instructional model recommended.  "
+            "3": "Seeks opportunities to share knowledge and learn new techniques on how to develop learning materials based on the instructional model recommended."
           },
           "rating": "",
           "comment": ""
         },
-        "6": {
+        "D2": {
           "category": "Skill",
           "competency": "Creates design guidelines (design document, outline, style guides or standards guidelines) for development projects.",
           "examples": {
             "0": "Partners with instructional designers to create design guidelines for development projects that includes details such as the audience, learning needs or gaps, instructional methods, learning outcomes, Kirkpatrick evaluation plans, and deliverable timelines.",
-            "1": "Schedules and drives design guideline meetings to identify and assign tasks iteratively.   ",
+            "1": "Schedules and drives design guideline meetings to identify and assign tasks iteratively.",
             "2": "Communicates project updates iteratively with team and product owners.",
             "3": "eeks opportunities to share knowledge on how to develop design guidelines. Also, looks for opportunities to stay up to date and learn new techniques."
           },
@@ -89,9 +93,9 @@
         }
       }
     },
-    "Development ": {
+    "Development": {
       "competencies": {
-        "7": {
+        "V1": {
           "category": "Skill",
           "competency": "Develops transformational learning materials.",
           "examples": {
@@ -103,7 +107,7 @@
           "rating": "",
           "comment": ""
         },
-        "8": {
+        "V2": {
           "category": "Knowledge",
           "competency": "Identifies instructional methods (instructor-led, e-learning, documentation, video, job-aid, or learning resource) to fill knowledge, skill, and behavior gaps.",
           "examples": {
@@ -115,7 +119,7 @@
           "rating": "",
           "comment": ""
         },
-        "9": {
+        "V3": {
           "category": "Skill",
           "competency": "Develops learning offerings and materials that align with course learning outcomes and needs analysis.",
           "examples": {
@@ -131,7 +135,7 @@
     },
     "Implementation ": {
       "competencies": {
-        "10": {
+        "I1": {
           "category": "Skill",
           "competency": "Develops a plan for the strategic release of new learning opportunities developed by Tech U.",
           "examples": {
@@ -143,7 +147,7 @@
           "rating": "",
           "comment": ""
         },
-        "11": {
+        "I2": {
           "category": "Skill",
           "competency": "Creates learning structure and curriculum in SPOC (LMS, LRS, Skillo, Moodle, google classroom, etc.)",
           "examples": {
@@ -157,9 +161,9 @@
         }
       }
     },
-    "Evaluation ": {
+    "Evaluation": {
       "competencies": {
-        "12": {
+        "E1": {
           "category": "Skill",
           "competency": "Maintains existing learning materials to fill assessed retention and learning gaps.",
           "examples": {
@@ -171,7 +175,7 @@
           "rating": "",
           "comment": ""
         },
-        "13": {
+        "E2": {
           "category": "Skill",
           "competency": "Creates evaluation plan throughout development to assess learner retention and learning gaps.",
           "examples": {
@@ -183,7 +187,7 @@
           "rating": "",
           "comment": ""
         },
-        "14": {
+        "E3": {
           "category": "Behavior",
           "competency": "Collaborates on maintenance for Tech U learning materials.",
           "examples": {

@@ -1,0 +1,181 @@
+{
+  "version": "1.0.0",
+  "type": "Learning Consultant ",
+  "id": "",
+  "name": "",
+  "updated": "",
+  "sections": {
+    "Facilitation ": {
+      "competencies": {
+        "1": {
+          "category": "Skill",
+          "competency": "Sets learning environment.",
+          "examples": {
+            "0": "Completes the room set-up before instruction and updates room arrangement in course database with reminders from the Learning Coordinator or Team Leader. Uses media to engage learners and greets participant as they enter the room or conference line.",
+            "1": "Autonomously updates room arrangement in the course database and engages in conversation with participants.",
+            "2": "Engages in conversation with participants, including introducing themselves and asking open ended questions. Also, utilizes the beginning of instruction to explain the class materials to participants to help prep them for instruction.",
+            "3": "Seeks opportunities to share knowledge with on how to develop a rapport with participants in the first five minutes of entering the room or conference line. Also, looks for opportunities to stay up to date and learn new techniques."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "2": {
+          "category": "Skill",
+          "competency": "Creates an engaging and collaborative learning environment.",
+          "examples": {
+            "0": "Expands on connections for participants by building on past experiences and questions throughout learning. Checks in with remotes and demonstrates appropriate pacing throughout learning.",
+            "1": "When applicable, expands on concepts to address various learning styles and builds on past experiences and questions throughout learning. Autonomously engages with remotes and demonstrates appropriate pacing of content message throughout learning.",
+            "2": "Actively addresses various learning styles and autonomously engages with remotes throughout the learning.",
+            "3": "Seeks opportunities to share knowledge on learning styles and creating an engaging and collaborative learning environment. Looks for opportunities to stay up to date and learn new techniques."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "3": {
+          "category": "Skill",
+          "competency": "Facilitates learning discussions and activities.",
+          "examples": {
+            "0": "Facilitates discussions and activities by asking overview questions, stating objectives, and grouping participants.",
+            "1": "Facilitates discussions and activities by also asking direct questions to encourage participation. Sets up learning activities by stating the outcomes, providing clear directions, and grouping participants.",
+            "2": "Provides a summary of discussion topics for participants and remotes, and leads discussion about what skills the learning activity reinforces.",
+            "3": "Seeks opportunities to share knowledge on facilitating learning discussions and activities. Also, looks for opportunities to stay up to date and learn about new techniques."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "4": {
+          "category": "Behavior",
+          "competency": "Collaborates on maintenance for Tech U learning offerings.",
+          "examples": {
+            "0": "Partners with Instructional Designers to perform maintenance to make learning more effective and verifies alignment with learning outcomes.",
+            "1": "Autonomously performs maintenance on learning that doesn't impact the content message. Utilizes attendance reporting to determine cadence of Tech U courses.",
+            "2": "Drives partnership with Instructional Designers and communicates those changes for awareness. Collaborates with Instructional Designers on revamping learning content to verify alignment with learning outcomes. Utilizes business need data to determine cadence and sun setting of offerings.",
+            "3": "Seeks opportunities to share knowledge on performing maintenance on learning. Also identifies opportunities to develop a maintenance cadence to review learning materials which includes identifying and communicating appropriate changes to make learning more effective."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "5": {
+          "category": "Behavior",
+          "competency": "Ramps up to facilitate instructor-led classes.",
+          "examples": {
+            "0": "Facilitates instructor-led classes with support from the instructor guide and is able to answer basic questions with frequent use of the parking lot. Completes the ramp-up process within four class occurrences.",
+            "1": "Facilitates with no support from the IG and completes the process within three class occurrences. During instruction is able to answer questions with minimal use of the parking lot.",
+            "2": "Completes the ramp-up process within two class occurrences and is able to answer questions by relating to their personal learning experience.",
+            "3": "Seeks opportunities to share knowledge on how to ramp up for instructor led classes. Also looks for opportunities to learn new techniques and improve the ramp up process."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Brand ": {
+      "competencies": {
+        "6": {
+          "category": "Skill",
+          "competency": "Maintains and updates the Tech U website.",
+          "examples": {
+            "0": "Updates the website as necessary with reminders from the team.",
+            "1": "Autonomously updates the website when applicable.",
+            "2": "Drives maintenance of website to ensure information is accurate and our clients have a good user experience.",
+            "3": "Seeks opportunities to share knowledge and new learn techniques on how to maintain and update the website. "
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "7": {
+          "category": "Skill",
+          "competency": "Represents Tech U brand when consulting by providing an ideal client experience.",
+          "examples": {
+            "0": "Aware of consulting process, but needs support from team to provide the  ideal client experience.",
+            "1": "Drives ideal client experience with no support from the team.",
+            "2": "Autonomously documents the ideal client experience and marketing of Tech U consulting services.",
+            "3": "Seeks opportunities to share consulting skills, and knowledge of the ideal client experience with other team members."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Development ": {
+      "competencies": {
+        "8": {
+          "category": "Behavior",
+          "competency": "Establishes partnership with instructional designers to contribute to development projects.",
+          "examples": {
+            "0": "ttends meetings and participates in the discussion to create and develop learning, outcomes and activities.",
+            "1": "Participates and engages in the discussion to create and develop learning, outcomes and activities by making suggestions and providing input.",
+            "2": "Actively seeks out opportunities to engage in the creation and development of learning, outcomes and activities. If prompted, will write outcomes and take on tasks to contribute to developing the learning.",
+            "3": "Brings suggested drafts of outcomes or plans on how they can contribute to development projects."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "9": {
+          "category": "Skill",
+          "competency": "Able to manage QL Technology learning programs.",
+          "examples": {
+            "0": "Is aware of the programs that exist with TechU and is able to support these programs administratively.",
+            "1": "Able to take over an existing program and run the program autonomously.",
+            "2": "Able to create a program from scratch, while applying instructional methods to program to ensure learning and retention from the participants.",
+            "3": "Seek opportunities to share knowledge on how to create a program to fulfill knowledge, skill, and behavior gaps. Also looks for opportunities to innovate the existing learning programs running for QL Technology."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Analysis ": {
+      "competencies": {
+        "10": {
+          "category": "Skill",
+          "competency": "Conducts analysis of learning requests and offers consulting options for teams requesting new learning.",
+          "examples": {
+            "0": "Attends meeting with requestors to discuss the knowledge, skill, or behavior gap. When prompted, offers consulting options to the requestor to address short term solutions to fill the gaps identified.",
+            "1": "Actively participates in meeting with requestor to discuss knowledge, skill, and behavior gaps. Without prompting, offers consulting options to the requestor to address short term solutions to fill the gaps identified. Also connects the requestor with external and internal learning resources.",
+            "2": "Drives meeting with requestor to discuss knowledge, skill, and behavior gaps. Offers consulting options and learning resources while also capturing various scenarios that will address the gaps identified so the requestor is aware of what we can do to address the gaps now and in the future. Shares information with the team during planning and communicates commitments to requestor.",
+            "3": "Seeks opportunities to share knowledge on conducting analyses, and looks for opportunities to stay up to date and learn new techniques."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "11": {
+          "category": "Skill",
+          "competency": "Evaluates conferences attended by QL and FOC team members to determine value and number of attendees, and also participates in knowledge sharing sessions.",
+          "examples": {
+            "0": "Recommends conferences based on business area or role and participates in the coordination of knowledge sharing sessions.",
+            "1": "Actively seeks feedback about conferences, and participates in the coordination of knowledge sharing sessions.",
+            "2": "Actively seeks and implements feedback about the value and number of team members attending conferences, and participates in the knowledge sharing from conferences.",
+            "3": "Assists team members on methods for sharing their knowledge from conferences."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "12": {
+          "category": "Skill",
+          "competency": "Evaluates external learning offerings for Technology team members.",
+          "examples": {
+            "0": "Participates in discussion regarding evaluating external training vendors or learning resources with support.",
+            "1": "Autonomously evaluates external learning offerings and updates the team website to include those resources.",
+            "2": "Drives the evaluation discussion and conducts audits on resources listed on website to ensure relevance and functionality.",
+            "3": "Seeks opportunities to share knowledge on how to evaluate external learning offerings through the creation of a evaluation rubric."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "13": {
+          "category": "Behavior",
+          "competency": "Identifies team member knowledge, skill, and behavior gaps throughout the onboarding process.",
+          "examples": {
+            "0": "Participates in knowledge, skill, or behavior gap discussion by documenting the discussion and completing action items.",
+            "1": "Drives meetings with technology leaders and autonomously discusses and documents gap solutions with the team. Actively shares information during iteration planning meetings to determine priority.",
+            "2": "Partners with the instructional design team to allocate their time to implement changes to close gaps in the onboarding process. Drives execution on closing gaps by leading the development or maintenance on onboarding learning materials.",
+            "3": "Seeks opportunities to share knowledge on how to lead these discussions and development projects."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    }
+  }
+}

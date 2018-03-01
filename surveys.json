@@ -16,9 +16,10 @@
     "Agile Coach (V1)": "https://git/pages/SKluck/trac/surveys/agile-coach-survey.json",
     "Agile Release Manager (V1)": "https://git/pages/SKluck/trac/surveys/agile-release-manager-survey.json",
 
-    "BI - Business Analyst (V1)": "https://git/pages/SKluck/trac/surveys/bi-business-analyst-survey.json",
+    "BI - Business Analyst": "https://git/pages/SKluck/trac/surveys/bi-business-analyst-survey.json",
     "BI - Engineer (V1)": "https://git/pages/SKluck/trac/surveys/bi-engineer-survey.json",
     "BI - Big Data Engineer (V1)": "https://git/pages/SKluck/trac/surveys/bi-big-data-engineer-survey.json",
+    "BI - Modeler": "https://git/pages/SKluck/trac/surveys/bi-modeler-survey.json",
 
     "Business Support Specialist (V1)": "https://git/pages/SKluck/trac/surveys/business-support-specialist-survey.json",
     "IT Service Management Analyst (V1)": "https://git/pages/SKluck/trac/surveys/itsm-analyst-survey.json",

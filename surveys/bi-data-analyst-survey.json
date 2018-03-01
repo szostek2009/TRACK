@@ -1,0 +1,30 @@
+{
+    "_comment": "https://confluence/display/TRAC/BI+Data+Analyst",
+
+    "type": "BI - Data Analyst",
+    "version": "2.0.0",
+
+    "id": "",
+    "name": "",
+    "updated": "",
+
+    "sections": {
+        "Empowers the Business": {
+            "competencies": {
+                "E1": {
+                    "category": "Skill",
+                    "competency": "Empowers the Business",
+                    "examples": {
+                        "0": "Does not consistently exhibit anything from 1-4",
+                        "1": "Conducts data research to ensure correct information will be provided\nPerforms data extraction, manipulation, processing and basic analysis for requests",
+                        "2": "Analyzes data, interprets results, and provides summary of analysis including key trends and recommendations\nDisplays basic understanding of statistical concepts and terminology\nProvides ad-hoc analysis and decision support, aligned to business priorities  Effectively \"tells the story\" when providing an analysis or presentation.",
+                        "3": "Demonstrates an understanding of the analytics spectrum and when to apply, i.e. when an analysis can be enhanced with modeling initiatives or requires statistical validation\nDrives ad-hoc analysis and decision support, aligned to business priorities, with minimal assistance/direction\nTakes open-ended business questions unrelated to your expertise and ramps up quickly to provide visibility\nDevelops and utilizes standards and methodologies for effective data analysis",
+                        "4": "Teaches and consults on a wide variety of analytical techniques\nInitiates adoption of new analytical standards and methodologies\nRelentlessly seeks to reconcile disparate data"
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        }
+    }
+}

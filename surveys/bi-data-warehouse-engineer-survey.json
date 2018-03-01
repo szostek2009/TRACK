@@ -1,0 +1,29 @@
+{
+    "_comment": "https://confluence/display/TRAC/Data+Warehouse",
+
+    "type": "BI - Data Warehouse Engineer",
+    "version": "2.0.0",
+
+    "id": "",
+    "name": "",
+    "updated": "",
+
+    "sections": {
+        "Drives the Business": {
+            "competencies": {
+                "DWE": {
+                    "category": "Skill",
+                    "competency": "Drives the Business",
+                    "examples": {
+                        "0": "Does not consistently exhibit anything from 1-4",
+                        "1": "Follows best practices as outlined by the team as it relates to development.\nFollows software development life-cycle (source control, change management)\nUnderstands core SQL syntax and can take a documented business problem and translate it to SQL with accurate results.\nUnderstands how to create database objects (stored procedures, tables, views, etc.)\nModifies existing solutions in respective specialty (applications, SSIS, SSAS, SQL, Tableau, SSRS, etc. )\nExtends existing data models\nMakes modifications to existing cubes",
+                        "2": "Activity identifies and makes recommendations for improvements in our engineering processes\nIdentifies and resolves roll-specific on-call responsibilities (short-term fixes)\nJumps in to code they did not write and can interpret and debug it.\nProfiles data, looking for inconsistencies and completeness.\nPerformance tunes SQL queries.\nImplements performance strategies (indexes, query optimization, scaling strategies , etc.)\nExplores and implements new tools and technology\nUnderstands inter system dependencies.\nFollows design patterns that the team has established.\nCreates new data models that represent the source system (i.e. SRC models)\nCreates new SSIS packages, or similar integration tools, to bring in new data elements.\nDemonstrated ability to create new cube solutions",
+                        "3": "Breaks down complex code in to simpler solutions (i.e. refactoring code, table structures, etc.)\nCreates, automates and implements improvements to our engineering processes.\nEstablishes standards best practices for the team.\nImplements root-cause resolution to on-call issues (long-term fixes)\nLeverages advanced debugging techniques and tools and promotes them.\nShares and holds the team accountable for following standards and best practices.\nIdentified and Resolves security flaws / solutions.\nEstablishes benchmarks for our solutions (applications, data sets, ETLs, etc.)\nImplements advanced performance strategies (partitioning, compression, etc.)\nCreates dimensional models that represents the business domain.\nUnderstanding of and some experience building in our client facing tools (i.e. Tableau, SSRS)"
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        }
+    }
+}

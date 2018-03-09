@@ -1,0 +1,229 @@
+{
+    "_comment": "https://confluence/display/TRAC/Application+Engineer",
+
+    "type": "Application Engineer",
+    "version": "2.0.0",
+
+    "id": "",
+    "name": "",
+    "updated": "",
+
+    "sections": {
+        "Programming Concepts": {
+            "competencies": {
+                "P1": {
+                    "category": "Skill",
+                    "competency": "Understands programming and software development principles",
+                    "examples": {
+                        "0": "Has heard of common software development principles and practices, but may lack understanding why they are important.",
+                        "1": "Is aware of a few basic software development principles and how they affect software design and development.",
+                        "2": "Has a complete understanding of several software develpoment principles and can participate in technical discussions with developers on programming techniques. ",
+                        "3": "Understands many software development principles and how they affect the process of software development and the quality of software. Can provide guidance to developers on specific techniques, including when they are important to follow and when there may be reason to ignore or bypass them."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P2": {
+                    "category": "Skill",
+                    "competency": "Scripting and Programming",
+                    "examples": {
+                        "0": "Can understand scripts in at least one application or language and complete requests with oversight from more experienced engineers.",
+                        "1": "Implements new scripts quickly and correctly. Demonstrates regular, incremental, and visible progress in learning additional skills. ",
+                        "2": "Can be trusted to write small systems or libraries in a well-architected and modular manner without oversight. ",
+                        "3": "Has written large-scale systems or libraries while maintaining solid architecture using best practices. Writes thoughtful code that takes users into account and considers readability and comprehension a priority (principle of least surprise)."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P3": {
+                    "category": "Behavior",
+                    "competency": "Understand and respects the impact of code changes",
+                    "examples": {
+                        "0": "Makes changes without fully considering or testing the impact to users (bugs, breaking changes, code churn, etc).",
+                        "1": "Changes are well thought out, tested, and documented (usage guides, change logs and version release notes) for libraries, systems, or scripts they author. Changes rarely have unanticipated impact on the systems involved. ",
+                        "2": "Understands best practices for change control. Minimizes breaking changes and has respect for users and consumers of their services or libraries.",
+                        "3": "Takes care to present a thoughtful developer or client experience - such as simple APIs, pleasant documentation, and clear error messages. Has experience with or uses concepts such as source control in their systems or libraries to lessen change impact to users."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P4": {
+                    "category": "Behavior",
+                    "competency": "Understands how to manage software development and deployment in multiple environments",
+                    "examples": {
+                        "0": "Minimal awareness of how software deployment to the Dev, Test, Beta and Prod environments is managed.",
+                        "1": "Understands the impact of code or configuration changes in lower environments on the testing and roll-out process but is not actively managing that process.",
+                        "2": "Fully understands and manages the roll-out of code or configuration changes to all environments for the systems involved.",
+                        "3": "Actively participates in managing code of configuration versions with developers and can provide guidance on branching code and merging code sections prior to roll-out."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Vendor": {
+            "competencies": {
+                "VE1": {
+                    "category": "Skill",
+                    "competency": "Licensing Models",
+                    "examples": {
+                        "0": "Unfamiliar with application specific licensing models ",
+                        "1": "Understands Advantages/Disadvantages of different models specific to software, hardware, users",
+                        "2": "Has a  high level of understanding of the licensing models available and being used within a specific application ",
+                        "3": "Deep understanding of licensing consumption, expiration, and trends.  Proactively forecasts and communicates needs, as well as different SaaS Models"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "VE2": {
+                    "category": "Skill",
+                    "competency": "Upgrades",
+                    "examples": {
+                        "0": "Limited understanding of upgrade process, scheduling, planning.",
+                        "1": "Understands application product life cycle from a software perspective",
+                        "2": "Understanding of vendor upgrade schedules and application road map from a software and hardware perspective. Can execute an upgrade with oversight of more experienced engineer.",
+                        "3": "Is the driver and can execute different types of upgrades.  (minor patch, Service Pack, major version upgrade), clearly understands the what and why, impact, need, benefit of performing an upgrade,  the opportunity cost and has awareness around the most recent version of their application. "
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "VE3": {
+                    "category": "Skill",
+                    "competency": "Maintenance",
+                    "examples": {
+                        "0": "Unfamiliar with application specific maintenance schedules ",
+                        "1": "Has awareness around upcoming scheduled maintenance and validates system and user impact.",
+                        "2": "Understands maintenance schedules, system validation and hardware/software requirements. ",
+                        "3": "Drives and communicates to impacted stakeholders the best practices for care and feeding of solution in total; Including software and hardware requirements, vendor models, maintenance schedules and system validations. "
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "VE4": {
+                    "category": "Skill",
+                    "competency": "Vendor Relationships",
+                    "examples": {
+                        "0": "Limited familiarity with vendor and key contacts",
+                        "1": "Familiarity with Key Contacts; Account management team, primary technical support and preferred escalation pathway, ",
+                        "2": "Knowledge of the vendor support model, SLA's and regularly meets with key vendor contacts to discuss concerns, roadmap...etc",
+                        "3": "Full knowledge of the Vendor Ecosystem (3rd party integrations and relationships) as it pertains to the use of the specific application. "
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "VE5": {
+                    "category": "Knowledge",
+                    "competency": "Procurement Process (Awareness of the Quicken Loans Procurement Process, timeline, expectations)",
+                    "examples": {
+                        "0": "Unfamiliar with the procurement process and how to buy a 'thing'",
+                        "1": "Limited familiarity with the procurement process",
+                        "2": "Knowledge of the procurement process and timelines. Can successfully buy a 'thing' with guidance",
+                        "3": "Deep understanding of the procurement process. Understands when to involve key players such as info sec and Enterprise architecture. Understands how to conduct and analyze the information from a gartner call. "
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Analysis": {
+            "competencies": {
+                "AN1": {
+                    "category": "Skill",
+                    "competency": "Process Documentation",
+                    "examples": {
+                        "0": "Does not produce process documentation",
+                        "1": "Inconsistently documents simple processes in a manner that results clearly defined requirements and acceptance criteria",
+                        "2": "Consistently documents simple processes in a manner that results in clearly defined requirements and acceptance criteria",
+                        "3": "Consistently documents both simple and complex processes"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AN2": {
+                    "category": "Skill",
+                    "competency": "Problem Solving - Analysis/Solution",
+                    "examples": {
+                        "0": "Limited ability to analyze problems and troubleshoot solutions independently ",
+                        "1": "Ability to analyze problems that are presented and find impactful solutions.",
+                        "2": "Ability to proactively identify problems, gather input from impacted stakeholders, and find impactful solutions.",
+                        "3": "Ability to proactively identify problems, understand both the system and business impact, and work with key stakeholders to collaborate on solutions."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AN3": {
+                    "category": "Behavior",
+                    "competency": "Problem Solving - Solution/Execution",
+                    "examples": {
+                        "0": "Leans heavily on others to solve simple problems",
+                        "1": "Is able to solve problems within their application(s) by getting advice from a more experienced team mate or by following examples already existing within the application or application documentation",
+                        "2": "Is able to solve large, complex problems with limited assistance.",
+                        "3": "Can be thrown into a new situation and have limited business or technology experience in the problem domain and is capable in learning the skills necessary to find an acceptable solution."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AN4": {
+                    "category": "Skill",
+                    "competency": "Requirements Gathering and Documentation",
+                    "examples": {
+                        "0": "Does not gain business input and/or alignment on a task before beginning execution and produces insufficient documentation surrounding task",
+                        "1": "Does not gain business input and/or alignment on a task before beginning execution, but produces sufficient documentation surrounding task",
+                        "2": "Gains business input and/or alignment on a task, but produces insufficient documentation regarding decisions made",
+                        "3": "Gains business input and/or alignment on a task and produces sufficient documentation regarding decisions made that is concise, consistent, and accurate."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AN5": {
+                    "category": "Behavior",
+                    "competency": "Ability to assess risk and impact",
+                    "examples": {
+                        "0": "Unfamiliar or limited knowledge of what risks there are to the system",
+                        "1": "Aware of risks to their systems but unaware of how to mitigate those risks",
+                        "2": "Aware of risks to their system and able to mitigate the risk when it arises ",
+                        "3": "Aware of risks to their system, proactively find solutions for vulnerabilities, monitors change notices of related systems to ensure nothing will cause an issue"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AN6": {
+                    "category": "Knowledge",
+                    "competency": "Business Process Knowledge",
+                    "examples": {
+                        "0": "Has limited understanding of the business area they support",
+                        "1": "Has a high level understanding of the business area(s) they support",
+                        "2": "Has a high level understanding of the business area(s) they directly support, and understands the impacts by the team's application",
+                        "3": "Has a deep understanding of all business areas and the impact of their application on all business areas"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AN7": {
+                    "category": "Behavior",
+                    "competency": "Project Management",
+                    "examples": {
+                        "0": "Looks to others to take the conn, but acts in a support role for a project.  Will execute on small tasks without guidence",
+                        "1": "Will self assign conn for tasks related to a project, and is consistent with meeting deadlines and expectations",
+                        "2": "Readily takes the conn for projects and knows how to execute and deliver their assigned responsibilities on time.",
+                        "3": "Naturally gravitates to the conn on larger projects, knows how to position resources and dependencies to see a project excepted in a timely manner while also executing in the development of the project.  "
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AN8": {
+                    "category": "Behavior",
+                    "competency": "Mentorship: Assists the team to prepare for deployments, ensuring tasks are complete, organized and following teams deployment standards. Reviews specs, focused on solutions, identifies best ways to address work items while being aware of new functionality on the horizon.",
+                    "examples": {
+                        "0": "Passive, receiving a lot of guidance from other mentors on the team.  Not giving back.",
+                        "1": "Provide feedback on the 'team level'",
+                        "2": "Can provide constructive individual feedback",
+                        "3": "Go to on the team (e.g. best practices, advice, guidance), person who knows their expectation on the team and the team's expectation, succeeded in their role.   First choice for when a new team member starts to pair with."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        }
+    }
+}

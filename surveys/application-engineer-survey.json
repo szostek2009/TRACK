@@ -17,7 +17,7 @@
                     "examples": {
                         "0": "Has heard of common software development principles and practices, but may lack understanding why they are important.",
                         "1": "Is aware of a few basic software development principles and how they affect software design and development.",
-                        "2": "Has a complete understanding of several software develpoment principles and can participate in technical discussions with developers on programming techniques. ",
+                        "2": "Has a complete understanding of several software develpoment principles and can participate in technical discussions with developers on programming techniques.",
                         "3": "Understands many software development principles and how they affect the process of software development and the quality of software. Can provide guidance to developers on specific techniques, including when they are important to follow and when there may be reason to ignore or bypass them."
                     },
                     "rating": "",
@@ -28,8 +28,8 @@
                     "competency": "Scripting and Programming",
                     "examples": {
                         "0": "Can understand scripts in at least one application or language and complete requests with oversight from more experienced engineers.",
-                        "1": "Implements new scripts quickly and correctly. Demonstrates regular, incremental, and visible progress in learning additional skills. ",
-                        "2": "Can be trusted to write small systems or libraries in a well-architected and modular manner without oversight. ",
+                        "1": "Implements new scripts quickly and correctly. Demonstrates regular, incremental, and visible progress in learning additional skills.",
+                        "2": "Can be trusted to write small systems or libraries in a well-architected and modular manner without oversight.",
                         "3": "Has written large-scale systems or libraries while maintaining solid architecture using best practices. Writes thoughtful code that takes users into account and considers readability and comprehension a priority (principle of least surprise)."
                     },
                     "rating": "",
@@ -40,7 +40,7 @@
                     "competency": "Understand and respects the impact of code changes",
                     "examples": {
                         "0": "Makes changes without fully considering or testing the impact to users (bugs, breaking changes, code churn, etc).",
-                        "1": "Changes are well thought out, tested, and documented (usage guides, change logs and version release notes) for libraries, systems, or scripts they author. Changes rarely have unanticipated impact on the systems involved. ",
+                        "1": "Changes are well thought out, tested, and documented (usage guides, change logs and version release notes) for libraries, systems, or scripts they author. Changes rarely have unanticipated impact on the systems involved.",
                         "2": "Understands best practices for change control. Minimizes breaking changes and has respect for users and consumers of their services or libraries.",
                         "3": "Takes care to present a thoughtful developer or client experience - such as simple APIs, pleasant documentation, and clear error messages. Has experience with or uses concepts such as source control in their systems or libraries to lessen change impact to users."
                     },
@@ -67,9 +67,9 @@
                     "category": "Skill",
                     "competency": "Licensing Models",
                     "examples": {
-                        "0": "Unfamiliar with application specific licensing models ",
+                        "0": "Unfamiliar with application specific licensing models",
                         "1": "Understands Advantages/Disadvantages of different models specific to software, hardware, users",
-                        "2": "Has a  high level of understanding of the licensing models available and being used within a specific application ",
+                        "2": "Has a  high level of understanding of the licensing models available and being used within a specific application",
                         "3": "Deep understanding of licensing consumption, expiration, and trends.  Proactively forecasts and communicates needs, as well as different SaaS Models"
                     },
                     "rating": "",
@@ -82,7 +82,7 @@
                         "0": "Limited understanding of upgrade process, scheduling, planning.",
                         "1": "Understands application product life cycle from a software perspective",
                         "2": "Understanding of vendor upgrade schedules and application road map from a software and hardware perspective. Can execute an upgrade with oversight of more experienced engineer.",
-                        "3": "Is the driver and can execute different types of upgrades.  (minor patch, Service Pack, major version upgrade), clearly understands the what and why, impact, need, benefit of performing an upgrade,  the opportunity cost and has awareness around the most recent version of their application. "
+                        "3": "Is the driver and can execute different types of upgrades.  (minor patch, Service Pack, major version upgrade), clearly understands the what and why, impact, need, benefit of performing an upgrade,  the opportunity cost and has awareness around the most recent version of their application."
                     },
                     "rating": "",
                     "comment": ""
@@ -91,10 +91,10 @@
                     "category": "Skill",
                     "competency": "Maintenance",
                     "examples": {
-                        "0": "Unfamiliar with application specific maintenance schedules ",
+                        "0": "Unfamiliar with application specific maintenance schedules",
                         "1": "Has awareness around upcoming scheduled maintenance and validates system and user impact.",
-                        "2": "Understands maintenance schedules, system validation and hardware/software requirements. ",
-                        "3": "Drives and communicates to impacted stakeholders the best practices for care and feeding of solution in total; Including software and hardware requirements, vendor models, maintenance schedules and system validations. "
+                        "2": "Understands maintenance schedules, system validation and hardware/software requirements.",
+                        "3": "Drives and communicates to impacted stakeholders the best practices for care and feeding of solution in total; Including software and hardware requirements, vendor models, maintenance schedules and system validations."
                     },
                     "rating": "",
                     "comment": ""
@@ -104,9 +104,9 @@
                     "competency": "Vendor Relationships",
                     "examples": {
                         "0": "Limited familiarity with vendor and key contacts",
-                        "1": "Familiarity with Key Contacts; Account management team, primary technical support and preferred escalation pathway, ",
+                        "1": "Familiarity with Key Contacts; Account management team, primary technical support and preferred escalation pathway",
                         "2": "Knowledge of the vendor support model, SLA's and regularly meets with key vendor contacts to discuss concerns, roadmap...etc",
-                        "3": "Full knowledge of the Vendor Ecosystem (3rd party integrations and relationships) as it pertains to the use of the specific application. "
+                        "3": "Full knowledge of the Vendor Ecosystem (3rd party integrations and relationships) as it pertains to the use of the specific application."
                     },
                     "rating": "",
                     "comment": ""
@@ -118,7 +118,7 @@
                         "0": "Unfamiliar with the procurement process and how to buy a 'thing'",
                         "1": "Limited familiarity with the procurement process",
                         "2": "Knowledge of the procurement process and timelines. Can successfully buy a 'thing' with guidance",
-                        "3": "Deep understanding of the procurement process. Understands when to involve key players such as info sec and Enterprise architecture. Understands how to conduct and analyze the information from a gartner call. "
+                        "3": "Deep understanding of the procurement process. Understands when to involve key players such as info sec and Enterprise architecture. Understands how to conduct and analyze the information from a gartner call."
                     },
                     "rating": "",
                     "comment": ""
@@ -143,7 +143,7 @@
                     "category": "Skill",
                     "competency": "Problem Solving - Analysis/Solution",
                     "examples": {
-                        "0": "Limited ability to analyze problems and troubleshoot solutions independently ",
+                        "0": "Limited ability to analyze problems and troubleshoot solutions independently",
                         "1": "Ability to analyze problems that are presented and find impactful solutions.",
                         "2": "Ability to proactively identify problems, gather input from impacted stakeholders, and find impactful solutions.",
                         "3": "Ability to proactively identify problems, understand both the system and business impact, and work with key stakeholders to collaborate on solutions."

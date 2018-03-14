@@ -9,6 +9,330 @@
     "updated": "",
 
     "sections": {
+        "Quality & Health": {
+            "competencies": {
+                "QH1": {
+                    "category": "Behavior",
+                    "competency": "Understands the monitoring tools used by the company and how to use them effectively for different purposes (e.g. logs, stats, security).",
+                    "examples": {
+                        "0": "May be aware of monitoring tools but does not actively use them in day-to-day work.",
+                        "1": " Is familiar with core monitoring tools and their purpose, but needs some guidance to use them effectively.",
+                        "2": "Consistently uses monitoring tools. Chooses the right tool for the job and can resolve issues in a reactive way.",
+                        "3": "Uses monitoring tools proactively. Actively looks for inches, digs into historical data and increases the quality and health of systems based on that data."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "QH2": {
+                    "category": "Behavior",
+                    "competency": "Identifies and implements performance enhancements.",
+                    "examples": {
+                        "0": "Does not know how to test application performance or determine application performance metrics.",
+                        "1": "Can find server performance metrics and can test application performance with guidance from others.",
+                        "2": "Takes an active and consistent interest to baseline and improve application performance. Can debug performance issues in real time.",
+                        "3": "Consistently identifies potential bottlenecks in the performance of a application. Frequently optimizes infrastructure to be more efficient. Considers performance tuning a key part of a application's life-cycle."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "QH3": {
+                    "category": "Knowledge",
+                    "competency": "Understands different metrics of application health and performance.",
+                    "examples": {
+                        "0": "Has limited familiarity with server health, resource usage, and other metrics of quality.",
+                        "1": "Understands some of the indications of server health and application performance and the factors that impact them.",
+                        "2": "Understands all of the indications of server health and application performance and the factors that impact them. Knows how to respond when those metrics hit certain thresholds.",
+                        "3": "Ensures the most important metrics of server and application health and performance are actively monitored . Takes consistent action to enable a high-performance application to function effectively."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "QH4": {
+                    "category": "Behavior",
+                    "competency": "Follows established development and quality standards (security, performance, testing, coding style).",
+                    "examples": {
+                        "0": "Is unaware of team or company standards or does not follow them.",
+                        "1": "Is aware of team and company standards. May overlook standards on occasion to ship sooner for business partners and to meet time demands.",
+                        "2": "Follows company standards and understands the importance of adhering to them. Actively seeks out senior engineers if unsure on best practices or if no clear company guidelines are available.",
+                        "3": "Actively works diligently to adhere to standards and improve them if necessary. Sets an example for others to follow and does the right thing. Promotes company standards to other less experienced team members. Addresses NFRs and actively works to ensure compliance with company standards."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "QH5": {
+                    "category": "Skill",
+                    "competency": "Plans for scalability ",
+                    "examples": {
+                        "0": "Does not think of future scalability when designing or maintaining applications",
+                        "1": "Is aware of current scope and the need to plan for future scalability but cannot forecast growth needs.",
+                        "2": "Can forecast future scalability needs with some help. Is aware of current trends for their applications. Sometimes implements changes before they are an issue",
+                        "3": "Can help others plan for future scalability and advocates for good scalability planning. Proactively tests and implements changes to prevent system issues before they could become an issue"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "QH6": {
+                    "category": "Behavior",
+                    "competency": "Identifies, explains, and resolves application issues.",
+                    "examples": {
+                        "0": "Can assist with troubleshooting issues but may have difficulty finding their exact causes and requires supervision from a more experienced team member.",
+                        "1": "Can troubleshoot and fix simple issues. Often needs help to identify an issue but can fix it under guidance from a more senior engineer.",
+                        "2": "Quickly resolves and fixes issues of all types within the team's application(s).",
+                        "3": "Can quickly troubleshoot issues and find their solutions. Efficiently identifies issues in high pressure situations such as outages. The \"Goto person\" when other engineers cannot isolate and identify issues."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "QH7": {
+                    "category": "Skill",
+                    "competency": "Design & configure systems to fail gracefully and handle error conditions (e.g. service failures, logging).",
+                    "examples": {
+                        "0": "Has limited familiarity with how to best handle edge cases or error conditions.",
+                        "1": "Can design & configure a system that handles errors and exceptions from dependent systems.",
+                        "2": "Can design & configure a robust system that defends against common error scenarios such as bad responses from services and log the appropriate information to allow quick and efficient troubleshooting.",
+                        "3": "Has deep knowledge and understanding of how error handling works in all aspects of the team's application. Knows how to safely log errors for monitoring. Designs systems in a defensive way to protect against all situations - including rare failures or edge cases."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Troubleshooting": {
+            "competencies": {
+                "TS1": {
+                    "category": "Skill",
+                    "competency": " Integration troubleshooting skills. (complex systems interacting with each other)",
+                    "examples": {
+                        "0": "Has limited understanding or knowledge of how systems interact, therefore does not know the best way to troubleshoot issues that arise.",
+                        "1": " Team member is proficient in troubleshooting integration issues between systems they individually own and others.",
+                        "2": "Team member is proficient in troubleshooting integration issues between systems the team owns and others.",
+                        "3": "Team member understands enterprise integration patterns and practices. Even with limited exposure or no previous ownership they are proficient in troubleshooting integration issues between systems across the enterprise."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TS2": {
+                    "category": "Behavior",
+                    "competency": "General Troubleshooting Skills",
+                    "examples": {
+                        "0": "Recognizes when there may be an issue but has a hard time discerning what steps to take to begin troubleshooting.",
+                        "1": "Generally recognizes the type of issue to focus troubleshooting based on symptoms.",
+                        "2": "Quickly identifies issues. Knowing the correct tools and processes to effectively and efficiently resolve issues in a timely manner.",
+                        "3": "Understands the big picture of an overall problem to not just fix an issue, but identify root causes or downstream repercussions."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TS3": {
+                    "category": "Skill",
+                    "competency": "Technology specific troubleshooting skills",
+                    "examples": {
+                        "0": "Has limited understanding or knowledge of the systems the team owns, therefore does not know the best way to troubleshoot issues that arise.",
+                        "1": "Proficient in troubleshooting the technologies of the specific systems a team member owns.",
+                        "2": "Proficient in troubleshooting the technologies of the specific systems the team owns.",
+                        "3": "Proficient in troubleshooting a wide range of technologies used across the enterprise."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Application Management": {
+            "competencies": {
+                "AM1": {
+                    "category": "Skill",
+                    "competency": "Technical Documentation",
+                    "examples": {
+                        "0": "You have the ability to understand and document how information flows through a system.",
+                        "1": "You have the ability to understand and document how data flows through your system and ancillary systems.",
+                        "2": "Ability to understand and document and how different systems are able to interface with each other (through API’s, data feeds, etc).",
+                        "3": "You have an advanced grasp of system configurations and know how to break down and document the pieces of a system – modules, interfaces, etc."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AM2": {
+                    "category": "Skill",
+                    "competency": "Application Configuration",
+                    "examples": {
+                        "0": "Understands their application and can explain the application's configuration",
+                        "1": "Needs assistance to execute any configuration changes.",
+                        "2": "Limited  assistance in executing significant configuration changes.",
+                        "3": "independently execute any configuration changes."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AM3": {
+                    "category": "Skill",
+                    "competency": "Backup, Disaster, and Recovery",
+                    "examples": {
+                        "0": "Understands the general backup strategy for your system.",
+                        "1": "Understands what needs to happen during the backup and recovery processes.",
+                        "2": "Understands the best practices for backup and recovery processes and ensures they are implemented.",
+                        "3": "Can execute or can communicate the backup and recovery process; can perform a complete system recovery from backup."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AM4": {
+                    "category": "Skill",
+                    "competency": "Application Knowledge",
+                    "examples": {
+                        "0": "Understands some of the best practices for applications in our environment and how they are to be implemented.  Understand the overall system architecture, processes and standards in relation to their systems.",
+                        "1": "Understands the best practices for applications in our environment and how they are to be implemented.  They can speak on a high level concerning the overall application architecture, processes, and standards in relation to their systems.",
+                        "2": "Through the use of application knowledge, they can help to decide the best practices for systems in their environment.  Can pull from their knowledge and experience to improve their systems.  They can speak in depth concerning the overall system architecture, processes and standards in relation to their applications.",
+                        "3": "Often demonstrates a high level of application knowledge that helps define best practices for systems across the company.  A leading voice on the team that pulls from their knowledge and experience to consistanly improve our systems.  They provide an expert level of guidance with our existing systems and what functionality they provide in our environment."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Full Stack & Tooling": {
+            "competencies": {
+                "FS1": {
+                    "category": "Knowledge",
+                    "competency": "Database",
+                    "examples": {
+                        "0": "Has a basic understanding of database development, different database technologies, and a basic understanding of database concepts.",
+                        "1": "Has experience in at least one database technology used at QL, and can execute without much assistance.",
+                        "2": "Has deep experience in multiple database technologies used in or around QL, and can execute without much assistance.",
+                        "3": "Is able to implement & show case a new database technology on a team to solve a problem. Is able to design solutions using a specific technology for a specific use case."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "FS2": {
+                    "category": "Skill",
+                    "competency": "Can set up a complete local environment for a system",
+                    "examples": {
+                        "0": "Can set up the basic technology used by the team but not a complete development environment to the company's standards using core services.",
+                        "1": "Can follow documentation and setup system dependencies to  administer their team's applications. May need guidance from more senior engineers to help troubleshoot.",
+                        "2": "Can take the lead in setup for environment for all layers of the team's applications with collaboration of other engineers.",
+                        "3": " Defines procedure and writes documentation for set up of environment and has in-depth knowledge of system dependencies and how to install them - including any required VMs, databases or system tools. Actively works on process improvement and knowledge share with others."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "FS3": {
+                    "category": "Skill",
+                    "competency": "Understands and drive changes to all levels of the team's projects and applications",
+                    "examples": {
+                        "0": "Contributes to at least one level of the team's applications - and can read and provide input/code review others.",
+                        "1": "Can make changes to several layers of the team's applications.",
+                        "2": "Can make changes to all layers of the team's applications and actively improves their knowledge and familiarity with all components of the team's systems.",
+                        "3": "Writes high quality code for multiple layers of the team's applications such as client-side javascript, backend .net, and database queries and schema. Has in-depth understanding of each layer and can dive deep when necessary."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "FS4": {
+                    "category": "Knowledge",
+                    "competency": "Understands the various types of testing and their importance (e.g. unit, functional, user acceptance).",
+                    "examples": {
+                        "0": "Familiar with some form of testing, but may not know the differences between various testing methods.",
+                        "1": "Understands the differences between unit and integration testing and when they are used in the team's applications.",
+                        "2": "Understands the value of multiple types of test suites for an application or software and the different scenarios they help protect against. Knows how to write most types of tests for their team's projects.",
+                        "3": "Has in-depth knowledge on the various types of testing and the value they add. Understands all types of testing and what is needed to make automated test suites robust enough to cover nearly every scenario and enable continuous deployment."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Vision": {
+            "competencies": {
+                "VS1": {
+                    "category": "Knowledge",
+                    "competency": "Stays current on new and upcoming technologies.",
+                    "examples": {
+                        "0": "Has shown limited interest in learning new technology beyond that used by the team.",
+                        "1": "Understands and is familiar with new technology in the industry. Attends bullet time talks, conferences, reads online materials, blogs, and articles.",
+                        "2": "Shows active interest and curiosity in new initiatives and services or systems within QL. Stays up to date on new libraries or technology in their domain. Knows about upcoming changes or versions of libraries or frameworks used by the team and shares that knowledge with others.",
+                        "3": "Has their finger on the pulse of technology and the industry. Actively stays current on all technologies in their domain including frontend, backend, database, and any other systems used by their team - even components they do not directly contribute too. Usually one of the first in the company to know about an upcoming technology and how it may be useful."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "VS2": {
+                    "category": "Behavior",
+                    "competency": "Provides/understands technical road map of the application's domain to development teams and business partners.",
+                    "examples": {
+                        "0": "Focused only on execution of requests from the business.",
+                        "1": "Understands user stories and business impact of the requests.",
+                        "2": "Full understanding of requests, and the lift required to execute them (e.g. Engage with stakeholders, make recommendations, document, alignment and buy-in).",
+                        "3": "Driving the direction and vision of the team's growth, focusing on the execution of team's road map."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Architecture": {
+            "competencies": {
+                "AC1": {
+                    "category": "Skill",
+                    "competency": "Authentication",
+                    "examples": {
+                        "0": "May have implemented simple login or authentication but does not have an understanding of best practices.",
+                        "1": "Understands the basics of company authentication methods, such as Active Directory or Single Sign On.",
+                        "2": "Has experience with implementing authentication such as Ping and OAuth for their team's applications.",
+                        "3": "Understands implementation details for many authentication protocols such as Windows Forms auth, NTLM, Kerberos, OAuth, OpenID Connect, and SAML."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AC2": {
+                    "category": "Knowledge",
+                    "competency": "Access & Authorization",
+                    "examples": {
+                        "0": "Understands who has access to what in the application, but have limited knowledge on how it's being controlled and done.",
+                        "1": "Understands the security requirements and concerns for granting access to sensitive data and follows best practices both from QL and the industry. Understand how Access & Authorization is being implemented in their applications, ability to change, add or remove access.",
+                        "2": "Design and implement access models and roles in the application",
+                        "3": "Has familiarity with authorization methods used within the company such as Authorizor and Active Directory - or has implemented their own RBAC or ACL system."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AC3": {
+                    "category": "Knowledge",
+                    "competency": "Encryption",
+                    "examples": {
+                        "0": "Not familiar with the data encryption methods",
+                        "1": "Familiar with general data encryption concepts like encryption at rest, Database encryption, and other encryption methods and techniques",
+                        "2": "Ability to make decisions on where and when to use what type of encryption.",
+                        "3": "Ability to design and implement data encryption models within the applications"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AC4": {
+                    "category": "Skill",
+                    "competency": "Architecture Platform (Storage, OS, Server, Network, Workstations)",
+                    "examples": {
+                        "0": "Knowledgeable about some modules of the application, storage systems, and network protocols used; where applicable",
+                        "1": "Knowledgeable about all the application modules and how they work together, management of storage systems, and troubleshooting network problems",
+                        "2": "Ablity to make decisions on how configure the application to fit the business case, as well as being knowlegable about storage and network requirements",
+                        "3": "Driver for all levels of the application architecture, constantly making decisions and changes to the application to fine tune it from usability, performance and functionality aspects."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AC5": {
+                    "category": "Knowledge",
+                    "competency": "Application Integration",
+                    "examples": {
+                        "0": "Familiar with software APIs, SDKs, and web services, knowledgeable about API methods, and types like REST, SOAP and others.",
+                        "1": "Knowledgeable about the application APIs and endpoints, what methods are supported via the API and what is not. Knowledgeable about event triggered API",
+                        "2": "Knowledgeable about when to use what endpoint for certain integration, ability to make decision on what to use for integrations between applications",
+                        "3": "Design and architect integrations between applications, integration strategy plan, and data flow design."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
         "Programming Concepts": {
             "competencies": {
                 "P1": {

@@ -1,33 +1,133 @@
 {
-    "Core Competencies": "https://git/pages/SKluck/trac/surveys/core-survey.json",
-    "Software Engineering": "https://git/pages/SKluck/trac/surveys/se-survey.json",
-    "Web UI Engineering": "https://git/pages/SKluck/trac/surveys/webui-survey.json",
-
-    "Application Engineer": "https://git/pages/SKluck/trac/surveys/application-engineer-survey.json",
-    "Executive Assistant": "https://git/pages/SKluck/trac/surveys/executive-assistant-survey.json",
-    "Team Leader": "https://git/pages/SKluck/trac/surveys/leader-survey.json",
-    "Knowledge Management Specialist": "https://git/pages/SKluck/trac/surveys/knowledge-management-specialist-survey.json",
-
-    "Tech U - Instructional Designer": "https://git/pages/SKluck/trac/surveys/techu-instructional-designer-survey.json",
-    "Tech U - Learning Coordinator": "https://git/pages/SKluck/trac/surveys/techu-learning-coordinator-survey.json",
-    "Tech U - Learning Consultant": "https://git/pages/SKluck/trac/surveys/techu-learning-consultant-survey.json",
-    "Tech U - Technical Editor": "https://git/pages/SKluck/trac/surveys/technical-editor-survey.json",
-    "Tech U - Technical Writer": "https://git/pages/SKluck/trac/surveys/technical-writer-survey.json",
-
-    "BI - Business Analyst": "https://git/pages/SKluck/trac/surveys/bi-business-analyst-survey.json",
-    "BI - Data Analyst": "https://git/pages/SKluck/trac/surveys/bi-data-analyst-survey.json",
-    "BI - Data Scientist": "https://git/pages/SKluck/trac/surveys/bi-data-scientist-survey.json",
-    "BI - Data Warehouse Engineer": "https://git/pages/SKluck/trac/surveys/bi-data-warehouse-engineer-survey.json",
-    "BI - Engineer": "https://git/pages/SKluck/trac/surveys/bi-engineer-survey.json",
-    "BI - Big Data Engineer": "https://git/pages/SKluck/trac/surveys/bi-big-data-engineer-survey.json",
-    "BI - Modeler": "https://git/pages/SKluck/trac/surveys/bi-modeler-survey.json",
-
-    "Agile Coach (V1)": "https://git/pages/SKluck/trac/surveys/agile-coach-survey.json",
-    "Agile Release Manager (V1)": "https://git/pages/SKluck/trac/surveys/agile-release-manager-survey.json",
-
-    "Business Support Specialist (V1)": "https://git/pages/SKluck/trac/surveys/business-support-specialist-survey.json",
-    "IT Service Management Analyst (V1)": "https://git/pages/SKluck/trac/surveys/itsm-analyst-survey.json",
-    "Product Owner (V1)": "https://git/pages/SKluck/trac/surveys/product-owner-survey.json",
-
-    "Sample": "https://git/pages/SKluck/trac/surveys/sample-survey.json"
+    "General": [
+        {
+            "Name": "Core Competencies",
+            "URL": "https://git/pages/SKluck/trac/surveys/core-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/TRAC%3A++Core+Competencies"
+        },
+        {
+            "Name": "Software Engineering",
+            "URL": "https://git/pages/SKluck/trac/surveys/se-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Software+Development+and+Architecture+Skills+V2"
+        },
+        {
+            "Name": "Web UI Engineering",
+            "URL": "https://git/pages/SKluck/trac/surveys/webui-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Web+UI+Development+and+Architecture+Skills"
+        },
+        {
+            "Name": "Application Engineer",
+            "URL": "https://git/pages/SKluck/trac/surveys/application-engineer-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Application+Engineer"
+        },
+        {
+            "Name": "Team Leader",
+            "URL": "https://git/pages/SKluck/trac/surveys/leader-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Leadership"
+        }
+    ],
+    "Business Intelligence": [
+        {
+            "Name": "BI - Business Analyst",
+            "URL": "https://git/pages/SKluck/trac/surveys/bi-business-analyst-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/BI+Business+Analyst"
+        },
+        {
+            "Name": "BI - Data Analyst",
+            "URL": "https://git/pages/SKluck/trac/surveys/bi-data-analyst-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/BI+Data+Analyst"
+        },
+        {
+            "Name": "BI - Data Scientist",
+            "URL": "https://git/pages/SKluck/trac/surveys/bi-data-scientist-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Data+Scientist"
+        },
+        {
+            "Name": "BI - Data Warehouse Engineer",
+            "URL": "https://git/pages/SKluck/trac/surveys/bi-data-warehouse-engineer-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Data+Warehouse"
+        },
+        {
+            "Name": "BI - Engineer",
+            "URL": "https://git/pages/SKluck/trac/surveys/bi-engineer-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/BI+Engineer"
+        },
+        {
+            "Name": "BI - Big Data Engineer",
+            "URL": "https://git/pages/SKluck/trac/surveys/bi-big-data-engineer-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Big+Data+Engineer"
+        },
+        {
+            "Name": "BI - Modeler",
+            "URL": "https://git/pages/SKluck/trac/surveys/bi-modeler-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Modeler"
+        }
+    ],
+    "Tech U": [
+        {
+            "Name": "Tech U - Instructional Designer",
+            "URL": "https://git/pages/SKluck/trac/surveys/techu-instructional-designer-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Instructional+Designer-+IT"
+        },
+        {
+            "Name": "Tech U - Learning Coordinator",
+            "URL": "https://git/pages/SKluck/trac/surveys/techu-learning-coordinator-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Learning+Coordinator"
+        },
+        {
+            "Name": "Tech U - Learning Consultant",
+            "URL": "https://git/pages/SKluck/trac/surveys/techu-learning-consultant-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Learning+Consultant"
+        },
+        {
+            "Name": "Tech U - Technical Editor",
+            "URL": "https://git/pages/SKluck/trac/surveys/technical-editor-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Technical+Editor"
+        },
+        {
+            "Name": "Tech U - Technical Writer",
+            "URL": "https://git/pages/SKluck/trac/surveys/technical-writer-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Technical+Writer"
+        }
+    ],
+    "Knowledge Management": [
+        {
+            "Name": "Knowledge Management Specialist",
+            "URL": "https://git/pages/SKluck/trac/surveys/knowledge-management-specialist-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Knowledge+Management+Specialist"
+        }
+    ],
+    "Version 1": [
+        {
+            "Name": "Agile Coach (V1)",
+            "URL": "https://git/pages/SKluck/trac/surveys/agile-coach-survey.json",
+            "ConfluenceURL": ""
+        },
+        {
+            "Name": "Agile Release Manager (V1)",
+            "URL": "https://git/pages/SKluck/trac/surveys/agile-release-manager-survey.json",
+            "ConfluenceURL": ""
+        },
+        {
+            "Name": "Business Support Specialist (V1)",
+            "URL": "https://git/pages/SKluck/trac/surveys/business-support-specialist-survey.json",
+            "ConfluenceURL": ""
+        },
+        {
+            "Name": "IT Service Management Analyst (V1)",
+            "URL": "https://git/pages/SKluck/trac/surveys/itsm-analyst-survey.json",
+            "ConfluenceURL": ""
+        },
+        {
+            "Name": "Product Owner (V1)",
+            "URL": "https://git/pages/SKluck/trac/surveys/product-owner-survey.json",
+            "ConfluenceURL": ""
+        }
+    ],
+    "Examples": [
+        {
+            "Name": "Sample",
+            "URL": "https://git/pages/SKluck/trac/surveys/sample-survey.json"
+        }
+    ]
 }

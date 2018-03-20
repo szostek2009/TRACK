@@ -589,8 +589,9 @@ Vue.component('surveys', {
             }
 
             var sources = {};
-            for (var title in response.data) {
-                sources[title] = response.data[title];
+            for (var groupName in response.data) {
+                surveys = response.data[groupName];
+                sources[groupName] = surveys;
             }
 
             this.sources = sources;

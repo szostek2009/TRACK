@@ -207,7 +207,7 @@
                                 <template v-for="source_survey in source_surveys">
                                     <div class="item" v-if="source_survey.URL">
                                         <div class="right floated content">
-                                            <a class="ui tiny green icon button" @click="fetchBlankSurvey(source_http)">
+                                            <a class="ui tiny green icon button" @click="fetchBlankSurvey(source_survey.URL)">
                                                 <i class="plus icon"></i>
                                                 Start
                                             </a>

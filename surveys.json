@@ -80,12 +80,12 @@
             "ConfluenceURL": "https://confluence/display/TRAC/Learning+Consultant"
         },
         {
-            "Name": "Tech U - Technical Editor",
+            "Name": "Technical Editor",
             "URL": "https://git/pages/SKluck/trac/surveys/technical-editor-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Technical+Editor"
         },
         {
-            "Name": "Tech U - Technical Writer",
+            "Name": "Technical Writer",
             "URL": "https://git/pages/SKluck/trac/surveys/technical-writer-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Technical+Writer"
         },

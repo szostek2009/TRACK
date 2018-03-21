@@ -63,7 +63,7 @@
             "ConfluenceURL": "https://confluence/display/TRAC/Modeler"
         }
     ],
-    "Tech U": [
+    "Level Up": [
         {
             "Name": "Tech U - Instructional Designer",
             "URL": "https://git/pages/SKluck/trac/surveys/techu-instructional-designer-survey.json",
@@ -88,9 +88,7 @@
             "Name": "Tech U - Technical Writer",
             "URL": "https://git/pages/SKluck/trac/surveys/technical-writer-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Technical+Writer"
-        }
-    ],
-    "Knowledge Management": [
+        },
         {
             "Name": "Knowledge Management Specialist",
             "URL": "https://git/pages/SKluck/trac/surveys/knowledge-management-specialist-survey.json",

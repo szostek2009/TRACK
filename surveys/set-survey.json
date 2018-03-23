@@ -1,0 +1,593 @@
+{
+    "_comment": "https://confluence/display/TRAC/Software+Quality+Engineering+and+Architecture+Skills",
+
+    "type": "Software Quality Engineering",
+    "version": "2.0.0",
+
+    "id": "",
+    "name": "",
+    "updated": "",
+
+    "sections": {
+        "General Knowledge: Application/Team/Business Knowledge": {
+            "competencies": {
+                "BK1": {
+                    "category": "Knowledge",
+                    "competency": "Business Knowledge",
+                    "examples": {
+                        "0": "Can explain how an application is used by the business/operations, and the value it provides to our clients (including who the users are, and how they use the application)",
+                        "1": "Has shadowed business users of an application, and understands how to mimic their interactions with the application",
+                        "2": "Consistently performs \"user testing\" for an application",
+                        "3": "Advocates for User Validation Testing (http://shorty/UV)"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AK2": {
+                    "category": "Knowledge",
+                    "competency": "Application Knowledge (Functionality):",
+                    "examples": {
+                        "0": "Ability to understand an application, what it does, and why (business value)",
+                        "1": "Understands how the application flows: specifically for various user and data scenarios",
+                        "2": "Has domain specific knowledge of exceptions/special cases for an application, and why – and then what happens next",
+                        "3": "Drives / advocates for functionality improvements within the application"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AK3": {
+                    "category": "Knowledge",
+                    "competency": "Understands how their team's applications integrate with external systems:",
+                    "examples": {
+                        "0": "Should know what an application \"looks like\": how to access the application, which servers contain which parts of the application, for each environment, and how our users work with the system. Application Infrastructure & Architecture Knowledge (FrontEnd, MidWare/APIs, N-Tier, Database, Load Balanced Servers, Build/Deploy/Testing tools, Etc.). Has a limited understanding of the system topology and dependency graph of the team's applications.",
+                        "1": "Know how the architecture is laid out (front-end, mid-wares, databases, how code is updated into the app, etc.). Understands the dependencies such as services and databases of their team's applications and how they communicate with them.",
+                        "2": "Knows all tools involved for a team and how they relate to the infrastructure (Code changes, Source Control, IDE, Testing, CI, Deploy, Cloud storage/deploys, etc.). Familiar with the dependency graph of their team's applications and what systems they are reliant on - including specific data contracts and specifications in addition to endpoints or services used. Understands service failures or errors and how to handle them gracefully with methods such as back-offs, exponential timeouts and when to surface those error conditions to consumers.",
+                        "3": "Drives for, suggests, and implements improvement changes within the team's environment, architecture, tooling, and process improvements. Drives application and system design to be more resilient and less coupled to changes to upstream services. Sets best practices for inter-system communication using common protocols and industry standards for performance, security, and interoperability."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AT4": {
+                    "category": "Knowledge",
+                    "competency": "Application/Test Data & Test Scenarios:",
+                    "examples": {
+                        "0": "Knowledge of the application data (client info, setting up scenarios, external vendor / 3rd party applications, data flows, etc.). Testing Scenarios: Thresholds, Service Level Agreements, boundary conditions, etc. Knowledge of the application coverage for data scenarios.",
+                        "1": "Data hand offs between systems (external to application) : 3rd party vendors, other applications, etc. Understands the flow of data (such as client, user, or loan data) within their team's systems including the source systems and source of truth for data consumed by their systems. Knows what PII and PIFI are.",
+                        "2": "Has in-depth knowledge of methods of safeguarding data and follows best practices with regards to encryption and security. Understands the requirements and best practices for protecting data both internal and externally-accessible as well as at-rest and in-flight. Follows NFRs for data management.",
+                        "3": "Understands data sanitization and both the requirements and limitations of data formats, storage, and transport - across the enterprise. Sets standards for protecting data and pushes others to be more respectful and protective of company data."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "QS5": {
+                    "category": "Skill",
+                    "competency": "Team Quality Strategy (end-to-end, security, performance, regression, etc.):",
+                    "examples": {
+                        "0": "Familiarity with team quality standards, tools, languages, and processes",
+                        "1": "Understands the various types of testing used by the development team, throughout the software development lifecycle, and their purposes. (Testing Types: Unit, integration, web service, user interface, database, security, performance, etc.)",
+                        "2": "Design and implement quality processes and strategy for a team, project, or product.",
+                        "3": "Develop program-level quality strategy and test plan (e.g. Apollo or Darwin overall quality strategy and testing plan)"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "MS6": {
+                    "category": "Skill",
+                    "competency": "Work Management Systems (Agile, TFS/JIRA, Etc.):",
+                    "examples": {
+                        "0": "Knows how to create a work item + knows various work item lifecycle flows (Create > Done, for Features, Stories, Issues, Bugs, Test Cases, etc.)",
+                        "1": "Knows how to query on and organize work items. Can also apply correct metadata to work items (Linked work items, Area Path, Iterations, Team, etc.)",
+                        "2": "Uses the system to organize and track various testing activities, and display test results to the team/stakeholders.",
+                        "3": "Can suggest changes or modify work item lifecycles for process efficiencies, can perform advanced functions (such as tying test related work items to existing automations, integrating the work management system to other tooling for added visibility/tracking, etc.)"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TS7": {
+                    "category": "Behavior",
+                    "competency": "Follows established team standards (security, performance, testing, coding style):",
+                    "examples": {
+                        "0": "Is unaware of team or company standards or often ignores them.",
+                        "1": "Is aware of company and community standards for development languages and processes. May ignore standards on occasion to ship features sooner for business partners and demands.",
+                        "2": "Follows company standards and understands the importance of adhering to them. Actively seeks out senior developers if unsure on best practices and when no clear company guidelines are available.",
+                        "3": "Sets an example for others in following standards and doing the right thing. Addresses NFRs and actively works to ensure compliance with company standards. Works hard to adhere to standards without cutting corners to ship sooner."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "\t Quality Concepts : Automation & Coding Concepts": {
+            "competencies": {
+                "QC1": {
+                    "category": "Knowledge",
+                    "competency": "Quality Concepts: Testing Pyramid, DRY, TDD, BDD, ATDD, Continuous Integration/Deployment, Page Models, Functional Programming, Peer Design/Programming, SOLID, Design Patterns/Anti-Patterns, Package Design/Coupling, etc. ",
+                    "examples": {
+                        "0": " Has an awareness of and has read about many of the quality concepts in the list above",
+                        "1": "Has learned enough about many of the programming concepts above to clearly define and speak to them, the importance behind them, and also has the ability to implement them at a moderate level",
+                        "2": "Actively practices many of the programming concepts above and has the ability to quickly implement them at a high level, following best practices",
+                        "3": "Has personally implemented many of the quality concepts for their application stack, and can speak to / train others on, both the why and how of each implementation"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "CC2": {
+                    "category": "Knowledge",
+                    "competency": "Understands common development principles (e.g. DRY, KISS, YAGNI):",
+                    "examples": {
+                        "0": "Has heard of common software engineering principles and practices, but may lack understanding why they are important.",
+                        "1": "Is aware of a few basic software development philosophies such as YAGNI, KISS -- and how they affect software design and development.",
+                        "2": "Has a complete understanding of several software development philosophies from Wikipedia: Software Development Philosophies, and has experience using them in practice - including when ignoring them caused issues or made development more difficult.",
+                        "3": "Understands many development principles and philosophies from Wikipedia: Software Development Philosophies, how they affect the process of software development and software engineering and the quality of software - including when they are important to follow and when there may be a reason to ignore or bypass them"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "CF3": {
+                    "category": "Skill",
+                    "competency": "Fundamentals of coding (class, functions, methods, loops, if/else/switch, exceptions, OO/Functional, etc.):",
+                    "examples": {
+                        "0": "Knows basic coding concepts",
+                        "1": "Can write code with help from someone",
+                        "2": "Can independently write code, implementing concepts",
+                        "3": "Can write advanced code, using advanced concepts, and can mentor other engineers and teach these concepts"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AC4": {
+                    "category": "Skill",
+                    "competency": "Language Types:",
+                    "examples": {
+                        "0": "Can record/playback, create, modify, and maintain automated tests in a scripted language (VBScript, JavaScript, etc.)",
+                        "1": "Can create, modify, and maintain automated tests using an advanced automation language: Imperative, Functional, OO, etc. (PHP, Python, Java, Groovy, C#, F#, GoLang, etc.)",
+                        "2": "Can build and maintain advanced test suites, for differing types of test types: unit, integration, database, web services, security, performance, etc.",
+                        "3": "Possess deep experience creating and maintaining differing types of advanced automated tests (unit, integration, database, performance, etc.), using multiple advanced coding languages/frameworks"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "MT5": {
+                    "category": "Skill",
+                    "competency": "Writes Maintainable Tests:",
+                    "examples": {
+                        "0": "Edit existing tests, in the style of the original",
+                        "1": "Create/Design modular tests, from scratch",
+                        "2": "Creation/Use of: Page Object Models, Setup/Tear-Down, helper functions, etc.",
+                        "3": "Writes clean, modular, decoupled code - that is easily readable / understandable"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "CR6": {
+                    "category": "Skill",
+                    "competency": "Performing Code Reviews:",
+                    "examples": {
+                        "0": "Knows the importance of, asks for, and resolves feedback from peer code reviews",
+                        "1": "Can perform a code review for a simple code change, for others",
+                        "2": "Can perform code reviews for major code changes / large-scale refactoring: using design/architectural patterns, race conditions, implicit/explicit wait conditions reasoning, implementing/using automation IDs, de-coupled code / maintainability / simplicity, limiting function parameters, etc.",
+                        "3": "Can mentor and teach others about things to watch out for when coding"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "QP7": {
+                    "category": "Knowledge",
+                    "competency": "Knowledge of Quality Design Patterns (Page Object Model, Reusable Methods/Helpers, Architectural Models):",
+                    "examples": {
+                        "0": "Knows the different Quality Design Patterns and can explain them",
+                        "1": "Can implement one or more Quality Design Patterns with or without help",
+                        "2": "Can implement Quality Design Patterns independently",
+                        "3": "Can mentor others on Quality Design Patterns and when/why to use"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "RA8": {
+                    "category": "Skill",
+                    "competency": "Root Cause Analysis:",
+                    "examples": {
+                        "0": "Can collect the different artifacts that are required ",
+                        "1": "Can analyze artifacts collected from tools, logs, and other sources - and has some idea of what the problem is",
+                        "2": "Can analyze artifacts collected from tools, logs, and other sources - and has a clear idea what the issue is, and may point to the problematic code",
+                        "3": "Can analyze a problematic situation, perform a deep dive / root cause analysis, and suggest possible remediation solutions."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "QR9": {
+                    "category": "Skill",
+                    "competency": "Risk Assessments: Security Attack Vectors, Performance Bottlenecks/Concerns, Disaster Recovery Considerations, etc.",
+                    "examples": {
+                        "0": "Can perform a risk assessment for small to mid-sized features (identifying things likely to break/go wrong within the feature, negative scenarios, etc.)",
+                        "1": "Can perform a risk assessment for large features (looking for areas/scenarios which could block a user of the feature from using the features as expected)",
+                        "2": "Can perform a risk assessment for large systems or applications (scenarios: data, infrastructure/environments, team related constraints, external system dependencies, etc.)",
+                        "3": "Can perform risk assessments for multiple inter-related systems and applications (project/program scope dependencies)"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AT0": {
+                    "category": "Skill",
+                    "competency": "Applying Testing Concepts: Takes functional requirements/acceptance criteria, and converting them into automated tests, with assertions",
+                    "examples": {
+                        "0": "Able to understand functional requirements, define test scenarios and cases based on the product requirements. Ensure testable acceptance criteria and able to verify the defined scenarios and cases. Can perform validation testing to ensure that requirements are being met, and provide test results to prove that everything is working as expected.",
+                        "1": "Skilled at creating positive and negative test cases from requirements, at varying levels of testing (unit, integration, user interface, smoke, regression, etc.). Also skilled at identifying and/or creating test data that will be needed for testing. Setting up environments that the team will need for testing (managing test accounts, test data scenarios identifying various devices, browsers/OS, etc.).  ",
+                        "2": "Able to organize test cases using various testing techniques, including but not limited to: Boundary condition analysis, equivalence partitioning, Pareto Principle, Use Case testing, Ad-Hoc/Exploratory, etc. Ability to perform advanced testing techniques using automation such as: integration testing, end-to-end testing, back-end (database) verification, API testing, security, performance, etc.",
+                        "3": "Advocates and mentors other team members on best practices and provides guidance. Can integrate automations with advanced quality concepts such as: Deployment verification, CI/CD pipelines, quality gates, disaster recovery planning, high availability testing, performance considerations, scalability testing, etc."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "SC1": {
+                    "category": "Knowledge",
+                    "competency": "Security: Understands potential attack vectors within applications. (STRIDE, attack vectors, PII/PIFI, OWASP, etc.)",
+                    "examples": {
+                        "0": "Understands the basics of securing information for their systems and applications: Knows what Personal Identifiable Information (PII) / Personal Identifiable Financial Information (PIFI) are - and the importance of protecting this data.  Has heard of a few common attacks such as XSS and SQL Injection, but may not understand how they work or can be tested.",
+                        "1": "Is aware of some common attacks from OWASP such as XSS, CSRF, and SQL injection and how they may be used to take advantage of an application. Can perform basic security tests and threat assessments.  Familiar with many security testing techniques, and can explain how to test/protect an application against them.",
+                        "2": "Has an in-depth understanding of most types of attack vectors, and how they affect and exploit their team's applications. Ability to work with the InfoSec team, to ensure that all application security concerns are addressed. (Ex: STRIDE modeling)",
+                        "3": "Knows how to avoid unsafe programming patterns, and can guide others in best practices for defensive coding."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "MA2": {
+                    "category": "Knowledge",
+                    "competency": "Monitoring: Understands the monitoring metrics and tools used by the company and how to integrate with them (e.g. logs, usage, system, security).",
+                    "examples": {
+                        "0": "May be familiar with one or two services but does not have a complete picture of all monitoring services used by applications their team supports.",
+                        "1": "Is aware of core services, their purpose, and which tools to integrate with, but needs guidance to integrate with their application.",
+                        "2": "Can perform complete setup for an application to connect to core services - either directly or through SDKs provided by the company.",
+                        "3": "Contributes to libraries and SDKs for core services and participates in setting standards, including evaluation of those tools and systems. (Splunk, App Dynamics, SCOM, Zabbix, Acunetix, etc) "
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "PF3": {
+                    "category": "Knowledge",
+                    "competency": "Performance: Understands different metrics of application health and performance.",
+                    "examples": {
+                        "0": "Has limited familiarity with application health, error handling, and other metrics of quality. Understands at a high level the signals of application health and performance and the factors that impact them.",
+                        "1": "Understands the most important metrics for measuring application health and performance such as response time, throughput, error rates, logging and how to respond appropriately at various thresholds.",
+                        "2": "Understands what it takes to ensure a high-performance application (proactively and reactively). Defines load time expectations, as a service level contract for an application's performance. Uses tools to debug performance/load test issues, and then works with the team and engages Team Impact to remediate any performance related issues.",
+                        "3": "Drives UI performance optimization/improvements, from existing benchmarks, and utilizes advanced tools to detect load and performance issues.  Knows what could be optimized within the team's applications, and when optimization is less necessary due to diminishing returns."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "CM4": {
+                    "category": "Behavior",
+                    "competency": "Code Maintainability:",
+                    "examples": {
+                        "0": "Can write test code and create test automation with oversight from more experienced engineers. Example: Writes maintainable and modular code, utilizing Page Object Modules.",
+                        "1": "Implements test automation quickly and efficiently. Demonstrates regular, incremental, and visible progress.",
+                        "2": "Documents their code, and writes maintainable software with flexibility and users in mind.",
+                        "3": "Has written large-scale applications or libraries while maintaining solid software architecture using best practices. Writes thoughtful code that takes users into account and considers readability and comprehension a priority (principle of least surprise)."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "OPP": {
+                    "category": "Knowledge",
+                    "competency": "OOP / Procedural Programming Concepts: Understands object-oriented programming paradigms and patterns.",
+                    "examples": {
+                        "0": "Knows what OOP is and the differences between OOP and other paradigms such as functional or procedural programming.",
+                        "1": "Understands / Familiar with basic OOP fundamentals such as objects, inheritance, interfaces, data modeling, and relationships. Knows of SOLID principles.",
+                        "2": "Understands OOP and more advanced topics such as domain driven-design, composition, and the Law of Demeter. Familiar with SOLID, GRASP, and many other design patterns such as factories, repositories, facades, decorators, singletons, etc. and has used them when developing test automation.",
+                        "3": "Has in-depth knowledge of most OOP design patterns and has built or managed large-scale software using them."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "FPC": {
+                    "category": "Knowledge",
+                    "competency": "Functional Programming Concepts:",
+                    "examples": {
+                        "0": "Knows what Function Programming (FP) is, and the differences between FP and other paradigms such as object-oriented or procedural programming.  Understands functional programming paradigms and patterns. Wikipedia: Software Architecture Styles and Patterns",
+                        "1": "Understands FP basics such as first-class functions, closures, immutability, and statelessness.",
+                        "2": "Understands more advanced FP topics such as monads, currying, accumulators, pipelines, fold/reduce, map, etc and has used them when developing.",
+                        "3": "Has deep knowledge of most functional programming design patterns and has built or managed large-scale software using them."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TAC": {
+                    "category": "Behavior",
+                    "competency": "Test Automation Coding:",
+                    "examples": {
+                        "0": "Writes comprehensive tests for all code. Can write automated tests, but needs encouragement or guidance.",
+                        "1": "Proactively writes automated (unit, integration, or acceptance) tests for their projects.",
+                        "2": "Has used both TDD and BDD and has significant experience with at least one of them. Helps push the bar higher on code coverage and other testing metrics for projects they are involved in.",
+                        "3": "A champion of automated testing. Has experience writing all types of tests including unit tests and acceptance or integration tests. A proponent of quality coding practices, code coverage, and evangelizes high quality standards on their projects."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TA5": {
+                    "category": "Skill",
+                    "competency": "Test Automation:",
+                    "examples": {
+                        "0": "Has experience in at least one automated solution (programming language and tooling), and can create simple automated tests, within an existing framework, without much assistance.  Understands how to create automated test solutions.",
+                        "1": "Has deep experience in an automated solution, (programming language and tooling), and can create automated tests without much assistance.",
+                        "2": "Be skilled and proficient in a programming language or automated solution",
+                        "3": "A true \"Automated Solution Polyglot\". Has deep knowledge and experience using multiple automation solutions and tools."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TA6": {
+                    "category": "Skill",
+                    "competency": "Test Automation Debugging / Tooling:",
+                    "examples": {
+                        "0": "Can debug automation code to determine if failures exist in the test code, application code, etc. Use various debugging tools to identify and fix bugs.",
+                        "1": "Able to identify bugs and issues using the debugging tools that are standard for the development environment being used.",
+                        "2": "Able to identify and solve complex bugs. Able to proficiently use the debug tools that are included and standard for their development environment.",
+                        "3": "Able to use advanced debugging tools to solve complex problems. Examples include profiling applications to identify performance issues and analyzing memory usage to identify areas for improvement."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TTL": {
+                    "category": "Knowledge",
+                    "competency": "Testing Types / Levels: Understands the various types of testing and their importance (e.g. unit, functional, acceptance, user).",
+                    "examples": {
+                        "0": "Familiar with some form of testing, but may not know the differences between various testing methods.",
+                        "1": "Understands the differences between unit and integration testing and when they are used in the team's applications.",
+                        "2": "Understands the value of multiple types of test suites for an application or software and the different scenarios they help protect against. Knows how to write most types of tests for their team's projects.",
+                        "3": "Has in-depth knowledge of the various types of testing, and the value they add. Understands all types of testing and what is needed to make automated test suites robust enough to cover nearly every scenario and enable continuous deployment."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TAF": {
+                    "category": "Knowledge",
+                    "competency": "Test Automation Frameworks / Tooling:",
+                    "examples": {
+                        "0": "Understands the value of frameworks/libraries and how to use them effectively. Aware of the frameworks used by the team but has limited experience with them.",
+                        "1": "Knows the value of shared frameworks. Has used frameworks and knows how to be more efficient to reduce boilerplate code and development time.",
+                        "2": "Digs deeply into framework and library documentation or code and knows the frameworks and libraries used by the team's applications in great detail.",
+                        "3": "Has a lot of experience with frameworks and comparing the features they provide to judge which frameworks or libraries should be used by the team's applications. Works with architects and identifies opportunities to serve the QL developer community with shared code or solve common problems across development teams."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "ITW": {
+                    "category": "Knowledge",
+                    "competency": "Integration Testing Web Services (APIs):",
+                    "examples": {
+                        "0": "Understands inter-system communication protocols (e.g. REST, SOAP, RPC, Queues). Understands the basic of Service Oriented Architecture and how services are used to communicate. (200s, 400s, 500s)",
+                        "1": "Has familiarity and experience testing web services, with common protocols used for inter-system communication at QL such as REST and SOAP.",
+                        "2": "Can test a service used by other services or systems, using best practices and industry-standards (service virtualization/mocking). Understands the value of following standards in testing APIs.",
+                        "3": "Has deep knowledge and experience in testing/ensuring the quality of a Service Oriented Architected application. [Knows and can speak to Messaging (Pub/Sub) / SOA concepts, and how to ensure quality].  Understands in-depth communication protocols and common enterprise system architecture such as service buses, queues, and event-driven architecture."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TE": {
+                    "category": "Skill",
+                    "competency": "Testing Environment:",
+                    "examples": {
+                        "0": "Can set up the basic technology used by the team but not a complete development environment to the company's standards using core services. Can set up a complete local environment for a system (e.g. IDE, runtime, web servers, database).",
+                        "1": "Can follow documentation and set up system dependencies to develop their team's applications. May need guidance from more senior engineers to help troubleshoot.",
+                        "2": "Can setup development environment for all layers of the team's applications with minimal or no oversight.",
+                        "3": "Defines procedure and writes documentation for development environment and has in-depth knowledge of systems and data - and how to recreate them: including any required VMs, databases, or system tools. Actively works on process improvement and knowledge share with others."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "FSQ": {
+                    "category": "Skill",
+                    "competency": "Full Stack Quality:",
+                    "examples": {
+                        "0": "Can make changes to all levels of the team's projects (e.g. client-side, front-end, backend, database). Contributes to at least one level of the team's applications - and can read and provide input/code review others.",
+                        "1": "Can make changes to several layers of the team's applications.",
+                        "2": "Can make changes to all layers of the team's applications and actively improves their knowledge and familiarity with all components of the team's systems.",
+                        "3": "Writes high quality, idiomatic and tested code for multiple layers of the team's applications such as client-side javascript, backend .net, and database queries and schema. Has in-depth understanding of each layer and can dive deep when necessary."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Community / Mentoring": {
+            "competencies": {
+                "GO1": {
+                    "category": "Behavior",
+                    "competency": "Growing Others: Learning / Teaching / Mentoring+Coaching: Provide the guidance, support, and feedback for our technology team members to assess, grow, and progress in their careers.",
+                    "examples": {
+                        "0": "Be mentored by others, consistently.",
+                        "1": "Mentor peers occasionally.",
+                        "2": "Consistently mentor team members.",
+                        "3": "Helps to drive mentoring at a higher level, by helping drive / defining content for such programs as: TRAC, CGL, MAP, The Key Project, The Journey, etc."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "CS2": {
+                    "category": "Skill",
+                    "competency": "Collaboration Skills: Business/Team Collaboration: Presentation, Communication, Knowledge Sharing",
+                    "examples": {
+                        "0": "Able to speak to the team, defining quality requirements and processes for their applications. Consistent clear and gump communication, fostering positive working relationships within the team.",
+                        "1": "Ability to explain to, understand, and work with the business, from a quality perspective.",
+                        "2": "Capable of analyzing business requests and propose flexible solutions which work for the team, the user, and the business - setting the quality direction for an application.",
+                        "3": "Collaborate with the business, explaining / helping drive the direction of the business, ensuring all aspects of quality for their systems."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "CP3": {
+                    "category": "Behavior",
+                    "competency": "Community Presence: Quality Community (Attending / Presenting / Driver) Is actively involved with quality / development communities (e.g. giving talks, helping others).",
+                    "examples": {
+                        "0": "Does not actively participate in IT Communities or contribute knowledge back to other developers, on a consistent basis.",
+                        "1": "Participates regularly in IT Communities, and actively involved in developing standards and best practices across teams and applications.",
+                        "2": "Gives talks during bullet time and IT communities. Actively looks for ways to share knowledge and improve developer skills. Mentors other engineers in both an unofficial and official capacity.",
+                        "3": "Leads an IT community. Works to improve developer relations and recruiting at QL. Mentors other engineers and frequently gives talks both within QL and outside of QL at conferences or meet-ups. Is a domain expert and makes great effort to be available to assist other developers and teams."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "PP4": {
+                    "category": "Skill",
+                    "competency": "Pair / Peer Programming:",
+                    "examples": {
+                        "0": "Is familiar with the concepts of pair programming, but has never performed it.",
+                        "1": "Has coded by pair programming with fellow team members.",
+                        "2": "Can drive a mob-programming session, where multiple team members (more than 2) collectively code a solution. This mob may include BAs, QAs, Developers, Product Owners, etc. in the same room, using a single keyboard, and all working together to create solution collaboratively.",
+                        "3": "Advocates and mentors other team members on pair-programming best practices, use case scenarios, and implementations."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "QS5": {
+                    "category": "Behavior",
+                    "competency": "Quality Standards: Helps design and encourage team/community quality standards (e.g. performance, testing, coding styles).",
+                    "examples": {
+                        "0": "Is not involved in defining community quality standards or shows no interest.",
+                        "1": "Participates and provides feedback on quality standards for the development and quality communities (internally or externally).",
+                        "2": "Understands the value of common standards and guides discussions and driving consensus among their team or multiple teams.",
+                        "3": "A domain expert and thought leader within a development/quality community. Helps teams and entire communities develop standards to improve their collaboration methods."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "PG6": {
+                    "category": "Behavior",
+                    "competency": "Commitment to Personal Growth: Learns new languages or systems and knows when it is appropriate to introduce them.",
+                    "examples": {
+                        "0": "Has shown limited interest in learning new technology beyond that used by the team.",
+                        "1": "Has learned basics of a new technology or language and written code or implemented it during a bullet time project.",
+                        "2": "Demonstrates curiosity and interest in learning new technology and applying it to QL to make themselves and others more efficient or produce higher quality software. Works with architects to investigate new technology or products when introduced into the company or the team's applications.",
+                        "3": "Actively investigates and reviews new technology such as programming languages or services and tools such as database technologies. Can justify their use and when to make use of them within QL in an enterprise setting. Understands the ramifications of introducing a new technology within QL in a mission critical system. Has discovered, researched, and implemented a new technology within QL while satisfying NFRs and company standards for quality and security."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "QT7": {
+                    "category": "Behavior",
+                    "competency": "Staying Current on Quality Technologies",
+                    "examples": {
+                        "0": "Has shown limited interest in learning new technology beyond that used by the team.",
+                        "1": "Learns about new technology in the industry by attending bullet time talks, attending conferences, or reading online materials, blogs, and articles.",
+                        "2": "Shows active interest and curiosity in new initiatives and services or systems within QL. Stays up to date on new libraries or technology in their domain. Knows about upcoming changes or versions of libraries or frameworks used by the team and shares that knowledge with others.",
+                        "3": "Has their finger on the pulse of technology and the industry. Actively stays current on all technologies in their domain including front-end, backend, database, and any other systems used by their team - even components they do not directly contribute too. Usually one of the first in the company to know about an upcoming technology and how it may be useful."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "DC8": {
+                    "category": "Behavior",
+                    "competency": "Writes effective documentation both in and outside of code (e.g. comments, change-logs, architecture, system design, Gliffies):",
+                    "examples": {
+                        "0": "Rarely writes documentation or only when prompted.",
+                        "1": "Consistently writes good documentation in code such as comments and API documentation.",
+                        "2": "Writes technical and non-technical documentation both in code and outside of code such as system references, project decisions and architecture. Keeps documentation up-to-date to ensure correctness and clarity.",
+                        "3": "Writes clear, thorough, and useful documentation in every facet of software development. Comments code consistently and clearly. Designs system architecture and data modeling diagrams. Authors simple upgrade and usage guidelines for users of their applications and libraries. Encourages others to document their software and processes to increase shared knowledge."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "GW9": {
+                    "category": "Behavior",
+                    "competency": "Growth: Has shown to take the initiative for personal growth in specialization of knowledge",
+                    "examples": {
+                        "0": "Has shown limited interest in diving deep and becoming an expert in a specialized technology or business area.",
+                        "1": "Shows an active and consistent curiosity in a specialized domain or area of expertise relevant to the company beyond their primary language. Actively looks for opportunities to be involved in company projects and initiatives in those domains.",
+                        "2": "Actively pursues their interest as a specialist in one or more significant business-impacting domains. Shows consistent progress and growth with their experience and knowledge.",
+                        "3": "Has deep knowledge in a specialized domain. Has experience with designing, architecting, and building software in that domain. Recognized in the company as a domain expert."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "AC0": {
+                    "category": "Skill",
+                    "competency": "\t Architecture: Implementing Quality Design Patterns + Concepts: Has experience with implementing Quality Design Patterns (& Anti-Patterns), and when to use each, for recommended scenarios.",
+                    "examples": {
+                        "0": "Has never heard of any Quality / Design Patterns, nor implemented any.",
+                        "1": "Familiar with the Page Object Model design pattern, and has implemented tests using POM.",
+                        "2": "Has used various design patterns in implementing automated testing solutions (Ex. Factory, Singleton, Builder, Command, Decorators, etc.)",
+                        "3": "Knows about various Architectural Patterns: Layered [N-Tier], Event-Driven, Microkernel, Microservices, Space-Based, Page Modeling, etc.) - and can speak to how to ensure quality/testability (and pain points) across each of the architectural patterns. Knows the best practices for each pattern/solution, and when to use them, and is able to teach others how/why to use patterns for various scenarios."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "DevOps / Deployments": {
+            "competencies": {
+                "VC1": {
+                    "category": "Skill",
+                    "competency": "Version Control Systems (also known as: Source Control Management: SCM):",
+                    "examples": {
+                        "0": "Understands version control and its importance within software development. Has limited familiarity with the VCS used by the team. Has ability to make changes and work within a version control software.  Is aware of the development team's source control methods being used, and is actively learning about repositories (Examples: TFS, GIT, SVN, etc.)  Understands the fundamentals of source control processes and practices. Mapping server repositories to local folders, simple checkouts, commits, merging, and code-review, pull-requests, and using a team's selected source control.  Ability to check-out and check-in changed files, view historical changes, roll back changes, and resolve basic merge conflicts.",
+                        "1": "Can use team's version control system to perform simple functions such as commits, branches, and merges. Knows how to proficiently use source control functionality. (Resolving merge conflicts, branching, etc.) Manage multiple branches, revert code changes, resolve complex merge conflicts, sets up new repositories, influence branching strategy. Can perform advanced Merge/Branches.. Setting up new a project in VCS / Manually resolving difficult merging conflicts.",
+                        "2": "Can perform complex functions such as rebasing, bisect, searching through VCS history, check-in locks, stashing, and partial staging. Knows the dangers of some commands and how to avoid losing data. Comfortable with console or CLI. Can help in defining team standards for VCS. Actively implements and uses various advanced features and process flows offered by the development team's source control system, to find opportunities/streamline to improve quality and development processes. This may also include integrating source control with other tooling (such as automatically running tests on changed checked-in code, automatically testing deployed code, etc.)",
+                        "3": "Deep knowledge in various delivery processes/concepts: Source Control / Branching Strategies, and can teach others best practices related to them.  Understands the meaning behind VCS commands and how they work. Can handle conflict resolution for any situation and recovering data when something goes wrong. Often helps others when they have a VCS-related issue.  Advocates and mentors other team members on best practices and provides guidance on source control practices."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "DT2": {
+                    "category": "Knowledge",
+                    "competency": "Deployments + Test Automation: Understands requirements and process for deploying applications in their domain.",
+                    "examples": {
+                        "0": "Can deploy the team's applications using QL tools and systems through a GUI or app but lacks understanding of how the process works.",
+                        "1": "Understands the individual commands, scripts or processes for deploying their applications.",
+                        "2": "Has an in-depth understanding of the processes run in order to deploy their team's projects to multiple environments - including both on-premise and cloud. Aware of specific QL processes or caveats for our enterprise environment including consideration of our staging environments and network conditions. Can quickly debug issues that arise anywhere in the process.",
+                        "3": "Has extensive knowledge of how to deploy projects across the enterprise for a wide range of project types. Actively works on process improvement for simpler, faster, and more consistent deployments. An expert in the release management process - often consults and assists other teams and developers with troubleshooting."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "DC3": {
+                    "category": "Knowledge",
+                    "competency": "Deployment Coordination: Understands their team's deployment pipelines, and how to manage deployments for applications in their domain.",
+                    "examples": {
+                        "0": "Has basic familiarity with the change management tools used by the team but may not know the processes and protocols to follow.",
+                        "1": "Understands how to use the tools, systems and platforms used by their team including project and change management systems and the required processes QL has defined for promoting code to production.",
+                        "2": "Knows the entire software development process and SDLC from task intake to production deployment including requirements gathering, testing and promotion through environments. Helps define the standards and processes that the team follows for release management.",
+                        "3": "Often helps define best practices and standards across the company for release management. A leading voice on the team with a focus on the shipping process - taking in requirements and delivering high-quality code to clients as quickly and safely as possible. An expert of release engineering for their team and others."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "CI4": {
+                    "category": "Knowledge",
+                    "competency": "Continuous Integration: Understands Continuous Integration concepts.",
+                    "examples": {
+                        "0": "Posses knowledge on continuous integration concepts. (Checking-in changes early and often, run tests, and tighter feedback loops). Has knowledge of how various tools are used to support CI, and continuously run tests. Has knowledge of how various delivery processes/concepts pertaining to Continuous Integration are implemented/set-up.",
+                        "1": "Able to run/test/manage a continuously integrated application.",
+                        "2": "Ability to create/debug Continuous Integration tooling for an application.",
+                        "3": "Drives for/implements a Continuous Integration strategy for their team - and can coach others on best practices."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "CD5": {
+                    "category": "Knowledge",
+                    "competency": "Knowledge of Continuous Deployment / Continuous Delivery:",
+                    "examples": {
+                        "0": "Has knowledge of deployment processes: Assists the team to prepare for deployments, ensuring tasks are complete, organized, and following teams deployment standards.  Plans, manages, and coordinates an application deployment. Creates and follow the deployment plan, and ensures that the application is working as expected, and has been tested accordingly. Also communicates effectively to business partners the status of the deploys. Is able to do the right thing when speed bumps occur in the deploy while communicating effectively.",
+                        "1": "Able to help implement Continuous Deployment practices within the application team. Helps implement a holistic deployment strategy, and continuously improve/streamline/debug the deployment processes.  Understands Continuous Deployment practices and how it can be implemented within the application teams.",
+                        "2": "Understands the different tools in the market for continuous deployments, and is able to discuss major concerns/advantages",
+                        "3": "Deep knowledge in how to perform automated testing as part of the Build-Test-Deploy Pipelines, Continuous Deployment, etc"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "CM6": {
+                    "category": "Knowledge",
+                    "competency": "Code Metrics:",
+                    "examples": {
+                        "0": "Has a basic understanding of quality metrics (Code Coverage, Tech Debt, Maintainability Index, etc.)",
+                        "1": "Deep knowledge in various concepts for Code Metrics, and why/how to measure and track metrics",
+                        "2": "Actively drives for code quality metric improvements. (Code Coverage increases, Tech Debt reduction, Code Complexity / Class Coupling reduction, etc.)",
+                        "3": "Takes action to actively improve/implement code quality metrics. (Code Coverage increases, Tech Debt reduction, Code Complexity / Class Coupling reduction, etc.)"
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        }
+    }
+}

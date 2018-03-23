@@ -6,12 +6,17 @@
             "ConfluenceURL": "https://confluence/display/TRAC/TRAC%3A++Core+Competencies"
         },
         {
-            "Name": "Software Engineering",
+            "Name": "Software Development and Architecture",
             "URL": "https://git/pages/SKluck/trac/surveys/se-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Software+Development+and+Architecture+Skills+V2"
         },
         {
-            "Name": "Web UI Engineering",
+            "Name": "Software Quality Engineering and Architecture",
+            "URL": "https://git/pages/SKluck/trac/surveys/set-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Software+Quality+Engineering+and+Architecture+Skills"
+        },
+        {
+            "Name": "Web UI Development and Architecture",
             "URL": "https://git/pages/SKluck/trac/surveys/webui-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Web+UI+Development+and+Architecture+Skills"
         },

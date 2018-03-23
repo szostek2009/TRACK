@@ -127,6 +127,11 @@
             "ConfluenceURL": ""
         },
         {
+            "Name": "Product Management (V1)",
+            "URL": "https://git/pages/SKluck/trac/surveys/product-management-survey.json",
+            "ConfluenceURL": ""
+        },
+        {
             "Name": "UX Designer (V1)",
             "URL": "https://git/pages/SKluck/trac/surveys/ux-designer-survey.json",
             "ConfluenceURL": ""

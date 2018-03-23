@@ -23,7 +23,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "AK2": {
+                "BK2": {
                     "category": "Knowledge",
                     "competency": "Application Knowledge (Functionality):",
                     "examples": {
@@ -35,7 +35,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "AK3": {
+                "BK3": {
                     "category": "Knowledge",
                     "competency": "Understands how their team's applications integrate with external systems:",
                     "examples": {
@@ -47,7 +47,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "AT4": {
+                "BK4": {
                     "category": "Knowledge",
                     "competency": "Application/Test Data & Test Scenarios:",
                     "examples": {
@@ -59,7 +59,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "QS5": {
+                "BK5": {
                     "category": "Skill",
                     "competency": "Team Quality Strategy (end-to-end, security, performance, regression, etc.):",
                     "examples": {
@@ -71,7 +71,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "MS6": {
+                "BK6": {
                     "category": "Skill",
                     "competency": "Work Management Systems (Agile, TFS/JIRA, Etc.):",
                     "examples": {
@@ -83,7 +83,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "TS7": {
+                "BK7": {
                     "category": "Behavior",
                     "competency": "Follows established team standards (security, performance, testing, coding style):",
                     "examples": {
@@ -97,7 +97,7 @@
                 }
             }
         },
-        "\t Quality Concepts : Automation & Coding Concepts": {
+        "Quality Concepts : Automation & Coding Concepts": {
             "competencies": {
                 "QC1": {
                     "category": "Knowledge",
@@ -111,7 +111,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "CC2": {
+                "QC2": {
                     "category": "Knowledge",
                     "competency": "Understands common development principles (e.g. DRY, KISS, YAGNI):",
                     "examples": {
@@ -123,7 +123,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "CF3": {
+                "QC3": {
                     "category": "Skill",
                     "competency": "Fundamentals of coding (class, functions, methods, loops, if/else/switch, exceptions, OO/Functional, etc.):",
                     "examples": {
@@ -135,7 +135,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "AC4": {
+                "QC4": {
                     "category": "Skill",
                     "competency": "Language Types:",
                     "examples": {
@@ -147,7 +147,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "MT5": {
+                "QC5": {
                     "category": "Skill",
                     "competency": "Writes Maintainable Tests:",
                     "examples": {
@@ -159,7 +159,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "CR6": {
+                "QC6": {
                     "category": "Skill",
                     "competency": "Performing Code Reviews:",
                     "examples": {
@@ -171,7 +171,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "QP7": {
+                "QC7": {
                     "category": "Knowledge",
                     "competency": "Knowledge of Quality Design Patterns (Page Object Model, Reusable Methods/Helpers, Architectural Models):",
                     "examples": {
@@ -183,7 +183,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "RA8": {
+                "QC8": {
                     "category": "Skill",
                     "competency": "Root Cause Analysis:",
                     "examples": {
@@ -195,7 +195,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "QR9": {
+                "QC9": {
                     "category": "Skill",
                     "competency": "Risk Assessments: Security Attack Vectors, Performance Bottlenecks/Concerns, Disaster Recovery Considerations, etc.",
                     "examples": {
@@ -207,7 +207,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "AT0": {
+                "QC10": {
                     "category": "Skill",
                     "competency": "Applying Testing Concepts: Takes functional requirements/acceptance criteria, and converting them into automated tests, with assertions",
                     "examples": {
@@ -219,7 +219,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "SC1": {
+                "QC11": {
                     "category": "Knowledge",
                     "competency": "Security: Understands potential attack vectors within applications. (STRIDE, attack vectors, PII/PIFI, OWASP, etc.)",
                     "examples": {
@@ -231,7 +231,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "MA2": {
+                "QC12": {
                     "category": "Knowledge",
                     "competency": "Monitoring: Understands the monitoring metrics and tools used by the company and how to integrate with them (e.g. logs, usage, system, security).",
                     "examples": {
@@ -243,7 +243,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "PF3": {
+                "QC13": {
                     "category": "Knowledge",
                     "competency": "Performance: Understands different metrics of application health and performance.",
                     "examples": {
@@ -255,7 +255,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "CM4": {
+                "QC14": {
                     "category": "Behavior",
                     "competency": "Code Maintainability:",
                     "examples": {
@@ -267,7 +267,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "OPP": {
+                "QC15": {
                     "category": "Knowledge",
                     "competency": "OOP / Procedural Programming Concepts: Understands object-oriented programming paradigms and patterns.",
                     "examples": {
@@ -279,7 +279,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "FPC": {
+                "QC16": {
                     "category": "Knowledge",
                     "competency": "Functional Programming Concepts:",
                     "examples": {
@@ -291,7 +291,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "TAC": {
+                "QC17": {
                     "category": "Behavior",
                     "competency": "Test Automation Coding:",
                     "examples": {
@@ -303,7 +303,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "TA5": {
+                "QC18": {
                     "category": "Skill",
                     "competency": "Test Automation:",
                     "examples": {
@@ -315,7 +315,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "TA6": {
+                "QC19": {
                     "category": "Skill",
                     "competency": "Test Automation Debugging / Tooling:",
                     "examples": {
@@ -327,7 +327,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "TTL": {
+                "QC20": {
                     "category": "Knowledge",
                     "competency": "Testing Types / Levels: Understands the various types of testing and their importance (e.g. unit, functional, acceptance, user).",
                     "examples": {
@@ -339,7 +339,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "TAF": {
+                "QC21": {
                     "category": "Knowledge",
                     "competency": "Test Automation Frameworks / Tooling:",
                     "examples": {
@@ -351,7 +351,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "ITW": {
+                "QC22": {
                     "category": "Knowledge",
                     "competency": "Integration Testing Web Services (APIs):",
                     "examples": {
@@ -363,7 +363,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "TE": {
+                "QC23": {
                     "category": "Skill",
                     "competency": "Testing Environment:",
                     "examples": {
@@ -375,7 +375,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "FSQ": {
+                "QC24": {
                     "category": "Skill",
                     "competency": "Full Stack Quality:",
                     "examples": {
@@ -391,7 +391,7 @@
         },
         "Community / Mentoring": {
             "competencies": {
-                "GO1": {
+                "C1": {
                     "category": "Behavior",
                     "competency": "Growing Others: Learning / Teaching / Mentoring+Coaching: Provide the guidance, support, and feedback for our technology team members to assess, grow, and progress in their careers.",
                     "examples": {
@@ -403,7 +403,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "CS2": {
+                "C2": {
                     "category": "Skill",
                     "competency": "Collaboration Skills: Business/Team Collaboration: Presentation, Communication, Knowledge Sharing",
                     "examples": {
@@ -415,7 +415,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "CP3": {
+                "C3": {
                     "category": "Behavior",
                     "competency": "Community Presence: Quality Community (Attending / Presenting / Driver) Is actively involved with quality / development communities (e.g. giving talks, helping others).",
                     "examples": {
@@ -427,7 +427,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "PP4": {
+                "C4": {
                     "category": "Skill",
                     "competency": "Pair / Peer Programming:",
                     "examples": {
@@ -439,7 +439,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "QS5": {
+                "C5": {
                     "category": "Behavior",
                     "competency": "Quality Standards: Helps design and encourage team/community quality standards (e.g. performance, testing, coding styles).",
                     "examples": {
@@ -451,7 +451,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "PG6": {
+                "C6": {
                     "category": "Behavior",
                     "competency": "Commitment to Personal Growth: Learns new languages or systems and knows when it is appropriate to introduce them.",
                     "examples": {
@@ -463,7 +463,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "QT7": {
+                "C7": {
                     "category": "Behavior",
                     "competency": "Staying Current on Quality Technologies",
                     "examples": {
@@ -475,7 +475,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "DC8": {
+                "C8": {
                     "category": "Behavior",
                     "competency": "Writes effective documentation both in and outside of code (e.g. comments, change-logs, architecture, system design, Gliffies):",
                     "examples": {
@@ -487,7 +487,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "GW9": {
+                "C9": {
                     "category": "Behavior",
                     "competency": "Growth: Has shown to take the initiative for personal growth in specialization of knowledge",
                     "examples": {
@@ -499,9 +499,9 @@
                     "rating": "",
                     "comment": ""
                 },
-                "AC0": {
+                "C10": {
                     "category": "Skill",
-                    "competency": "\t Architecture: Implementing Quality Design Patterns + Concepts: Has experience with implementing Quality Design Patterns (& Anti-Patterns), and when to use each, for recommended scenarios.",
+                    "competency": "Architecture: Implementing Quality Design Patterns + Concepts: Has experience with implementing Quality Design Patterns (& Anti-Patterns), and when to use each, for recommended scenarios.",
                     "examples": {
                         "0": "Has never heard of any Quality / Design Patterns, nor implemented any.",
                         "1": "Familiar with the Page Object Model design pattern, and has implemented tests using POM.",
@@ -515,7 +515,7 @@
         },
         "DevOps / Deployments": {
             "competencies": {
-                "VC1": {
+                "D1": {
                     "category": "Skill",
                     "competency": "Version Control Systems (also known as: Source Control Management: SCM):",
                     "examples": {
@@ -527,7 +527,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "DT2": {
+                "D2": {
                     "category": "Knowledge",
                     "competency": "Deployments + Test Automation: Understands requirements and process for deploying applications in their domain.",
                     "examples": {
@@ -539,7 +539,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "DC3": {
+                "D3": {
                     "category": "Knowledge",
                     "competency": "Deployment Coordination: Understands their team's deployment pipelines, and how to manage deployments for applications in their domain.",
                     "examples": {
@@ -551,7 +551,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "CI4": {
+                "D4": {
                     "category": "Knowledge",
                     "competency": "Continuous Integration: Understands Continuous Integration concepts.",
                     "examples": {
@@ -563,7 +563,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "CD5": {
+                "D5": {
                     "category": "Knowledge",
                     "competency": "Knowledge of Continuous Deployment / Continuous Delivery:",
                     "examples": {
@@ -575,7 +575,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "CM6": {
+                "D6": {
                     "category": "Knowledge",
                     "competency": "Code Metrics:",
                     "examples": {

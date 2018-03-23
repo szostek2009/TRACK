@@ -125,6 +125,11 @@
             "Name": "Product Owner (V1)",
             "URL": "https://git/pages/SKluck/trac/surveys/product-owner-survey.json",
             "ConfluenceURL": ""
+        },
+        {
+            "Name": "UX Designer (V1)",
+            "URL": "https://git/pages/SKluck/trac/surveys/ux-designer-survey.json",
+            "ConfluenceURL": ""
         }
     ],
     "Examples": [

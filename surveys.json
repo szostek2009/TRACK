@@ -135,6 +135,16 @@
             "Name": "UX Designer (V1)",
             "URL": "https://git/pages/SKluck/trac/surveys/ux-designer-survey.json",
             "ConfluenceURL": ""
+        },
+        {
+            "Name": "Infosec Analyst (V1)",
+            "URL": "https://git/pages/SKluck/trac/surveys/infosec-analyst-survey.json",
+            "ConfluenceURL": ""
+        },
+        {
+            "Name": "Infosec Engineer (V1)",
+            "URL": "https://git/pages/SKluck/trac/surveys/infosec-engineer-survey.json",
+            "ConfluenceURL": ""
         }
     ],
     "Examples": [

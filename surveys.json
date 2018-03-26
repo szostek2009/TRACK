@@ -145,6 +145,16 @@
             "Name": "Infosec Engineer (V1)",
             "URL": "https://git/pages/SKluck/trac/surveys/infosec-engineer-survey.json",
             "ConfluenceURL": ""
+        },
+        {
+            "Name": "Database Engineer (V1)",
+            "URL": "https://git/pages/SKluck/trac/surveys/dbe-survey.json",
+            "ConfluenceURL": ""
+        },
+        {
+            "Name": "Enterprise Architect (V1)",
+            "URL": "https://git/pages/SKluck/trac/surveys/enterprise-architect-survey.json",
+            "ConfluenceURL": ""
         }
     ],
     "Examples": [

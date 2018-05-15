@@ -29,6 +29,11 @@
             "Name": "Team Leader",
             "URL": "https://git/pages/SKluck/trac/surveys/leader-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Leadership"
+        },
+        {
+            "Name": "Project Manager (NOT FINISHED)",
+            "URL": "https://git/pages/SKluck/trac/surveys/project-manager-survey.json",
+            "ConfluenceURL": "https://confluence/pages/viewpage.action?pageId=81524669"
         }
     ],
     "Business Intelligence": [
@@ -100,6 +105,18 @@
             "ConfluenceURL": "https://confluence/display/TRAC/Knowledge+Management+Specialist"
         }
     ],
+    "Product": [
+        {
+            "Name": "User Experience - Research",
+            "URL": "https://git/pages/SKluck/trac/surveys/ux-specialist-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/User+Experience+Research"
+        },
+        {
+            "Name": "Product Management (V1)",
+            "URL": "https://git/pages/SKluck/trac/surveys/product-management-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Product+Management"
+        }
+    ],
     "Version 1": [
         {
             "Name": "Agile Coach (V1)",
@@ -124,11 +141,6 @@
         {
             "Name": "Product Owner (V1)",
             "URL": "https://git/pages/SKluck/trac/surveys/product-owner-survey.json",
-            "ConfluenceURL": ""
-        },
-        {
-            "Name": "Product Management (V1)",
-            "URL": "https://git/pages/SKluck/trac/surveys/product-management-survey.json",
             "ConfluenceURL": ""
         },
         {

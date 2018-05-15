@@ -1,519 +1,19 @@
 {
-    "_comment": "https://confluence/display/TRAC/Product+Management",
+    "_comment": "https://confluence/display/TRAC/User+Experience+Designer",
 
-    "type": "Product Management",
-    "version": "1.1.0",
+    "type": "User Experience Research",
+    "version": "1.0.0",
 
     "id": "",
     "name": "",
     "updated": "",
 
     "sections": {
-        "Market Understanding": {
-            "competencies": {
-                "M1": {
-                    "category": "Skill",
-                    "competency": "Indentify competitive and alternative offers in the market. Assess their strengths and weaknesses. Develop a strategy for winning against the competition.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "M2": {
-                    "category": "Skill",
-                    "competency": "Understand why recent evaluators of the product did or did not fully execute and what steps they took in the evaluation process.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "M3": {
-                    "category": "Skill",
-                    "competency": "Articulate and leverage the organization's unique abilities to deliver value to the market.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "M4": {
-                    "category": "Skill",
-                    "competency": "\tExperience with various analytics tools, and business intelligence tools. Know what you’re looking for, and where to find it.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "M5": {
-                    "category": "Skill",
-                    "competency": "Broad understanding of usability, usability testing, usability heuristics. Ability to communicate to the user experience team using a common language.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "M6": {
-                    "category": "Skill",
-                    "competency": "\tDiscover problems in the market by interviewing clients, recent evaluators and untapped potential clients. Validate urgent problems to show their pervasivessness in the market.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "M7": {
-                    "category": "Skill",
-                    "competency": "Enhances persona cards created by UX.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "M8": {
-                    "category": "Skill",
-                    "competency": "Pushes UX and market research for indepth VOC research to deep dive potential areas and enhances study approach / content.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "M9": {
-                    "category": "Skill",
-                    "competency": "Peforms Porter Five Force Analysis semi-annually and works findings into roadmap.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "M10": {
-                    "category": "Skill",
-                    "competency": "\tAssess the strengths and weaknesses of an industry and predict where trends may turn into future capability, service and product gaps. Work with strategy centers of the organization to access future investments and strategic avenues.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "M11": {
-                    "category": "Skill",
-                    "competency": "\tBuild relationships with influencers of key opportunities and dangers from Porter Analysis' in order to influence outcomes.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                }
-            }
-        },
-        "Focus Opportunities": {
-            "competencies": {
-                "F1": {
-                    "category": "Skill",
-                    "competency": "Knows mortgage basics and understands client-facing technology basics.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "F2": {
-                    "category": "Skill",
-                    "competency": "Knows the current state of the business and can tie the threads to best leverage the team.  Demonstrates a wide understanding of client facing technology.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "F3": {
-                    "category": "Skill",
-                    "competency": "Shadows / observes clients and business in total of four hours a week and two days a month split evenly between client and team members.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "F04": {
-                    "category": "Skill",
-                    "competency": "Minimum level of expertise in finance, marketing, operations management, and strategy.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "F05": {
-                    "category": "Skill",
-                    "competency": "Map needs with target markets and analyze the market segments to actively pursue. Ensure that the targeted segments are large enough to support the current and future business of the product or service.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "F6": {
-                    "category": "Skill",
-                    "competency": "Determine which channels (web, mobile, bot, video, etc.) best align with your markets' preferences for specific features / capabilities.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "F7": {
-                    "category": "Skill",
-                    "competency": "Illustrate the vision and key phases of deliverables for the product or service. Each product or service has a Vision Traction Plan and a 12 month road map, both updated quarterly.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "F8": {
-                    "category": "Skill",
-                    "competency": "Integrate products into a coherent vertical portfolio of products and services focused on similiar market and business needs. Manage your product / service in consideration of an overall vertical plan (business plan, positioning, buying process, market requirements and marketing plan).",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "F9": {
-                    "category": "Skill",
-                    "competency": "Mapping and understanding complex competitive, partner, and customer ecosystems. Complexity and systems thinking. Domain research.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "F10": {
-                    "category": "Skill",
-                    "competency": "Knows the future state of the business and can influence the direction of the business",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                }
-            }
-        },
-        "Business Case": {
-            "competencies": {
-                "B1": {
-                    "category": "Skill",
-                    "competency": "Bring enterprise architects into discussions early to help determine best business and system arcitecture and to determine the most effective way to deliver a complete solution to an identified problem. Where you have gaps in your capabilities work together to decide to buy, build or partner.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "B2": {
-                    "category": "Skill",
-                    "competency": "\tEach epic and feature submitted for release planning has an impact filter and business value estimate. Light weight business cases are created for features.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "B3": {
-                    "category": "Skill",
-                    "competency": "Perform an objective anlysis of a potential market opporutnity to provide a basis for investment. Articulate what you learned in the market and quantify the risk including a light weight financial model.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "B4": {
-                    "category": "Skill",
-                    "competency": "Monitor and analyze key performance indicators to determine how well the product is performing in the market, how it impacts the company operations, and utlimately, how it contributes to profit.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "B5": {
-                    "category": "Skill",
-                    "competency": "Intermediate or higher negotiation, persuasion and evangelism skills. You must be able to effectively paint a picture for others in the organization of the things you want done and the value those actions bring the organization.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "B6": {
-                    "category": "Skill",
-                    "competency": "Advanced negotiation, persuasion and evanglism skills. You must be able to effectively paint a picture for others in an industry of the things you want done and the value those actions bring to industry stakeholders.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                }
-            }
-        },
-        "Planning the Development": {
-            "competencies": {
-                "P1": {
-                    "category": "Skill",
-                    "competency": "Create positioning documents describing the product by its ability to solve market problems.  Create internal positioning documents that will be used to develop esternal and internal messages focused on each key persona.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "P2": {
-                    "category": "Skill",
-                    "competency": "Illustrate market problems in a \"story / value statement \" that puts the problem (s) into context. Outline use scenarios and describe what must be true in each so that the appropriate products / services can be built. Provide benefit hypothesis and Acceptance criteria for EPics and Features.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "P3": {
-                    "category": "Skill",
-                    "competency": "Manage proactive communication with relevat stakeholders from strategy through execution.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "P4": {
-                    "category": "Skill",
-                    "competency": "Ensures all product / service EPIC / Feature backlogs are appropriately groomed.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "P5": {
-                    "category": "Skill",
-                    "competency": "Host Feature WSJF sessions with your product / service UATs.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "P6": {
-                    "category": "Skill",
-                    "competency": "Work with UX and Content Strategy to identify hypothesis risks and the most appropriate places for testing along the development path.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                }
-            }
-        },
-        "Programs - Going to Market": {
-            "competencies": {
-                "G1": {
-                    "category": "Skill",
-                    "competency": "Ensure that all business areas and teams are prepared for new product releases and all items are completed to the launch the product internally.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "G2": {
-                    "category": "Skill",
-                    "competency": "Articulate the strategies and tactics for generating awareness and leads for the upcoming period including key programs and events with measurements and goals.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "G3": {
-                    "category": "Skill",
-                    "competency": "\tResearch and document the process your company's main personas use to interact with your theme. Understand the barriers during the selection and usage process",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "G4": {
-                    "category": "Skill",
-                    "competency": "Assist marketing in defining the specific plans and budgets for selling products and servicing to new customers.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "G5": {
-                    "category": "Skill",
-                    "competency": "Measure and tun product marketing programs to ensure alignment with corporate goals.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "G6": {
-                    "category": "Skill",
-                    "competency": "Create and deliver thoughtful information (webinars, blogs, white papers, etc.) to influence clients, buyers, industry specialists, research analysts, editors in the press and other third parties.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "G7": {
-                    "category": "Skill",
-                    "competency": "Identify clients who are willing to give testimonials, be featured in case studies, or agree to be a reference.",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-                    },
-                    "rating": "",
-                    "comment": ""
-                }
-            }
-        },
-        "Readiness and Support": {
+        "UX Specialist": {
             "competencies": {
                 "R1": {
                     "category": "Skill",
-                    "competency": "Produce standard product presentations and demo scripts.",
+                    "competency": "Conduct UX research and provide analysis and actionable UX recommendations and artifacts",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -525,7 +25,7 @@
                 },
                 "R2": {
                     "category": "Skill",
-                    "competency": "Provide product and market expertise for events such as conferences, tradeshows and seminars.",
+                    "competency": "Help define and clarify research goals and choose research methods accordingly",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -537,7 +37,7 @@
                 },
                 "R3": {
                     "category": "Skill",
-                    "competency": "Routinely evangelise the benefits, promises and realities of your product and its solutions in a way that goes far beyond the feature list. Must consistently tell a reliable story.",
+                    "competency": "Design research protocols and prepare research plans that meet the needs of the development team",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -549,7 +49,7 @@
                 },
                 "R4": {
                     "category": "Skill",
-                    "competency": "Create tools for salespeople focused on a specific step of the selling process.",
+                    "competency": "Help organize and plan user research activities such as participant recruiting and scheduling, materials production, lab preparation, and other logistics",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
@@ -561,7 +61,419 @@
                 },
                 "R5": {
                     "category": "Skill",
-                    "competency": "Align your organization's selling process to the buying process, describing the key personas' information needs for each step in the process.",
+                    "competency": "Conduct end user research to capture the voice of the user to aid decision making",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R6": {
+                    "category": "Skill",
+                    "competency": "Pair with UX Designer to conduct rapid iterative usability testing of wire frames, mock ups, and prototypes",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R7": {
+                    "category": "Skill",
+                    "competency": "Translate and review research findings with UX Design and pair to create design recommendations early in the design cycle",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R8": {
+                    "category": "Skill",
+                    "competency": "Perform validation usability testing to determine whether features and products have met business and usability objectives",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R9": {
+                    "category": "Skill",
+                    "competency": "Perform qualitative and/or quantitative analyses",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R10": {
+                    "category": "Skill",
+                    "competency": "Prepare initial results and share with key stakeholders",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R11": {
+                    "category": "Skill",
+                    "competency": "Pair with UX Design to present findings/artifacts and recommendations to stakeholders and development teams",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R12": {
+                    "category": "Skill",
+                    "competency": "Assist product management and feature teams in defining functional interaction ",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R13": {
+                    "category": "Skill",
+                    "competency": "Collaborate with project teams from conceptualization to implementation",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R14": {
+                    "category": "Skill",
+                    "competency": "Ensure user needs, limitations, and attitudes are accounted for in the final development",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R15": {
+                    "category": "Skill",
+                    "competency": "Pair with UX designers to facilitate data-driven ideation sessions where we ensure the users needs are understood and considered",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R16": {
+                    "category": "Skill",
+                    "competency": "Pair with UX design to produce process flows and provide feedback in the form of mock-ups and wireframes",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R17": {
+                    "category": "Skill",
+                    "competency": "Work with design and development team members, collaborating on solutions that champion end-user needs",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R18": {
+                    "category": "Skill",
+                    "competency": "Participate in end user research and concept development including contextual inquiries, persona and scenario development, and ideation sessions",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R19": {
+                    "category": "Skill",
+                    "competency": "Collaborate throughout the lifecycle of a product, working in both Agile and Waterfall development environment",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R20": {
+                    "category": "Skill",
+                    "competency": "Develop innovative strategies to answer research questions ",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "User Data Collection Analysis": {
+            "competencies": {
+                "D1": {
+                    "category": "Skill",
+                    "competency": "Write, create and execute surveys including site intercepts. ",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "D2": {
+                    "category": "Skill",
+                    "competency": "Pair with analytics weekly and monthly to run analysis on data.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "D3": {
+                    "category": "Skill",
+                    "competency": "Interpret data and provide analysis to document and support client business goals, site KPIs and user assumptions.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "D4": {
+                    "category": "Skill",
+                    "competency": "Work as facilitator between quicken loans and our UX vendors to ensure methodologies are ran as expected.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "D5": {
+                    "category": "Skill",
+                    "competency": "Conduct UX research and provide analysis and actionable UX recommendations and artifacts",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "D6": {
+                    "category": "Skill",
+                    "competency": "Work as facilitator between Product Development and Analytics to ensure the User Experience is maintained across conversion testing and design initiatives",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "D7": {
+                    "category": "Skill",
+                    "competency": "Perform qualitative and/or quantitative analyses and document findings and recommendations",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "D8": {
+                    "category": "Skill",
+                    "competency": "Strategize with stakeholders on how to act on research finding",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "D9": {
+                    "category": "Skill",
+                    "competency": "Can build site intercepts from scratch including (if necessary): setting custom cookies in dtm, posting survey data to an API on survey submit, building intercept creative using custom html/css, etc.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "D10": {
+                    "category": "Skill",
+                    "competency": "Ability to independently run user testing sessions",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Advocate for and Know the User": {
+            "competencies": {
+                "A1": {
+                    "category": "Skill",
+                    "competency": "Speaks up for what's right for the client to anyone and is able to explain why it is important",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "A2": {
+                    "category": "Skill",
+                    "competency": "Actively shadows areas of the business and utilizes Mousetrap input to help solve user problems",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Communication": {
+            "competencies": {
+                "C1": {
+                    "category": "Skill",
+                    "competency": "Can communicate findings clearly and presents data in a fair, unbiased manner in regards to business wants or expectations.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C2": {
+                    "category": "Skill",
+                    "competency": "Present 'high level' summaries of research for stakeholders outside of the product team or possibly IT.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C3": {
+                    "category": "Skill",
+                    "competency": "Helps maintain confluence research library by adding completed work to it.  ",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Teamwork/Relationship Building": {
+            "competencies": {
+                "R1": {
+                    "category": "Skill",
+                    "competency": "Can evaluate who has what talent and utilizes bench appropriately",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R2": {
+                    "category": "Skill",
+                    "competency": "Creates a vision and a purpose for what others do",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "R3": {
+                    "category": "Skill",
+                    "competency": "Drives the mission of the Team",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",

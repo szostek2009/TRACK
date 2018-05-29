@@ -29,11 +29,6 @@
             "Name": "Team Leader",
             "URL": "https://git/pages/SKluck/trac/surveys/leader-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Leadership"
-        },
-        {
-            "Name": "Project Manager (NOT FINISHED)",
-            "URL": "https://git/pages/SKluck/trac/surveys/project-manager-survey.json",
-            "ConfluenceURL": "https://confluence/pages/viewpage.action?pageId=81524669"
         }
     ],
     "Business Intelligence": [

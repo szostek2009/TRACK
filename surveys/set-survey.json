@@ -293,12 +293,12 @@
                 },
                 "Q17": {
                     "category": "Behavior",
-                    "competency": "Test Automation Coding",
+                    "competency": "Test Automation Concepts",
                     "examples": {
-                        "0": "Writes comprehensive tests for all code. Can write automated tests, but needs encouragement or guidance.",
-                        "1": "Proactively writes automated (unit, integration, or acceptance) tests for their projects.",
-                        "2": "Has used both TDD and BDD and has significant experience with at least one of them. Helps push the bar higher on code coverage and other testing metrics for projects they are involved in.",
-                        "3": "A champion of automated testing. Has experience writing all types of tests including unit tests and acceptance or integration tests. A proponent of quality coding practices, code coverage, and evangelizes high quality standards on their projects."
+                        "0": "Understand the fundamentals of automated testing.",
+                        "1": "Mentors team members on the understanding and implementation of test automation concepts and tools.",
+                        "2": "Creates/implements an automation test strategy. Automates the process/use of the automated testing tooling and scripts, as part of the development process. (Continuous Integration, Nightly Runs, etc.).",
+                        "3": "Creates/implements an automation test strategy for the enterprise."
                     },
                     "rating": "",
                     "comment": ""
@@ -340,6 +340,18 @@
                     "comment": ""
                 },
                 "Q21": {
+                    "category": "Behavior",
+                    "competency": "Test Automation Coding",
+                    "examples": {
+                        "0": "Writes comprehensive tests for all code. Can write automated tests, but needs encouragement or guidance.",
+                        "1": "Proactively writes automated (unit, integration, or acceptance) tests for their projects.",
+                        "2": "Has used both TDD and BDD and has significant experience with at least one of them. Helps push the bar higher on code coverage and other testing metrics for projects they are involved in.",
+                        "3": "A champion of automated testing. Has experience writing all types of tests including unit tests and acceptance or integration tests. A proponent of quality coding practices, code coverage, and evangelizes high quality standards on their projects."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "Q22": {
                     "category": "Knowledge",
                     "competency": "Test Automation Frameworks / Tooling",
                     "examples": {
@@ -351,7 +363,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "Q22": {
+                "Q23": {
                     "category": "Knowledge",
                     "competency": "Integration Testing Web Services (APIs)",
                     "examples": {
@@ -363,7 +375,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "Q23": {
+                "Q24": {
                     "category": "Skill",
                     "competency": "Testing Environment",
                     "examples": {
@@ -375,7 +387,7 @@
                     "rating": "",
                     "comment": ""
                 },
-                "Q24": {
+                "Q25": {
                     "category": "Skill",
                     "competency": "Full Stack Quality",
                     "examples": {

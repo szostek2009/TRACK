@@ -78,7 +78,7 @@
                         "0": "Has limited familiarity with how to best handle error conditions.",
                         "1": "Can design a system that handles errors and exceptions from dependent systems.",
                         "2": "Can design a robust system that defends against common error scenarios such as bad responses from services and log the appropriate information to allow quick and efficient troubleshooting.",
-                        "3": ""
+                        "3": "Has deep knowledge and understanding of how error handling works in all aspects of the team's infrastructure. Knows how to safely log errors for monitoring. Designs systems in a defensive way to protect against all situations - including rare failures."
                     },
                     "rating": "",
                     "comment": ""

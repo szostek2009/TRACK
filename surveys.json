@@ -21,6 +21,11 @@
             "ConfluenceURL": "https://confluence/display/TRAC/Web+UI+Development+and+Architecture+Skills"
         },
         {
+            "Name": "Systems Engineering and Architecture",
+            "URL": "https://git/pages/SKluck/trac/surveys/systems-engineer-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Systems+Engineer+and+Architecture+Skills"
+        },
+        {
             "Name": "Application Engineer",
             "URL": "https://git/pages/SKluck/trac/surveys/application-engineer-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Application+Engineer"

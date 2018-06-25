@@ -16,24 +16,28 @@
 
             <div class="ui clearing segment">
 
-                <div class="ui relaxed divided list">
+                <div class="ui relaxed divided list survey-list">
 
                     <template v-for="(source_surveys, source_group_name) in blanks">
                         <h2>{{ source_group_name }}</h2>
                         <template v-for="source_survey in source_surveys">
                             <div class="item" v-if="source_survey.URL">
-                                <div class="right floated content">
+                                <div class="ui middle aligned image">
                                     <a class="ui tiny green icon button" @click="fetchNewSurvey(source_survey.URL)">
                                         <i class="plus icon"></i>
                                         Start
                                     </a>
                                 </div>
-                                <div class="content">
-                                    <h4 class="header">{{ source_survey.Name }}</h4>
-                                    <div class="description t-medium">
-                                        <a :href="source_survey.ConfluenceURL" class="ui basic mini grey icon button" v-if="source_survey.ConfluenceURL">View in confluence</a>
-                                        <a :href="source_survey.URL">View raw survey file</a>
-                                    </div>
+
+                                <div class="middle aligned content">
+                                    <h3 class="header">{{ source_survey.Name }}</h3>
+                                </div>
+
+                                <div class="meta">
+                                    <a v-if="source_survey.ConfluenceURL" :href="source_survey.ConfluenceURL" class="ui basic mini grey icon button">Learn more or leave feedback in confluence</a>
+                                    <a :href="source_survey.URL" class="ui mini icon button" data-tooltip="Download raw JSON survey file" data-position="top center">
+                                        <i class="file icon"></i>
+                                    </a>
                                 </div>
                             </div>
                         </template>

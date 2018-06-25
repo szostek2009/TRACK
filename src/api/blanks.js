@@ -23,10 +23,9 @@ function parseSources(response) {
         return 'Blank survey data must be json.';
     }
 
-    var sources = {};
-    for (var groupName in response.data) {
-        surveys = response.data[groupName];
-        sources[groupName] = surveys;
+    let sources = {};
+    for (let groupName in response.data) {
+        sources[groupName] = response.data[groupName];
     }
 
     return sources;

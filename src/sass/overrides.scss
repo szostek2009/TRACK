@@ -14,3 +14,13 @@
 .ui.fixed.sticky + div {
     margin-top: 5rem;
 }
+
+.survey-list .item {
+    position: relative;
+}
+
+.survey-list .item .meta {
+    position:absolute;
+    right:0;
+    top:.5em
+}

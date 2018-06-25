@@ -4,7 +4,7 @@ set -e
 cur_dir=$( cd "$( dirname "$0" )" && pwd )
 source_repo="https://github.com/skluck/skill-survey"
 cloned_dir="$cur_dir/source"
-target_ref="master"
+target_ref="development"
 
 git clone $source_repo "$cloned_dir"
 

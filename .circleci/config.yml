@@ -1,5 +1,20 @@
 version: 2
 
+core_defaults: &core_defaults
+    working_directory: '~/project'
+    docker:
+        - image: 'circleci/buildpack-deps:jessie'
+
+node_defaults: &node_defaults
+    working_directory: '~/project'
+    docker:
+        - image: 'circleci/node:10.4'
+
+deploy_defaults: &deploy_defaults
+    working_directory: '~/project'
+    docker:
+        - image: 'qldockerdtr.rockfin.com/circleci/hal-integration:hal-publisher'
+
 attach_workspace: &attach_workspace
     attach_workspace:
         at: '.'
@@ -27,15 +42,13 @@ workflows:
 
 jobs:
     fetch_code:
-        working_directory: '~/project'
-        docker: [{image: 'circleci/buildpack-deps:jessie'}]
+        <<: *core_defaults
         steps:
             - checkout
             - *persist_workspace
 
     install_node_dependencies:
-        working_directory: '~/project'
-        docker: [{image: 'circleci/node:10.4'}]
+        <<: *node_defaults
         steps:
             - *attach_workspace
 
@@ -51,15 +64,10 @@ jobs:
             - *persist_workspace
 
     build_site:
-        working_directory: '~/project'
-        docker: [{image: 'circleci/node:10.4'}]
+        <<: *node_defaults
         steps:
             - *attach_workspace
-            - run:
-                environment:
-                    ASSET_PATH: "/skill-survey/dist/"
-                name: 'Webpack'
-                command: 'yarn build'
+            - run: 'yarn build'
             - run:
                 name: 'Clean up built website'
                 command: |
@@ -76,13 +84,25 @@ jobs:
                 root: '.'
                 paths: [ 'build' ]
 
-    deploy_site:
-        working_directory: '~/project'
-        docker: [{image: 'circleci/buildpack-deps:jessie'}]
+    publish_build:
+        <<: *deploy_defaults
+        environment:
+            - HAL_APP_ID: '671'
+            # HAL_API_TOKEN
         steps:
             - *attach_workspace
-            - run:
-                name: 'Prepare environment'
-                command: |
-                    derp
+            - run: 'cd build && pack-build-to-zip'
+            - store_artifacts: { path: '~/build' }
+            - run: 'publish-build-to-hal'
+            - persist_to_workspace:
+                root: '.'
+                paths: [ '.hal_build_id' ]
 
+    deploy_site:
+        <<: *deploy_defaults
+        environment:
+            - HAL_TARGETS: '3352'
+            # HAL_API_TOKEN
+        steps:
+            - *attach_workspace
+            - run: 'deploy-to-hal'

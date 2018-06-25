@@ -74,14 +74,14 @@ jobs:
                 name: 'Clean up built website'
                 command: |
                     mkdir build
-                    cp dist build/dist
-                    cp -R surveys build/surveys
+                    cp -R dist              build/dist
+                    cp -R surveys           build/surveys
 
-                    cp index.html build/
-                    cp error.html build/
-                    cp surveys.json build/
-                    cp sample-survey.json build/
-                    cp survey-schema.json build/
+                    cp index.html           build/
+                    cp error.html           build/
+                    cp surveys.json         build/
+                    cp sample-survey.json   build/
+                    cp survey-schema.json   build/
             - persist_to_workspace:
                 root: '.'
                 paths: [ 'build' ]

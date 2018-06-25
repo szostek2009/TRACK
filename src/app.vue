@@ -2,7 +2,9 @@
     <div class="ui container my-3">
         <navigation
             :app_title="app_title"
-            :app_github_url="app_github_url"></navigation>
+            :app_secondary_title="app_secondary_title"
+            :app_github_url="app_github_url"
+            :app_confluence_url="app_confluence_url"></navigation>
 
         <modals></modals>
 
@@ -39,8 +41,10 @@ export default {
     },
     data: function() {
         return {
-            app_title: "Skill Assessment and Performance Review Surveys",
-            app_github_url: "https://github.com/skluck/skill-survey",
+            app_title: "TRACer",
+            app_secondary_title: "Skill Assessment Surveys",
+            app_github_url: "https://git/trac/tracer",
+            app_confluence_url: "https://confluence/display/trac",
         }
     },
 

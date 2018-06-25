@@ -30,15 +30,17 @@ workflows:
 
     pipeline:
         jobs:
-            - fetch_code:
-                filters:
-                    branches: { only: ['development'] }
+            - fetch_code
             - install_node_dependencies:
                 requires: [ fetch_code ]
             - build_site:
                 requires: [ install_node_dependencies ]
-            - deploy_site:
+            - publish_build:
                 requires: [ build_site ]
+                filters:
+                    branches: { only: ['master'] }
+            - deploy_site:
+                requires: [ publish_build ]
 
 jobs:
     fetch_code:

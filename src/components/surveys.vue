@@ -18,24 +18,30 @@
 
                 <div class="ui relaxed divided list">
 
-                    <template v-for="(source_http, source_title) in blanks">
-                        <div class="item">
-                            <div class="right floated content">
-                                <a class="ui tiny green icon button" @click="fetchNewSurvey(source_http)">
-                                    <i class="plus icon"></i>
-                                    Start
-                                </a>
+                    <template v-for="(source_surveys, source_group_name) in blanks">
+                        <h2>{{ source_group_name }}</h2>
+                        <template v-for="source_survey in source_surveys">
+                            <div class="item" v-if="source_survey.URL">
+                                <div class="right floated content">
+                                    <a class="ui tiny green icon button" @click="fetchNewSurvey(source_survey.URL)">
+                                        <i class="plus icon"></i>
+                                        Start
+                                    </a>
+                                </div>
+                                <div class="content">
+                                    <h4 class="header">{{ source_survey.Name }}</h4>
+                                    <div class="description t-medium">
+                                        <a :href="source_survey.ConfluenceURL" class="ui basic mini grey icon button" v-if="source_survey.ConfluenceURL">View in confluence</a>
+                                        <a :href="source_survey.URL">View raw survey file</a>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="content">
-                                <h4 class="header">{{ source_title }}</h4>
-                                <div class="description t-medium">{{ source_http }}</div>
-                            </div>
-                        </div>
+                        </template>
                     </template>
 
                     <div class="item">
                         <div class="content">
-                            <h4 class="header">Custom</h4>
+                            <h4 class="header">Load a custom survey (for development or testing)</h4>
                             <div class="description t-medium">
                                 <div class="ui fluid input">
                                     <input type="text" v-model="custom_source" class="mr-3">

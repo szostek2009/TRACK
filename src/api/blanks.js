@@ -24,8 +24,9 @@ function parseSources(response) {
     }
 
     var sources = {};
-    for (var title in response.data) {
-        sources[title] = response.data[title];
+    for (var groupName in response.data) {
+        surveys = response.data[groupName];
+        sources[groupName] = surveys;
     }
 
     return sources;

@@ -5,7 +5,12 @@ import { MUTATIONS } from '../mutations';
 const DEFAULT_SOURCES = window.location.origin + window.location.pathname + '/surveys.json';
 const DEFAULT_SURVEY = window.location.origin + window.location.pathname + '/sample-survey.json';
 const DEFAULT_BLANKS = {
-    'Sample': DEFAULT_SURVEY
+    'Examples': [
+        {
+            "Name": 'Sample',
+            "URL": DEFAULT_SURVEY
+        }
+    ]
 };
 
 function getURLParameter(name) {

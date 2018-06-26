@@ -2,177 +2,177 @@
     "General": [
         {
             "Name": "Core Competencies",
-            "URL": "https://git/pages/SKluck/trac/surveys/core-survey.json",
+            "URL": "https://trac.foc.zone/surveys/core-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/TRAC%3A++Core+Competencies"
         },
         {
             "Name": "Software Development and Architecture",
-            "URL": "https://git/pages/SKluck/trac/surveys/se-survey.json",
+            "URL": "https://trac.foc.zone/surveys/se-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Software+Development+and+Architecture+Skills+V2"
         },
         {
             "Name": "Software Quality Engineering and Architecture",
-            "URL": "https://git/pages/SKluck/trac/surveys/set-survey.json",
+            "URL": "https://trac.foc.zone/surveys/set-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Software+Quality+Engineering+and+Architecture+Skills"
         },
         {
             "Name": "Web UI Development and Architecture",
-            "URL": "https://git/pages/SKluck/trac/surveys/webui-survey.json",
+            "URL": "https://trac.foc.zone/surveys/webui-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Web+UI+Development+and+Architecture+Skills"
         },
         {
             "Name": "Systems Engineering and Architecture",
-            "URL": "https://git/pages/SKluck/trac/surveys/systems-engineer-survey.json",
+            "URL": "https://trac.foc.zone/surveys/systems-engineer-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Systems+Engineer+and+Architecture+Skills"
         },
         {
             "Name": "Application Engineer",
-            "URL": "https://git/pages/SKluck/trac/surveys/application-engineer-survey.json",
+            "URL": "https://trac.foc.zone/surveys/application-engineer-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Application+Engineer"
         },
         {
             "Name": "Team Leader",
-            "URL": "https://git/pages/SKluck/trac/surveys/leader-survey.json",
+            "URL": "https://trac.foc.zone/surveys/leader-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Leadership"
         }
     ],
     "Business Intelligence": [
         {
             "Name": "BI - Business Analyst",
-            "URL": "https://git/pages/SKluck/trac/surveys/bi-business-analyst-survey.json",
+            "URL": "https://trac.foc.zone/surveys/bi-business-analyst-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/BI+Business+Analyst"
         },
         {
             "Name": "BI - Data Analyst",
-            "URL": "https://git/pages/SKluck/trac/surveys/bi-data-analyst-survey.json",
+            "URL": "https://trac.foc.zone/surveys/bi-data-analyst-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/BI+Data+Analyst"
         },
         {
             "Name": "BI - Data Scientist",
-            "URL": "https://git/pages/SKluck/trac/surveys/bi-data-scientist-survey.json",
+            "URL": "https://trac.foc.zone/surveys/bi-data-scientist-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Data+Scientist"
         },
         {
             "Name": "BI - Data Warehouse Engineer",
-            "URL": "https://git/pages/SKluck/trac/surveys/bi-data-warehouse-engineer-survey.json",
+            "URL": "https://trac.foc.zone/surveys/bi-data-warehouse-engineer-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Data+Warehouse"
         },
         {
             "Name": "BI - Engineer",
-            "URL": "https://git/pages/SKluck/trac/surveys/bi-engineer-survey.json",
+            "URL": "https://trac.foc.zone/surveys/bi-engineer-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/BI+Engineer"
         },
         {
             "Name": "BI - Big Data Engineer",
-            "URL": "https://git/pages/SKluck/trac/surveys/bi-big-data-engineer-survey.json",
+            "URL": "https://trac.foc.zone/surveys/bi-big-data-engineer-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Big+Data+Engineer"
         },
         {
             "Name": "BI - Modeler",
-            "URL": "https://git/pages/SKluck/trac/surveys/bi-modeler-survey.json",
+            "URL": "https://trac.foc.zone/surveys/bi-modeler-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Modeler"
         }
     ],
     "Level Up": [
         {
             "Name": "Tech U - Instructional Designer",
-            "URL": "https://git/pages/SKluck/trac/surveys/techu-instructional-designer-survey.json",
+            "URL": "https://trac.foc.zone/surveys/techu-instructional-designer-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Instructional+Designer-+IT"
         },
         {
             "Name": "Tech U - Learning Coordinator",
-            "URL": "https://git/pages/SKluck/trac/surveys/techu-learning-coordinator-survey.json",
+            "URL": "https://trac.foc.zone/surveys/techu-learning-coordinator-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Learning+Coordinator"
         },
         {
             "Name": "Tech U - Learning Consultant",
-            "URL": "https://git/pages/SKluck/trac/surveys/techu-learning-consultant-survey.json",
+            "URL": "https://trac.foc.zone/surveys/techu-learning-consultant-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Learning+Consultant"
         },
         {
             "Name": "Technical Editor",
-            "URL": "https://git/pages/SKluck/trac/surveys/technical-editor-survey.json",
+            "URL": "https://trac.foc.zone/surveys/technical-editor-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Technical+Editor"
         },
         {
             "Name": "Technical Writer",
-            "URL": "https://git/pages/SKluck/trac/surveys/technical-writer-survey.json",
+            "URL": "https://trac.foc.zone/surveys/technical-writer-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Technical+Writer"
         },
         {
             "Name": "Knowledge Management Specialist",
-            "URL": "https://git/pages/SKluck/trac/surveys/knowledge-management-specialist-survey.json",
+            "URL": "https://trac.foc.zone/surveys/knowledge-management-specialist-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Knowledge+Management+Specialist"
         }
     ],
     "Product": [
         {
             "Name": "User Experience - Research",
-            "URL": "https://git/pages/SKluck/trac/surveys/ux-specialist-survey.json",
+            "URL": "https://trac.foc.zone/surveys/ux-specialist-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/User+Experience+Research"
         },
         {
             "Name": "Product Management (V1)",
-            "URL": "https://git/pages/SKluck/trac/surveys/product-management-survey.json",
+            "URL": "https://trac.foc.zone/surveys/product-management-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Product+Management"
         }
     ],
     "Version 1": [
         {
             "Name": "Agile Coach (V1)",
-            "URL": "https://git/pages/SKluck/trac/surveys/agile-coach-survey.json",
+            "URL": "https://trac.foc.zone/surveys/agile-coach-survey.json",
             "ConfluenceURL": ""
         },
         {
             "Name": "Agile Release Manager (V1)",
-            "URL": "https://git/pages/SKluck/trac/surveys/agile-release-manager-survey.json",
+            "URL": "https://trac.foc.zone/surveys/agile-release-manager-survey.json",
             "ConfluenceURL": ""
         },
         {
             "Name": "Business Support Specialist (V1)",
-            "URL": "https://git/pages/SKluck/trac/surveys/business-support-specialist-survey.json",
+            "URL": "https://trac.foc.zone/surveys/business-support-specialist-survey.json",
             "ConfluenceURL": ""
         },
         {
             "Name": "IT Service Management Analyst (V1)",
-            "URL": "https://git/pages/SKluck/trac/surveys/itsm-analyst-survey.json",
+            "URL": "https://trac.foc.zone/surveys/itsm-analyst-survey.json",
             "ConfluenceURL": ""
         },
         {
             "Name": "Product Owner (V1)",
-            "URL": "https://git/pages/SKluck/trac/surveys/product-owner-survey.json",
+            "URL": "https://trac.foc.zone/surveys/product-owner-survey.json",
             "ConfluenceURL": ""
         },
         {
             "Name": "UX Designer (V1)",
-            "URL": "https://git/pages/SKluck/trac/surveys/ux-designer-survey.json",
+            "URL": "https://trac.foc.zone/surveys/ux-designer-survey.json",
             "ConfluenceURL": ""
         },
         {
             "Name": "Infosec Analyst (V1)",
-            "URL": "https://git/pages/SKluck/trac/surveys/infosec-analyst-survey.json",
+            "URL": "https://trac.foc.zone/surveys/infosec-analyst-survey.json",
             "ConfluenceURL": ""
         },
         {
             "Name": "Infosec Engineer (V1)",
-            "URL": "https://git/pages/SKluck/trac/surveys/infosec-engineer-survey.json",
+            "URL": "https://trac.foc.zone/surveys/infosec-engineer-survey.json",
             "ConfluenceURL": ""
         },
         {
             "Name": "Database Engineer (V1)",
-            "URL": "https://git/pages/SKluck/trac/surveys/dbe-survey.json",
+            "URL": "https://trac.foc.zone/surveys/dbe-survey.json",
             "ConfluenceURL": ""
         },
         {
             "Name": "Enterprise Architect (V1)",
-            "URL": "https://git/pages/SKluck/trac/surveys/enterprise-architect-survey.json",
+            "URL": "https://trac.foc.zone/surveys/enterprise-architect-survey.json",
             "ConfluenceURL": ""
         }
     ],
     "Examples": [
         {
             "Name": "Sample",
-            "URL": "https://git/pages/SKluck/trac/surveys/sample-survey.json"
+            "URL": "https://trac.foc.zone/sample-survey.json"
         }
     ]
 }

@@ -41,7 +41,7 @@ export default {
     },
     data: function() {
         return {
-            app_title: "TRACer",
+            app_title: "TRACer V2",
             app_secondary_title: "Skill Assessment Surveys",
             app_github_url: "https://git/trac/tracer",
             app_confluence_url: "https://confluence/display/trac",

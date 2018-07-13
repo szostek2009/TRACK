@@ -1,7 +1,7 @@
 <template>
     <div class="ui huge stackable container icon menu no-print">
 
-        <div class="item ">
+        <div class="item">
             <div class="ui list">
                 <div class="item text-left" v-if="app_confluence_url">
                     <div class="content">
@@ -55,6 +55,15 @@
                 <div class="ui vertical animated basic negative button" @click="unloadSurvey">
                     <div class="visible content"> <i class="icon trash"></i> Clear</div>
                     <div class="hidden content">Are you sure?</div>
+                </div>
+            </div>
+        </template>
+
+        <template v-else>
+            <div class="ui right item t-medium text-left">
+                <div class="ui success message">
+                    <div class="header">This is the new TRAC app!</div>
+                    Looking for your old surveys? <a href="https://git/pages/skluck/trac">Visit the old TRACer site</a>
                 </div>
             </div>
         </template>

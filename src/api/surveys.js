@@ -21,6 +21,10 @@ function getSurveyFromStorage(key) {
     return store.get(key);
 }
 
+function getSurveyFromStorageByID(id) {
+    return store.get(`survey-${id}`);
+}
+
 function retrieveFromStorage() {
     let surveys = store.get('surveys');
 
@@ -37,5 +41,6 @@ export {
     saveSurveyToStorage,
     removeSurveyFromStorage,
     getSurveyFromStorage,
+    getSurveyFromStorageByID,
     retrieveFromStorage
 };

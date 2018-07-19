@@ -1,6 +1,7 @@
 import Papa from 'papaparse';
 import { saveAs } from 'file-saver';
 import { localDate } from './local-date';
+import { getSurveyFromStorageByID } from '../api/surveys';
 
 function generateFilename(name, updated) {
     return 'survey-' + name.replace(/\W+/g, "_") + '-' + localDate(updated)
@@ -8,7 +9,7 @@ function generateFilename(name, updated) {
 
 function downloadSurveyJSON(meta) {
     let filename = generateFilename(meta.name, meta.updated),
-        survey = store.get(meta.survey),
+        survey = getSurveyFromStorageByID(meta.id),
         blob = JSON.stringify(survey);
 
     download(blob, filename, 'application/json');
@@ -16,7 +17,7 @@ function downloadSurveyJSON(meta) {
 
 function downloadSurveyCSV(meta) {
     let filename = generateFilename(meta.name, meta.updated),
-        survey = store.get(meta.survey),
+        survey = getSurveyFromStorageByID(meta.id),
         rows = [];
 
     Object.keys(survey.sections).forEach(function(section_title) {

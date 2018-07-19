@@ -62,6 +62,7 @@ import { mapActions, mapGetters, mapMutations } from 'vuex';
 import { GETTERS } from '../store/getters';
 import { isStoreEnabled } from '../api/surveys';
 import message from './message';
+import { downloadSurveyJSON, downloadSurveyCSV } from '../util/downloader';
 
 export default {
     name: 'SaveOptions',
@@ -102,10 +103,12 @@ export default {
         ]),
 
         saveAndDownloadSurvey: function(type) {
-            var meta = this.saveSurveyToBrowser(this.changed_survey_name);
+            let meta = this.saveSurveyToBrowser(this.changed_survey_name);
             if (meta === false) {
                 return;
             }
+
+            meta = this.survey;
 
             if (type === 'csv') {
                 downloadSurveyCSV(meta);

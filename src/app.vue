@@ -43,7 +43,7 @@ export default {
         return {
             app_title: "TRACer",
             app_secondary_title: "Skill Assessment Surveys",
-            app_github_url: "https://git/trac/tracer",
+            app_github_url: "https://git.rockfin.com/trac/tracer",
             app_confluence_url: "https://confluence/display/trac",
         }
     },

@@ -164,9 +164,8 @@ const actions = {
         return new Promise((resolve, reject) => {
             dispatch('parseSections', survey.sections);
             setTimeout(() => {
-                $('.ui.sticky').sticky({ debug: false });
                 resolve()
-            }, 1000)
+            }, 500)
         })
     },
 

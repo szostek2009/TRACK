@@ -50,7 +50,6 @@ const actions = {
         commit(MUTATIONS.MODES.ENABLE_SUMMARY_MODE);
 
         for (var id in state.section_hidden) {
-            console.log(id);
             commit(MUTATIONS.MODES.SHOW_SECTION, id);
         }
 

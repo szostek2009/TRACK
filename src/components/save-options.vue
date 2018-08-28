@@ -91,7 +91,7 @@ export default {
     },
 
     methods: {
-        ...mapMutations('modes', [
+        ...mapActions('modes', [
             'enablePrintView',
         ]),
         ...mapActions('survey', [

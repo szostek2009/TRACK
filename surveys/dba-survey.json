@@ -1,0 +1,325 @@
+{
+  "version": "1.0.0",
+  "type": "Database Administration",
+  "id": "",
+  "name": "",
+  "updated": "",
+  "sections": {
+    "Process and Standards": {
+      "competencies": {
+        "P1": {
+          "category": "Skill",
+          "competency": "Creates documentation for database standards, improvements, and solutions",
+          "examples": {
+            "0": "Does not create documentation.",
+            "1": "Creates documentation around standard operating procedures and critical issues.",
+            "2": "Creates documentation around standard operating procedures, critical issues, and database improvements. Takes the conn on keeping the confluence pages updated.",
+            "3": "Creates documentation around standard operating procedures, critical issues, and database improvements. Takes the conn on keeping the confluence pages updated. Helps the team with creating documentation and proactively identifies missing documentation."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "P2": {
+          "category": "Skill",
+          "competency": "Follows change request process",
+          "examples": {
+            "0": "Does not consistently follow the change request process.",
+            "1": "Consistently creates the change request entries for each Incident / Incident Request / Change / new CI, but may need guidance.",
+            "2": "Consistently and independently creates the change request entries for each Incident / Incident Request / Change / new CI.",
+            "3": "Consistently and independently creates the change request entries for each Incident / Incident Request / Change / new CI. Evangelizes change process to their team and other teams to ensure consistent and accurate change requests."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "P3": {
+          "category": "Skill",
+          "competency": "Adheres to Service Level Agreements (SLA)",
+          "examples": {
+            "0": "Does not consistently adhere and often breaches SLAs.",
+            "1": "Consistently ensures the commitments given to client is completed within agreed SLAs, but may need guidance.",
+            "2": "Consistently and independently ensures the SLAs are met and communicated with the team and the customers.",
+            "3": "Consistently and independently ensures the SLAs are met and communicated with the team and the customers. Evangelizes following the SLAs to the whole team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "P4": {
+          "category": "Skill",
+          "competency": "Shares knowledge with the team and others",
+          "examples": {
+            "0": "Seldom attends knowledge share sessions or does not lead a sharing session.",
+            "1": "Consistently attends knowledge share sessions. Participates by sharing any new research or new knowledge gained.",
+            "2": "Consistently asks questions and actively listens during knowledge shares. Independently volunteers to share new research and knowledge gains.",
+            "3": "Is an advocate for knowledge shares by taking the conn to set them up and lead the discussion. Also participates in knowledge shares outside of their immediate team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "P5": {
+          "category": "Skill",
+          "competency": "Completes requests with proper review and consideration of impact",
+          "examples": {
+            "0": "Fills requests without discretion or understanding the complete impact.",
+            "1": "Uses discretion when filling requests and considers the impact, with some guidance.",
+            "2": "Consistently and independently uses discretion when filling requests and considers the impact.",
+            "3": "Consistently and independently uses discretion when filling requests and considers the impact. Provides alternative options if another solution would better fill the request."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Troubleshooting": {
+      "competencies": {
+        "T1": {
+          "category": "Skill",
+          "competency": "Uses scripts to complete tasks (e.g. using TSQL, UNIX, Powershell, etc.)",
+          "examples": {
+            "0": "Does not use or create scripts.",
+            "1": "Understands existing scripts and uses them to complete tasks as needed.",
+            "2": "Understands, uses, and improves existing scripts to complete tasks. Identifies manual processes and creates new scripts to automate them.",
+            "3": "Understands, uses, and improves existing scripts to complete tasks on a consistent basis. Creates new scripts and supports other team members in creating them."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "T2": {
+          "category": "Skill",
+          "competency": "Understands database internals",
+          "examples": {
+            "0": "Has theoretical knowledge of database internals, but has limited hands-onexperience.",
+            "1": "Has a working understanding of the basic internals for databases they support.",
+            "2": "Has an in-depth understanding and is the SME of database internals and can support other team members in understanding internals.",
+            "3": "Consistently initiates research, understands, and applies new database internals as the system and applications need changes."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "T3": {
+          "category": "Skill",
+          "competency": "Decipher issues and troubleshoots",
+          "examples": {
+            "0": "Cannot independently identify issues, can only troubleshoot by following resolve documents.",
+            "1": "Understands where to look when issues occur. Collaborates and contributes in troubleshooting and implements solutions, with some guidance.",
+            "2": "Has strong troubleshooting skills and can independently implement solutions.",
+            "3": "Has strong troubleshooting skills and can independently implement solutions. Consistently goes deep when troubleshooting. Goes to the source code when applicable, or recommends patches with vendors (Microsoft, Progress, etc.)."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Application Support": {
+      "competencies": {
+        "AS1": {
+          "category": "Skill",
+          "competency": "Understands the applications they support",
+          "examples": {
+            "0": "Does not have a good understanding of their databases' applications.",
+            "1": "Has a basic understanding of the applications that are on databases they support.",
+            "2": "Has an in-depth understanding of the applications on databases they support.",
+            "3": "Has an in-depth understanding of the applications on databases they support. Also understands how other applications interact with and affect the applications on databases they support."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "AS2": {
+          "category": "Skill",
+          "competency": "Makes changes to production database",
+          "examples": {
+            "0": "Consistently needs guidance when making changes to production database or often has errors.",
+            "1": "Understands the changes and possible risks to production and is able to make changes with limited guidance.",
+            "2": "Can independently identify needed changes to production and possible risks and collaborate with application teams to implement.",
+            "3": "Can independently identify needed changes to production and possible risks and collaborate with application teams to implement. Is a resource for application teams in utilizing the database effectively."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Mentorship and Communication": {
+      "competencies": {
+        "M1": {
+          "category": "Skill",
+          "competency": "Mentors other team members",
+          "examples": {
+            "0": "Is not approachable or does not know how to answer questions.",
+            "1": "Is able to answer questions when asked.",
+            "2": "Takes the conn on mentoring new hires and is consistently available for questions.",
+            "3": "Mentors new hires and is consistently available for questions. Proactively creates and provides materials for answering questions (documentation, knowledge shares)."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "M2": {
+          "category": "Skill",
+          "competency": "Coordinates with other teams for changes or issues",
+          "examples": {
+            "0": "Does not effectively coordinate or communicate with other teams when there is a change or an issue.",
+            "1": "Coordinates with other teams when asked to complete a change or resolve an issue.",
+            "2": "Initiates coordination and communication with other teams when implementing changes or resolving issues. Follows up throughout the process.",
+            "3": "Proactively researches the change, initiates coordination and communication, maintains regular follow up, identifies roadblocks and leads solutions.   "
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Application Architecture": {
+      "competencies": {
+        "AA1": {
+          "category": "Skill",
+          "competency": "Capacity planning for new applications or changes to existing applications",
+          "examples": {
+            "0": "Does not understand the impact on capacity and cannot effectively plan.",
+            "1": "Understands the impact applications will have on the database, but needs guidance to plan.",
+            "2": "Understands the impact applications will have on the database independently and plans accordingly.",
+            "3": "Sets standards before the infrastructure is implemented. Is proactive rather than reactive with determining impact."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "AA2": {
+          "category": "Skill",
+          "competency": "Determines correct database technology for new applications",
+          "examples": {
+            "0": "Cannot make the determination on which database technology new applications should use.",
+            "1": "Participates in the conversation around database technology for new applications, but needs guidance for final determination.",
+            "2": "Independently researches new applications to come up with few recommendations by thoroughly understanding multiple database technology and weighing the pros and cons.",
+            "3": "Independently researches new applications to come up with few recommendations by thoroughly understanding multiple database technology and weighing the pros and cons. Is a resource for other team members and evangelizes company standards."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "AA3": {
+          "category": "Skill",
+          "competency": "Researches and completes proofs of concept (POCs) for database/database features and/or tools",
+          "examples": {
+            "0": "Does not research or get involved with any POCs.",
+            "1": "Researches or does POCs when asked.",
+            "2": "Independently researches and does POCs, and provides input on the decision.",
+            "3": "Independently researches new technologies and POCs, weighs various options and evangelizes their preference. Is involved in implementation, if applicable."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "AA4": {
+          "category": "Skill",
+          "competency": "Stays up-to-date with emerging technologies and processes",
+          "examples": {
+            "0": "Is resistant to changes in the technologies and processes they are expected to support.",
+            "1": "Learns other technologies and processes that the organization needs and is able to support the application teams.",
+            "2": "Proactively and independently learns new technologies and processes.",
+            "3": "Evangelizes new technologies and processes to the team and is a go-to for support."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Disaster Recoverability": {
+      "competencies": {
+        "DR1": {
+          "category": "Skill",
+          "competency": "Follows High Availability (HA) and Disaster Recoverability (DR) process",
+          "examples": {
+            "0": "Is not able to support or setup DR or HA.",
+            "1": "Configures, troubleshoots known issues, and sets up DR and HA on new servers, but may need assistance.",
+            "2": "Independently configures, troubleshoots, and repairs issues with DR and HA technologies.",
+            "3": "Independently configures, troubleshoots, and repairs issues with DR and HA technologies. Proactively investigates new DR and HA technologies and supports others as an SME."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "DR2": {
+          "category": "Skill",
+          "competency": "",
+          "examples": {
+            "0": "Does not complete annual failovers or needs to be reminded to do them.",
+            "1": "Successfully completes annual failovers, but may need assistance if there are issues during a failover.",
+            "2": "Successfully completes annual failovers and is able to recover from issues during a failover without assistance. Finds ways to improve the failover process.",
+            "3": "Successfully completes annual failovers and is able to recover from issues during a failover without assistance. Proactively prepares for any potential issues during a failover and finds ways to improve the process. Supports others in completing failovers."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Database Support": {
+      "competencies": {
+        "D1": {
+          "category": "Skill",
+          "competency": "Participates in ongoing capacity planning",
+          "examples": {
+            "0": "Does not ensure databases have the resources they need.",
+            "1": "Ensures databases have the resources they need. Reactively identifies and addresses capacity issues.",
+            "2": "Uses alerts to proactively identify and address potential capacity issues for their databases.",
+            "3": "Uses alerts to proactively identify and address potential capacity issues for their databases and others. Supports other team members in addressing capacity issues."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "D2": {
+          "category": "Skill",
+          "competency": "Completes upgrades and patching",
+          "examples": {
+            "0": "Does not keep DR servers at identical patch levels.",
+            "1": "Maintains identical patching level on their DR servers.",
+            "2": "Maintains highest and most stable patch level on all their critical servers.",
+            "3": "Maintains highest and most stable patch level on all their servers and works with other teams to upgrade to the latest versions."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "D3": {
+          "category": "Skill",
+          "competency": "Participates in on-call duties",
+          "examples": {
+            "0": "Does not consistently acknowledge pages on time or misses alerts.",
+            "1": "Acknowledges and responds to alerts/pages that they are responsible for on time, but may need support for complex issues.",
+            "2": "Acknowledges and responds to alerts/pages that they are responsible for on time fixes the issue independently.",
+            "3": "Acknowledges and responds to alerts/pages that they are responsible for on time fixes the issue independently. Takes the conn on following up and implementing monitors to ensure the issue doesn't happen again."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "D4": {
+          "category": "Skill",
+          "competency": "Completes monitoring and basic administration using Key Performance Indicators (KPI) and database health checks",
+          "examples": {
+            "0": "Does not monitor or has a poor response to alerts/emails.",
+            "1": "Periodically monitors and addresses alerts when needed. Performs simple/basic database administration (user/space/security/backup managements, etc.), but may need assistance for complex issues.",
+            "2": "Independently addresses/troubleshoots all levels of issues as needed.",
+            "3": "Independently addresses/troubleshoots all levels of issues as needed. Often identifies issues proactively and fixes the issue before it becomes a problem."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "D5": {
+          "category": "Skill",
+          "competency": "Completes performance tuning",
+          "examples": {
+            "0": "Does not complete performance tuning.",
+            "1": "Identifies areas that require performance tuning, but may need assistance to implement the solution.",
+            "2": "Independently identifies areas that require performance tuning, proposes and implements the database solution to address the issue.",
+            "3": "Independently identifies areas that require performance tuning. Proposes solutions that consider the overall system, not limited to the database."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "D6": {
+          "category": "Skill",
+          "competency": "Understands infrastructure and operating systems",
+          "examples": {
+            "0": "Does not understand the infrastructure or how the operating system works with the database.",
+            "1": "Knows the infrastructure the database resides on. Knows how to access and read logs.",
+            "2": "Understands how the infrastructure and database will interact. Can identify infrastructure issues and work with corresponding team to resolve the issue.",
+            "3": "Understands how the infrastructure and database will interact. Can identify infrastructure issues and work with corresponding team to resolve the issue. Proactively monitors the infrastructure and is a support for others."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    }
+  }
+}

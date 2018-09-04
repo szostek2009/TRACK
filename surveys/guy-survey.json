@@ -1,0 +1,293 @@
+{
+  "version": "1.0.0",
+  "type": "Tech Support",
+  "id": "",
+  "name": "",
+  "updated": "",
+  "sections": {
+    "Systems/Hardware Knowledge": {
+      "competencies": {
+        "S1": {
+          "category": "Skill",
+          "competency": "Uses and understands Cherwell metrics",
+          "examples": {
+            "0": "Does not have a clear understanding of Cherwell metrics and how they can be used to gauge effectiveness.",
+            "1": "Has a basic understanding of what Cherwell metrics mean, but may need assistance to implement improvements.",
+            "2": "Has detailed knowledge of what the Cherwell metrics mean and uses it to improve.",
+            "3": "Has detailed knowledge of what the Cherwell metrics mean and uses it to help self and others grow."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S2": {
+          "category": "Skill",
+          "competency": "Comfortably navigates and effectively uses Cherwell.",
+          "examples": {
+            "0": "Has no experience in Cherwell.",
+            "1": "Has basic knowledge and access to Cherwell.",
+            "2": "Has detailed knowledge of Cherwell and navigates comfortably with advanced settings, such as One Steps.",
+            "3": "Has detailed knowledge of Cherwell, navigates comfortably and evangelizes tips with their team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S3": {
+          "category": "Skill",
+          "competency": "Understands how to use Active Directory and MyAccess to fulfill access requests.",
+          "examples": {
+            "0": "Does not have a clear understanding of how to use Active Directory and MyAccess for permissions.",
+            "1": "Has a basic understanding of AD and MyAccess.",
+            "2": "Has an advanced understanding of access and proactively takes appropriate action.",
+            "3": "Has an advanced understanding of access, makes decisions for complex requests, and mentors team members."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S4": {
+          "category": "Skill",
+          "competency": "Knows the difference between hardware and software issues.",
+          "examples": {
+            "0": "Does not know how to determine whether the source of an issue is hardware or software.",
+            "1": "Identifies the source of the issue correctly.",
+            "2": "Proactively identifies the source of the issue and leverages KIP to find a solution.",
+            "3": "Proactively identifies the source of the issue, leverages KIP to find a solution, and shares the knowledge with the team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S5": {
+          "category": "Skill",
+          "competency": "Has a SME role.",
+          "examples": {
+            "0": "Does not participate in a SME role.",
+            "1": "Maintains a SME role.",
+            "2": "Consistently engages and supports team members in multiple SME roles.",
+            "3": "Consistently engages and supports in multiple SME roles and/or is a captain of a SME role."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S6": {
+          "category": "Skill",
+          "competency": "Understands the business support applications and is able to engage and provide a solution.",
+          "examples": {
+            "0": "Has no understanding of business support applications.",
+            "1": "Leverages KIP and other resources to identify and understand issues, but may need assistance in resolving.",
+            "2": "Engages and takes action to independently resolve problems with business support applications.",
+            "3": "Has a strong understanding and knowledge of business applications. Has a relationship with members from other business support applications to help improve processes for the team and area."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Team Building/Development": {
+      "competencies": {
+        "T1": {
+          "category": "Skill",
+          "competency": "Participates in activities such as volunteering, IT Fun Factory, The Guy events, and other things that promote team unity and culture.",
+          "examples": {
+            "0": "Does not participate in these activities.",
+            "1": "Participates in the minimally suggested activities.",
+            "2": "Consistently participates in and promotes activities to the team.",
+            "3": "Consistently participates in, promotes, and orchestrates activities for the team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "T2": {
+          "category": "Skill",
+          "competency": "Coaches, develops, and mentors other team members.",
+          "examples": {
+            "0": "Does not participate in developing other team members.",
+            "1": "Trains team members, and answers questions when asked.",
+            "2": "Proactively mentors and develops team members.",
+            "3": "Is the go-to person to develop other team members and creates training content."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "T3": {
+          "category": "Skill",
+          "competency": "Contributes to KIP to help expand the knowledge of the team.",
+          "examples": {
+            "0": "Does not contribute to KIP.",
+            "1": "Often submits articles to KIP utilizing the standards defined by the team.",
+            "2": "Consistently submits articles to KIP utilizing the standards defined by the team.",
+            "3": "Consistently submits articles, is an Editor or Admin in KIP, and evangelizes KIP to the rest of the team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "T4": {
+          "category": "Skill",
+          "competency": "Supports the team when ticket volume is high and/or when staffing is low.",
+          "examples": {
+            "0": "Does not support the team or respond when there is an IC Red notification or a need for a cover.",
+            "1": "Responds and supports the team when there is an IC Red or need for a cover.",
+            "2": "Consistently and proactively supports the team during an IC Red or cover.",
+            "3": "Consistently and proactively identifies the need for IC Red, supports team members, and looks for team members who need help."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Business and Process Knowledge": {
+      "competencies": {
+        "B1": {
+          "category": "Skill",
+          "competency": "Escalates tickets to the proper team when The Guy Tech cannot resolve the ticket.",
+          "examples": {
+            "0": "Does not understand which avenue to escalate tickets to.",
+            "1": "Escalates tickets to the correct team.",
+            "2": "Consistently escalates tickets to the correct team.",
+            "3": "Consistently escalates tickets to the correct team, with an expert understanding of why those tickets need to get esclated, and what happens to the ticket after escalation."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "B2": {
+          "category": "Skill",
+          "competency": "Takes action to support the team when an outage occurs.",
+          "examples": {
+            "0": "Does not respond when there are outages or requires frequent guidance.",
+            "1": "Responds to outages and takes steps to support when asked.",
+            "2": "Consistently takes the conn on responding to outages.",
+            "3": "Consistently takes the conn on reacting to outages, communicating to the appropriate teams about the outage, and communicates the 90k."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "B3": {
+          "category": "Skill",
+          "competency": "Has an understanding of the roles and teams in the company that they support.",
+          "examples": {
+            "0": "Does not show a knowledge of other teams in the business.",
+            "1": "Understands some of the other roles in the business.",
+            "2": "Understands the other roles of teams in the business and knows how it effects the role of The Guy.",
+            "3": "Has an expert understanding of the other roles of teams in the business and how it affects their role and the business as a whole and mentors team members."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "B4": {
+          "category": "Skill",
+          "competency": "Knows when to grant access to team members based on role function.",
+          "examples": {
+            "0": "Does not show an understanding of what access team members should have.",
+            "1": "Knows generally what access team members should have, and utilizes MyAccess Comparer or other resources to determine correct access.",
+            "2": "Has a deep understanding of what access a team member should have and how it affects that team member's role.",
+            "3": "Has an expert understanding of access, how it affects the team members role and helps with the processes of granting access. "
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Communication": {
+      "competencies": {
+        "C1": {
+          "category": "Skill",
+          "competency": "Identifies and investigates outage causes and underlying problems that create incident tickets.",
+          "examples": {
+            "0": "Does not work past the base level resolution of issues.",
+            "1": "Identifies problems in process/issues, but may need assistance in escalating them.",
+            "2": "Proactively identifies underlying problems and collaborates with other teams to identify a solution.",
+            "3": "Proactively identifies underlying problems and takes the conn on notifying business partners throughout the process."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "C2": {
+          "category": "Skill",
+          "competency": "Maintains communication on issues or requests submitted to The Guy Tech.",
+          "examples": {
+            "0": "Routinely has large quantity, excessive dates of tickets that have not been updated.",
+            "1": "Meets expectations for ticket follow ups, maintains the less than 24 hours standard for every ticket.",
+            "2": "Consistently follows up with team members as soon as the updates occur.",
+            "3": "Consistently reaches out to escalating teams for updates daily and provides updates to the team member regardless of status."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "C3": {
+          "category": "Skill",
+          "competency": "Has an awareness and communicates status of current outages.",
+          "examples": {
+            "0": "Limited to no awareness of 90k messages.",
+            "1": "Familiar with current outage information, and can give general information to the business when requested.",
+            "2": "Stays aware and acts on outage updates until resolution. Is familiar with details and can communicate effectively to the business regarding impact.",
+            "3": "Consistently provides awareness to the team and proactively communicates to business areas on outage updates."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "C4": {
+          "category": "Skill",
+          "competency": "Actively monitors and contributes in The Guy Tech Teams chat.",
+          "examples": {
+            "0": "Doesn't respond in Teams or keep it open.",
+            "1": "Communicates in Teams when reached out to directly, follows required groups.",
+            "2": "Responds to questions and contributes in multiple groups/channels.",
+            "3": "Consistently responds and contributes in multiple groups/channels, redistributes information through Teams, advocates for others to use."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Proficiency and Troubleshooting": {
+      "competencies": {
+        "P1": {
+          "category": "Skill",
+          "competency": "Completes expected amount of Cherwell tickets.",
+          "examples": {
+            "0": "Does not complete the expected amount of tickets per month.",
+            "1": "Completes the minimum amount of tickets per month.",
+            "2": "Consistently exceeds the expected amount of tickets per month.",
+            "3": "Consistently exceeds the expected amount of tickets per month and provides additional support to projects and the team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "P2": {
+          "category": "Skill",
+          "competency": "Proficient in troubleshooting to resolve issues.",
+          "examples": {
+            "0": "Does not consistently resolve issues without assistance.",
+            "1": "Consistently resolves issues, and uses KIP to answer questions.",
+            "2": "Consistently resolves basic and complex issues with little or no research time needed.",
+            "3": "Effectively resolves issues and adds to troubleshooting knowledge base (KIP)"
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "P3": {
+          "category": "Skill",
+          "competency": "Supports team member requests using chat, email, and phone communication.",
+          "examples": {
+            "0": "Cannot function effectively in one or many methods of communication.",
+            "1": "Meets expectations in all methods of communication.",
+            "2": "Consistently and independently resolves issues in any communication method.",
+            "3": "Performs at an expert level in multiple communication mediums simultaneously and mentors and assists fellow team members."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "P4": {
+          "category": "Skill",
+          "competency": "Gathers and documents troubleshooting steps for resolution.",
+          "examples": {
+            "0": "Does not gather required information without assistance or follow up.",
+            "1": "Gathers minimum amount of information to troubleshoot.",
+            "2": "Consistently obtains screen shots, detailed notes, and examples of issue.",
+            "3": "Consistently researches, provides additional clarity and suggestions when escalating a ticket to another team and coordinates documentation and training for the team."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    }
+  }
+}

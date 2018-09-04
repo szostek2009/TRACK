@@ -1,0 +1,581 @@
+{
+  "version": "1.0.0",
+  "type": "Business Analyst Skills",
+  "id": "",
+  "name": "",
+  "updated": "",
+  "sections": {
+    "Business Knowledge": {
+      "competencies": {
+        "BK1": {
+          "category": "Skill",
+          "competency": "Understands the business process and technology used by business partners, including the impact to the client experience.",
+          "examples": {
+            "0": "Does not have a clear understanding of the immediate business processes, technology, or client impact.",
+            "1": "Has a basic understanding of the business and technology processes to handle requests, but may need assistance.",
+            "2": "Has a detailed knowledge of the business and technology processes, and the general impact to its clients.",
+            "3": "Has a detailed knowledge of the business and technology processes and ties threads with dependencies to ensure a positive impact to the client experience."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "BK2": {
+          "category": "Skill",
+          "competency": "Proactively shares business and technology knowledge with other team members.",
+          "examples": {
+            "0": "Does not share information with the team.",
+            "1": "Shares information with the team when prompted or requested.",
+            "2": "Proactively shares knowledge with the team.",
+            "3": "Proactively shares knowledge beyond the team to ensure integration coverage and provides the necessary business and technology documentation for clarity and visibility."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "BK3": {
+          "category": "Skill",
+          "competency": "Identifies technology gaps that could support the long-term needs of the business.",
+          "examples": {
+            "0": "Does not identify technology gaps.",
+            "1": "Identifies technology gaps in basic processes.",
+            "2": "Consistently identifies technology gaps in complex processes",
+            "3": "Consistently identifies technology gaps in any process, and proactively takes ownership in creating a solution."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "BK4": {
+          "category": "Skill",
+          "competency": "Accounts for and raises awareness of critical work or project characteristics: size of the project, business risks, system interfaces, training requirements and business processes to follow or revise.",
+          "examples": {
+            "0": "Does not tie the threads around work items.",
+            "1": "Ties the threads around work items within the team, with assistance.",
+            "2": "Consistently ties the threads around work items, within the team.",
+            "3": "Consistently ties the threads around work items, including integrations to applicable applications or services or systems."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "BK5": {
+          "category": "Skill",
+          "competency": "Makes decisions on the best technology solutions, while working with business and technology partners.",
+          "examples": {
+            "0": "Does not, or frequently need guidance, to make a decision on the best technology solution.",
+            "1": "Makes decisions on the best technology solution, for the team's basic domain processes.",
+            "2": "Consistently makes decisions on the best technology solutions for the team's basic and complex domain processes, and involves the appropriate business and technology partners.",
+            "3": "Valued as the go-to person to make decisions on the best technology solution for complex processes involving the team's and dependent team's domain processes while leveraging business and technology partners."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "BK6": {
+          "category": "Skill",
+          "competency": "Actively monitors change notifications (i.e. change notices, push plans, release notes, etc.) to help identify changes that could have a negative impact in Production.",
+          "examples": {
+            "0": "Monitors change notifications only occasionally.",
+            "1": "Monitors change notifications for the team's domain.",
+            "2": "Consistently monitors change notifications for the team's domain and takes action when needed.",
+            "3": "Consistently monitors change notifications in and out of the team's domain and takes action when needed."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "BK7": {
+          "category": "Skill",
+          "competency": "Works with IT or business partners to resolve critical production issues that arise.",
+          "examples": {
+            "0": "Does not participate in the resolution of production issues.",
+            "1": "Helps with the resolution of production issues when asked.",
+            "2": "consistently in tune with production issue communications affecting the immediate team's domain, raises awareness to the team, and provides assistance.",
+            "3": "Consistently in tune with production issue communications affecting the immediate team's and dependent team's domains, raises awareness to the team(s) and provides assistance."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "BK8": {
+          "category": "Skill",
+          "competency": "Seeks opportunities to grow and gain knowledge about the business.",
+          "examples": {
+            "0": "Does not actively seek opportunities to grow their business knowledge.",
+            "1": "Acts in a reactive manner to grow business knowledge in the area they support.",
+            "2": "Proactively seeks opportunities to grow business knowledge in the area they support.",
+            "3": "Proactively seeks opportunities to grow business knowledge in and out of their area."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Technology Vision": {
+      "competencies": {
+        "TV1": {
+          "category": "Skill",
+          "competency": "Is able to get buy-in of development teams and business partners for their technical vision, specific to solutions for requests (tasks, stories, etc.).",
+          "examples": {
+            "0": "Does not contribute to, or focus on, a technical vision for requests.",
+            "1": "Provides a focus of skills toward the technical vision of a request, with guidance.",
+            "2": "Consistently and independently finds and executes on opportunities to promote a technical vision of a request, within their team.",
+            "3": "Consistently and independently promotes and ties the technical vision of a request to technology partners when necessary, and overall Technology Philosophies."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "TV2": {
+          "category": "Skill",
+          "competency": "Looks for opportunities for an application's overall improvement, setting goals for the application to strive for.",
+          "examples": {
+            "0": "Does not have enough familiarity with the application to understand the opportunities.",
+            "1": "Aware of application opportunities and communicates them to others.",
+            "2": "Aware of application opportunities and consistently works to get them implemented.",
+            "3": "Proactively finds opportunities and executes on improvements related to the application and engages other teams."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "TV3": {
+          "category": "Skill",
+          "competency": "Adheres to the technical vision of the team's system or application.",
+          "examples": {
+            "0": "Does not contributed to or focus on a vision for the team's domain.",
+            "1": "Provides a concentration toward the technical vision of the team's domain, but may need guidance.",
+            "2": "Consistently and independently finds and executes on opportunities to promote and ensure alignment with the team's domain.",
+            "3": "Consistently and independently finds and executes on opportunities to promote and ensure alignment with the team's systems or application with the technology partners."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "TV4": {
+          "category": "Skill",
+          "competency": "Participates in enterprise-level technology discussions, helping drive the enterprise technology direction.",
+          "examples": {
+            "0": "Does not participate in enterprise-level discussions.",
+            "1": "Occasionally involved with enterprise-level discussions.",
+            "2": "Consistently involved with enterprise-level discussions.",
+            "3": "Consistently seeks and acts on opportunities to participate in enterprise-level discussions and is brought in as the go-to person consistently."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "TV5": {
+          "category": "Skill",
+          "competency": "Ensures solutions adhere to the enterprise-level security standards.",
+          "examples": {
+            "0": "Does not consistently consider or identify security risks as part of their solution.",
+            "1": "Aware of the security standards and considers them, but may need assistance addressing them as a part of a solution.",
+            "2": "Consistently considers security protocol and ensures they are covered in basic solutions.",
+            "3": "Consistently and proactively considers security protocol and ensures they are covered in all solutions."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Relationship Building and Initiative": {
+      "competencies": {
+        "RB1": {
+          "category": "Skill",
+          "competency": "Actively develops relationships with the team and throughout technology.",
+          "examples": {
+            "0": "Minimal to no interaction within the team.",
+            "1": "Builds relationships within the team.",
+            "2": "Builds meaningful and beneficial relationships with business and technology partners and stakeholders associated with the team.",
+            "3": "Proactively builds meaningful and beneficial relationships with all partners, stakeholders, and other areas of the company."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "RB2": {
+          "category": "Skill",
+          "competency": "Seeks out and contributes to initiatives, beyond the planned or routine daily responsibilities, with the team and throughout technology.",
+          "examples": {
+            "0": "Does not actively contribute to any initiatives.",
+            "1": "Contributes to initiatives with the team in day-to-day activities.",
+            "2": "Consistently contributes to and leads initiatives for the team that are outside of day-to-day activities.",
+            "3": "Actively seeks out, contributes, and helps lead initiatives across Technology."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "RB3": {
+          "category": "Skill",
+          "competency": "Actively mentors other team members.",
+          "examples": {
+            "0": "Does not mentor any team members.",
+            "1": "Mentors team members within the team when requested.",
+            "2": "Consistently volunteers to mentor team members inside the team.",
+            "3": "Consistently mentors team members inside the team and team members of the larger Technology area or of technology partner teams."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "RB4": {
+          "category": "Skill",
+          "competency": "Steps up within the team to organize and lead activities to promote team bonding and growth.",
+          "examples": {
+            "0": "Does not help organize these activities.",
+            "1": "Steps up to help organize and lead activities when asked or with assistance.",
+            "2": "Consistently volunteers to take the lead to organize and lead activities inside the team.",
+            "3": "Proactively finds opportunities to organize and lead activities for the larger Technology area."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Communication": {
+      "competencies": {
+        "C1": {
+          "category": "Skill",
+          "competency": "Articulates in a gump manner, applying basic communication skills (tone, physiology, words) to ensure the intended message is received.",
+          "examples": {
+            "0": "Does not communicate effectively.",
+            "1": "Communicates in this manner, but needs occasional coaching or needs to occasionally ask or answer follow-up questions for clarity.",
+            "2": "Consistently communicates effectively in this manner to ensure the message is received.",
+            "3": "Consistently communicates effectively in this manner with any audience and situation."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "C2": {
+          "category": "Skill",
+          "competency": "Provides proactive updates and visibility to impacted stakeholders and business leaders.",
+          "examples": {
+            "0": "Does not communicate frequently enough.",
+            "1": "Provides frequent updates to stakeholders when necessary.",
+            "2": "Consistently provides proactive updates to stakeholders.",
+            "3": "Consistently provides proactive updates and shares information across technology when applicable."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "C3": {
+          "category": "Skill",
+          "competency": "Creates documentation (NFR documentation, change notices, write-ups, test plans, etc.) to ensure clarity on changes and processes.",
+          "examples": {
+            "0": "Does not create documentation related to their or their team's immediate work.",
+            "1": "Consistently creates adequate documentation related to their own or their team's immediate work.",
+            "2": "Creates standards, gives advice, and drives the execution for team documentation.",
+            "3": "Gives input and implements documentation standards beyond the team and for the larger area."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "C4": {
+          "category": "Skill",
+          "competency": "Organizes and conducts effective meetings with the following: a clear agenda, right audience, proper frequency, timeliness, and desired outcome, ensuring all team members are engaged and have a chance to contribute.",
+          "examples": {
+            "0": "Does not successfully organize effective meetings.",
+            "1": "Organizes and leads meetings with assistance.",
+            "2": "Independently and consistently organizes and leads successful meetings with the smaller group of normal stakeholders.",
+            "3": "Independently and consistently organizes and leads large meetings with many stakeholders across several areas."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "C5": {
+          "category": "Skill",
+          "competency": "Organizes and leads discussions to promote best practices and standards.",
+          "examples": {
+            "0": "Provides minimal or no participation in discussions to promote best practices and standards.",
+            "1": "Participates in discussions to promote best practices and standards within the team, when available.",
+            "2": "Consistently organizes and leads discussions to promote best practices and standards within the team.",
+            "3": "Consistently and effectively organizes and leads discussions to promote best practices and standards in and outside of the team, including business and technology partners."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "C6": {
+          "category": "Skill",
+          "competency": "Effectively presents to business users and IT team members.",
+          "examples": {
+            "0": "Does not or rarely presents to business users and IT team members.",
+            "1": "Presents to business users and IT team members when needed.",
+            "2": "Takes advantage of opportunities to effectively present to the team's business users and members.",
+            "3": "Consistently and effectively presents and engages across the organization including senior leaders."
+          },
+          "rating": "",
+          "comment": ""
+        }        
+      }
+    },
+    "Requirements Gathering and Problem Solving": {
+      "competencies": {
+        "RG1": {
+          "category": "Skill",
+          "competency": "Actively listens and asks key questions to understand impact, gather requirements, and identify dependencies.",
+          "examples": {
+            "0": "Does not actively listen or participate in conversations to understand the necessary info to move forward and requires extensive follow up conversations to gather information.",
+            "1": "Participates in conversations by listening well and asking relevant questions for basic requests. Needs assistance to go deeper to gather all requirements. Requires some follow up clarifying conversations.",
+            "2": "Independently and consistently practices effective listening skills by asking deep questions to ensure all requirements are understood for basic and complex requests.",
+            "3": "Independently and consistently drives requirements sessions through highly effective listening and questioning for requirements including multiple applications and systems."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "RG2": {
+          "category": "Skill",
+          "competency": "Clearly defines and documents requirements and acceptance criteria for scalable and reusable solutions.",
+          "examples": {
+            "0": "Provides only very limited or high level basic documentation without essential details.",
+            "1": "Defines detailed requirements and quality acceptance criteria with documentation for basic requests that team members easily understand.",
+            "2": "Consistently and independently defines detailed requirements and acceptance criteria with accurate documentation for basic and complex requests and factors in scalability, reusability, and integration.",
+            "3": "Works effectively as part of a larger team (projects, epics, etc.) to identify and define detailed requirements and acceptance criteria with accurate documentation for multiple applications and systems."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "RG3": {
+          "category": "Skill",
+          "competency": "Understands the team's current state of technology and business processes to ensure new changes will not negatively impact these processes.",
+          "examples": {
+            "0": "Does not understand the current state of technology and business process they are changing.",
+            "1": "Has a basic understanding of the technology and business process associated with typical changes to the requests they and the team support.",
+            "2": "Fully understands the technology and business process associated with the entire team and communicates within the team effectively to ensure processes remain intact.",
+            "3": "Fully understands the team's business and technology process and works extensively to ensure the processes remain intact for integrations and projects."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "RG4": {
+          "category": "Skill",
+          "competency": "Effectively works with stakeholders to identify and analyze requests and define solutions.",
+          "examples": {
+            "0": "Has no experience or is not successful working with stakeholders to identify root causes.",
+            "1": "Works with stakeholders to identify and understand simple problems and define solutions.",
+            "2": "Effectively works with stakeholders to identify and understand complex problems and causes, and define solutions.",
+            "3": "Consistently and independently works well with stakeholders to identify problems of all complexities, including all integrations, and define solutions."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "RG5": {
+          "category": "Skill",
+          "competency": "Actively engages SMEs to review solutions, helping to learn newer and better ways to develop solutions and ensure the highest quality.",
+          "examples": {
+            "0": "Does not leverage SMEs for advice or input on solutions.",
+            "1": "Leverages SMEs for advice and input on up-to-date options for solutions.",
+            "2": "Consistently and independently understands which SMEs to leverage and how to implement the input and options for solutions.",
+            "3": "Has a strong network and practice of collaboration with SMEs to proactively understand changes to implement into solutions."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "RG6": {
+          "category": "Skill",
+          "competency": "Breaks work down so it can be delivered in the most effective and efficient way possible.",
+          "examples": {
+            "0": "Is able to break down work for easier solutions with assistance.",
+            "1": "Independently breaks down work for easier solutions.",
+            "2": "Consistently and independently breaks down work for complex solutions.",
+            "3": "Excels at breaking down their own work, as well as work that spans multiple teams and systems, and provides direction as the work progresses."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "RG7": {
+          "category": "Skill",
+          "competency": "Provides accurate estimates for changes.",
+          "examples": {
+            "0": "Provides unrealistic estimates for smaller and easier defined tasks or frequently requires assistance.",
+            "1": "Provides realistic estimates for smaller and easier defined tasks without assistance.",
+            "2": "Consistently provides accurate estimates for easier and complex tasks without assistance.",
+            "3": "Consistently provides accurate estimates and asks effective questions to lead input on large or complex changes."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "RG8": {
+          "category": "Skill",
+          "competency": "Leverages the best tools, processes, and team members to provide solutions.",
+          "examples": {
+            "0": "Is unaware of the tools, processes, or team members available to help provide solutions.",
+            "1": "Leverages the available tools, processes, and team members to solve basic problems, with guidance.",
+            "2": "Consistently and independently leverages the available tools, processes, and team members to solve problems within their role and team.",
+            "3": "Consistently and independently leverages the available tools, processes, and team to solve complex problems, including integrations across teams."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "RG9": {
+          "category": "Skill",
+          "competency": "Utilizes enterprise architecture diagrams to develop solutions.",
+          "examples": {
+            "0": "Does not utilize enterprise architecture diagrams.",
+            "1": "Utilizes enterprise architecture diagrams, but may need assistance.",
+            "2": "Consistently and independently leverages the architecture diagrams to develop quality solutions.",
+            "3": "Consistently and independently leverages the architecture diagrams to develop complex, quality solutions involving integrations."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "RG10": {
+          "category": "Skill",
+          "competency": "Considers services and APIs when defining solutions.",
+          "examples": {
+            "0": "Does not consider services and APIs when defining solutions.",
+            "1": "Defines solutions with services and APIs in mind, but may need assistance.",
+            "2": "Fully understands services and APIs and considers them when creating simple solutions.",
+            "3": "Fully understands services and APIs and considers them when creating complex solutions."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Testing": {
+      "competencies": {
+        "T1": {
+          "category": "Skill",
+          "competency": "Defines test scenarios based on the requested changes.",
+          "examples": {
+            "0": "Does not understand the specifications and does not define test scenarios.",
+            "1": "Understands functional and design specifications at a basic level, and defines test scenarios.",
+            "2": "Consistently and independently defines basic test scenarios.",
+            "3": "Consistently and independently defines complex test scenarios."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "T2": {
+          "category": "Skill",
+          "competency": "Creates and executes detailed test plans.",
+          "examples": {
+            "0": "Does not create and execute test plans.",
+            "1": "Develops, executes, and validates test plans at a basic level.",
+            "2": "Consistently and independently develops, executes, and validates basic test cases.",
+            "3": "Consistently and independently develops, executes, and validates complex test plans for any scenario. Can execute and develop a test plan regardless of who created the test plan."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "T3": {
+          "category": "Skill",
+          "competency": "Executes regression tests, ensuring the existing process is not negatively impacted.",
+          "examples": {
+            "0": "Does not execute on regression testing.",
+            "1": "Understands regression testing for basic processes and executes.",
+            "2": "Consistently and independently executes basic regression testing scenarios.",
+            "3": "Consistently and independently executes complex regression testing scenarios."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "T4": {
+          "category": "Skill",
+          "competency": "Is able to identify testing bugs, track the issues, and work to successfully resolve them.",
+          "examples": {
+            "0": "Does not identify or act on testing bugs.",
+            "1": "Identifies and acts on testing bugs at a basic level.",
+            "2": "Consistently and independently identifies and acts on bugs and testing issues in basic scenarios by utilizing available testing tools and applications.",
+            "3": "Consistently and independently identifies and acts on bugs and testing issues for complex scenarios by utilizing available testing tools and applications."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Self Development": {
+      "competencies": {
+        "SD1": {
+          "category": "Skill",
+          "competency": "Seeks out new technology skills to enhance their knowledge.",
+          "examples": {
+            "0": "Does not proactively seek out new technology skills.",
+            "1": "Reactively seeks out new technology skills.",
+            "2": "Proactively seeks out new technology skills for their own system or application.",
+            "3": "Proactively seeks out new technology skills for their own system, other systems and integrations, and technology that could be a possibility in the future."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "SD2": {
+          "category": "Skill",
+          "competency": "Seeks out growth opportunities and guidance to improve soft skills such as communication, attitude, organization, etc.",
+          "examples": {
+            "0": "Does not seek out or implement feedback for these skills.",
+            "1": "Reactively seeks out growth opportunities and implements feedback when given.",
+            "2": "Proactively seeks out growth opportunities for their immediate responsibilities by requesting and implementing feedback.",
+            "3": "Proactively seeks out growth opportunities beyond their responsibilities and area by requesting and implementing feedback."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "SD3": {
+          "category": "Skill",
+          "competency": "Develops skills by seeking mentorship and participating in activities such as Bullet Time, online learning, community participation, conferences, etc.",
+          "examples": {
+            "0": "Does not actively participate in any extra activities.",
+            "1": "Seeks mentorship and participates in extra activities to develop skills when suggested.",
+            "2": "Proactively seeks mentorship and participates in extra activities to develop skills for their immediate responsibilities.",
+            "3": "Proactively seeks mentorship and leads extra activities to develop skills for opportunities beyond their responsibilities and area."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Culture Promoter": {
+      "competencies": {
+        "CP1": {
+          "category": "Skill",
+          "competency": "Displays a positive attitude.",
+          "examples": {
+            "0": "Tends to focus on the negative.",
+            "1": "Typically displays a positive attitude towards their work and team members.",
+            "2": "Consistently displays a positive attitude towards their work and team members.",
+            "3": "Consistently displays a positive attitude towards their work and team members, and spreads this attitude to others."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "CP2": {
+          "category": "Skill",
+          "competency": "Is adaptable to change.",
+          "examples": {
+            "0": "Is not adaptable.",
+            "1": "Can be adaptable, but may take a period of time to adjust.",
+            "2": "Adapts well and displays a positive attitude to get others to buy in to change for the team.",
+            "3": "Quickly and easily adapts to change with an open mind and positive attitude, and champions the change outside of the team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "CP3": {
+          "category": "Skill",
+          "competency": "Manages time effectively.",
+          "examples": {
+            "0": "Does not manage time effectively and does not meet commitments.",
+            "1": "Manages their day, but occasionally is sidetracked by noise or needs to work longer hours to meet commitments.",
+            "2": "Effectively prioritizes their day to consistently complete tasks as planned.",
+            "3": "Effectively prioritizes beyond the immediate day to consistently meet commitments, and knows when to re-prioritize and leverage help."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "CP4": {
+          "category": "Skill",
+          "competency": "Responds with a sense of urgency.",
+          "examples": {
+            "0": "Does not respond with a sense of urgency.",
+            "1": "Responds with a sense of urgency, but may not be able to see things through to completion as quickly.",
+            "2": "Consistently responds with a sense of urgency and a positive attitude. Is able to see things through to completion in an appropriate time frame.",
+            "3": "Consistently responds with a sense of urgency and a positive attitude. Has a calm demeanor and sees things through to completion with the same sense of urgency and attitude."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "CP5": {
+          "category": "Skill",
+          "competency": "Balances multiple tasks with specific due dates, priority, and levels of difficulty.",
+          "examples": {
+            "0": "Does not balance multiple tasks to effectively make expected progress.",
+            "1": "Balances tasks that are lower in complexity and makes expected progress with assistance.",
+            "2": "Consistently and independently balances tasks to make expected progress.",
+            "3": "Consistently and independently balances complex tasks and meets demanding deadlines."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    }
+  }
+}

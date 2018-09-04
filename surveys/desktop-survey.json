@@ -1,0 +1,273 @@
+{
+  "version": "1.0.0",
+  "type": "Desktop Support",
+  "id": "",
+  "name": "",
+  "updated": "",
+  "sections": {
+    "Systems/Hardware Knowledge": {
+      "competencies": {
+        "S1": {
+          "category": "Skill",
+          "competency": "Properly troubleshoots network issues",
+          "examples": {
+            "0": "Does not know when an issue is a network issue or frequently requires guidance.",
+            "1": "Knows how to diagnose an issue as a network issue and how to troubleshoot it with minimal guidance.",
+            "2": "Diagnoses, troubleshoots, and provides an appropriate solution quickly and independently.",
+            "3": "Diagnoses, troubleshoots, provides the best solution, and mentors fellow team members. Builds a relationship with the network team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S2": {
+          "category": "Skill",
+          "competency": "Properly troubleshoots mobile issues",
+          "examples": {
+            "0": "Does not know when an issue is a mobile issue or frequently requires guidance.",
+            "1": "Knows how to diagnose an issue as a mobile issue and how to troubleshoot it with minimal guidance.",
+            "2": "Diagnoses, troubleshoots, and provides an appropriate solution quickly and independently.",
+            "3": "Diagnoses, troubleshoots, and provides the best solution, and mentors fellow team members. Builds a relationship with the mobile team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S3": {
+          "category": "Skill",
+          "competency": "Properly troubleshoots Windows Software issues",
+          "examples": {
+            "0": "Does not know when an issue is a Windows Software issue or frequently requires guidance.",
+            "1": "Knows how to diagnose an issue as a Windows Software issue and how to troubleshoot it with minimal guidance.",
+            "2": "Diagnoses, troubleshoots, and provides an appropriate solution quickly and independently.",
+            "3": "Diagnoses, troubleshoots, and provides the best solution, and mentors fellow team members. Builds a relationship with the Windows team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S4": {
+          "category": "Skill",
+          "competency": "Properly troubleshoots Mac Software issues",
+          "examples": {
+            "0": "Does not know when an issue is a Mac Software issue or frequently requires guidance.",
+            "1": "Knows how to diagnose an issue as a Mac Software issue and how to troubleshoot it with minimal guidance.",
+            "2": "Diagnoses, troubleshoots, and provides an appropriate solution quickly and independently.",
+            "3": "Diagnoses, troubleshoots, and provides the best solution, and mentors fellow team members. Builds a relationship with the Mac team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S5": {
+          "category": "Skill",
+          "competency": "Properly troubleshoots hardware issues (e.g. printer, phone, etc.)",
+          "examples": {
+            "0": "Does not know when an issue is a hardware issue or frequently requires guidance.",
+            "1": "Knows how to diagnose an issue as a hardware issue and how to troubleshoot it with minimal guidance.",
+            "2": "Diagnoses, troubleshoots, and provides an appropriate solution quickly and independently.",
+            "3": "Diagnoses, troubleshoots, and provides the best solution, and mentors fellow team members. Builds a relationship with the hardware team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S6": {
+          "category": "Skill",
+          "competency": "Properly deploys equipment",
+          "examples": {
+            "0": "Does not properly prepare and deploy equipment or frequently requires guidance.",
+            "1": "Consistently and properly prepares and deploys equipment with minimal guidance.",
+            "2": "Consistently and properly prepares and deploys equipment with a high degree of accuracy.",
+            "3": "Consistently and properly prepares and deploys equipment with a high degree of accuracy and improves on opportunities to improve the process across teams. "
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S7": {
+          "category": "Skill",
+          "competency": "Has the knowledge to support client hardware and software",
+          "examples": {
+            "0": "Does not know how to properly support the software and hardware of the clients or frequently needs guidance.",
+            "1": "Has the expected level of knowledge of the software and hardware and properly supports clients for basic issues.",
+            "2": "Has a deep level of knowledge of the software and hardware and consistently supports clients for all issues.",
+            "3": "Has a deep level of knowledge of the software and hardware to consistently supports clients for all issues and mentors team members."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S8": {
+          "category": "Skill",
+          "competency": "Researches and evaluates new hardware and software",
+          "examples": {
+            "0": "Does not review new software or hardware.",
+            "1": "Reviews new hardware and software to support clients.",
+            "2": "Proactively reviews new hardware and software to support clients.",
+            "3": "Is a hardware and software SME and takes the conn to evangelize and pilot."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Project Management": {
+      "competencies": {
+        "P1": {
+          "category": "Skill",
+          "competency": "Participates in projects",
+          "examples": {
+            "0": "Is not an active participant in projects.",
+            "1": "Actively participates in projects and performs expected work.",
+            "2": "Consistently finishes projects completely and helps other team members finish projects.",
+            "3": "Takes the conn on coordinating projects and consistently finishes with a high degree of execution."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "P2": {
+          "category": "Skill",
+          "competency": "Participates in technology moves",
+          "examples": {
+            "0": "Does not participate in the expected number of moves per month or frequently needs guidance.",
+            "1": "Actively participates in the expected number of moves a month with minimal guidance.",
+            "2": "Consistently and independently performs at a high level for more than the expected number of moves a month.",
+            "3": "Takes the conn on coordinating moves and consistently finishes with a high degree of execution."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Communication": {
+      "competencies": {
+        "C1": {
+          "category": "Skill",
+          "competency": "",
+          "examples": {
+            "0": "Does not know or reach out to immediate team members to resolve issues.",
+            "1": "Knows and reaches out to immediate team members to resolve issues.",
+            "2": "Leverages and coordinates with immediate team members to proactively prepare for and resolve issues.",
+            "3": "Consistently and independently leverages and coordinates across teams and the larger area to proactively prepare for and resolve issues."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "C2": {
+          "category": "Skill",
+          "competency": "",
+          "examples": {
+            "0": "Does not attend applicable meetings or is not engaged during meetings.",
+            "1": "Attends applicable meetings and is engaged.",
+            "2": "Consistently attends applicable meetings and contributes to a high degree of detail.",
+            "3": "Consistently attends applicable meetings to contribute a high degree of detail. Coordinates and lead meetings."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Business and Process Knowledge": {
+      "competencies": {
+        "B1": {
+          "category": "Skill",
+          "competency": "Provides team member deskside support",
+          "examples": {
+            "0": "Does not properly set up a computer or break down a desk, or frequently needs guidance.",
+            "1": "Properly sets up and fully breaks down a desk with minimal guidance.",
+            "2": "Consistently and independently sets up and fully breaks down a desk with a high degree of accuracy, with positive feedback from team members.",
+            "3": "Consistently and independently sets up and fully breaks down a desk with a high degree of accuracy, positive feedback from team members, and shares knowledge with the team on best practices."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "B2": {
+          "category": "Skill",
+          "competency": "Provides remote team member support",
+          "examples": {
+            "0": "Does not know how to troubleshoot remote issues or requires frequent guidance.",
+            "1": "Provides the proper level of support to remote TMs with minimal guidance.",
+            "2": "Consistently and independently resolves remote support tickets quickly and accurately.",
+            "3": "Is an effective point person for remote support for TMs and the FOC and for complex remote issue tickets for the team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "B3": {
+          "category": "Skill",
+          "competency": "Performs floor sweeps",
+          "examples": {
+            "0": "Does not do floor sweeps or frequently needs guidance.",
+            "1": "Does floor sweeps as expected for frequency and thoroughness.",
+            "2": "Consistently does floor sweeps more than once a week at a deep level of detail and follow up.",
+            "3": "Consistently does floor sweeps several times a week at a deep level of detail and follow up and shares knowledge with the team on best practices."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Task Management": {
+      "competencies": {
+        "T1": {
+          "category": "Skill",
+          "competency": "Utilizes KIP as a resource",
+          "examples": {
+            "0": "Does not use KIP as expected.",
+            "1": "Consistently uses KIP as a resource to assist in resolving issues.",
+            "2": "Consistently contributes to KIP and evangelizes and teaches other team members to use and contribute.",
+            "3": "Consistently performs the roles of a KIP Editor, Contributor, and Administrator."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "T2": {
+          "category": "Skill",
+          "competency": "Uses Cherwell for ticketing and queue management",
+          "examples": {
+            "0": "Does not properly record work performed in Cherwell.",
+            "1": "Properly records all work completed in Cherwell, including categorizing and prioritizing tickets.",
+            "2": "Consistently recategorizes ticket queue and effectively groups tickets for higher ticket completion.",
+            "3": "Consistently coordinates the ticket queue to help other team members effectively and efficiently complete tickets."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "T3": {
+          "category": "Skill",
+          "competency": "Understands and uses Cherwell metrics",
+          "examples": {
+            "0": "Does not have a clear understanding of Cherwell metrics.",
+            "1": "Finds their own open and close numbers, client satisfaction numbers, and overall building statistics.",
+            "2": "Finds open and close numbers and client satisfaction numbers for the building and whole desktop team. Can build basic reports and general understanding of search and filtering in Cherwell.",
+            "3": "Builds and generates reports for the team, tracing trends over time and has deep understanding of search and filtering in Cherwell."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "T4": {
+          "category": "Skill",
+          "competency": "Adheres to the approval process and has software license knowledge",
+          "examples": {
+            "0": "Does not properly follow the approval process or have the necessary knowledge of software licensing, or needs frequent guidance.",
+            "1": "Properly follows the approval process for the levels of their clients, on the most common pieces of equipment with minimal guidance.",
+            "2": "Consistently and independently follows the process for all approval levels within Quicken Loans, knows who to contact about other FOCs, and mentors team members.",
+            "3": "Consistently and independently follows the process for all approval levels within the FOC and mentors team members. Coordinates with decision makers to help outline and define approval processes for their area of business."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Team Building and Development": {
+      "competencies": {
+        "TB1": {
+          "category": "Skill",
+          "competency": "Participates in activities such as team events, Bullet Time, Zupdate, TalkIT, etc. that promote team unity and culture",
+          "examples": {
+            "0": "Does not participate in these activities.",
+            "1": "Participates in the minimally suggested activities.",
+            "2": "Consistently participates in and promotes activities to the team.",
+            "3": "Consistently participates in, promotes and orchestrates activities for the team."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    }
+  }
+}

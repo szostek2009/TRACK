@@ -161,6 +161,11 @@
             "Name": "Tech U Learning Consultant",
             "URL": "/surveys/techu-learning-consultant-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Learning+Consultant"
+        },
+        {
+            "Name": "Web UI Development and Architecture",
+            "URL": "/surveys/webui-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Web+UI+Development+and+Architecture+Skills"
         }
     ],
     "Archived": [
@@ -178,11 +183,6 @@
             "Name": "UX Designer (V1)",
             "URL": "/surveys/ux-designer-survey.json",
             "ConfluenceURL": ""
-        },
-        {
-            "Name": "Web UI Development and Architecture",
-            "URL": "/surveys/webui-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Web+UI+Development+and+Architecture+Skills"
         }
     ],
     "Examples": [

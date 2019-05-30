@@ -103,12 +103,9 @@
                 </h4>
                 <p>
                     <b>Survey blanks</b> or templates must be stored in JSON and follow a preset format.
-                    See <a href="http://kluck.engineering/skill-survey/sample-survey.json">sample-survey.json</a> for an example.
+                    See <a href="https://trac.foc.zone/sample-survey.json">sample-survey.json</a> for an example.
 
                     After it has been created, you can point the custom URL to your survey to use it as a template.
-                </p>
-                <p>
-                    <b class="ui tiny pink label">New!</b> - A visual editor is provided to create surveys: <a href="editor.html">Visual Survey Editor</a>.
                 </p>
             </div>
         </div>

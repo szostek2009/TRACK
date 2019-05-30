@@ -87,7 +87,7 @@
                     <div class="content">How do I view completed surveys?</div>
                 </h4>
                 <p>
-                    Saved surveys are shown in the table above. Click <b class="ui tiny blue label">load</b> to load and view a survey.
+                    Saved surveys are shown in the table above. Click <b class="ui tiny orange label">Upload</b> to load and view a survey.
                     Once loaded you have several options available:
                 </p>
                 <ul class="ui list">

@@ -116,7 +116,7 @@
                         </div>
 
                         <div class="ui items w-100">
-                            <div class="item" v-for="rating in ratings">
+                            <div class="item" v-for="rating in getRatings(comp.examples)">
                                 <label class="ui compact small message"
                                     @click="onChange(rating.value)"
                                     @mouseover="hoverRating"
@@ -168,6 +168,7 @@ export default {
         ...mapGetters('copy', {
             categories: GETTERS.COPY.CATEGORIES,
             ratings: GETTERS.COPY.RATINGS,
+            ratings5: GETTERS.COPY.RATINGS5,
             unratings: GETTERS.COPY.UNRATINGS,
             unrating_values: GETTERS.COPY.UNRATING_VALUES,
             unrating_description: GETTERS.COPY.UNRATING_DESCRIPTION,
@@ -186,6 +187,15 @@ export default {
                 rating: value,
                 comment: this.changed_comment
             });
+        },
+
+        getRatings: function (examples) {
+            let ratingCount = Object.keys(examples).length;
+            if (ratingCount === 5) {
+                return this.ratings5;
+            }
+
+            return this.ratings;
         },
 
         hoverRating: function(event) {

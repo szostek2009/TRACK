@@ -17,6 +17,13 @@ const RATINGS = [
     },
 ];
 
+const RATINGS5 = RATINGS.concat([
+    {
+        value: "4",
+        human: "Expert-level and deep experience. Consistently raises the bar for the entire company."
+    }
+]);
+
 const UNRATINGS = [
     {
         value: "IDK",
@@ -33,4 +40,12 @@ const UNRATINGS = [
     }
 ];
 
-export { RATINGS, UNRATINGS };
+const ACCEPTABLE_SCORES = [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4"
+];
+
+export { RATINGS, UNRATINGS, RATINGS5, ACCEPTABLE_SCORES };

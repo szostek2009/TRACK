@@ -1,11 +1,12 @@
 import { CATEGORIES } from '../../types/categories';
-import { RATINGS, UNRATINGS } from '../../types/ratings';
+import { RATINGS, UNRATINGS, RATINGS5 } from '../../types/ratings';
 import { GETTERS } from '../getters';
 
 // initial state
 const state = {
     categories: CATEGORIES,
     ratings: RATINGS,
+    ratings5: RATINGS5,
     unratings: UNRATINGS
 }
 
@@ -47,7 +48,12 @@ const getters = {
 
             return match;
         };
-    }
+    },
+
+    // To support 0-4 ratings (5 pt scale)
+    [GETTERS.COPY.RATINGS5] (state) {
+        return state.ratings5;
+    },
 };
 
 // actions

@@ -1,11 +1,10 @@
 import $ from 'jquery';
 import { MUTATIONS } from '../mutations';
 import { GETTERS } from '../getters';
-import { RATINGS, UNRATINGS } from '../../types/ratings';
+import { ACCEPTABLE_SCORES, UNRATINGS } from '../../types/ratings';
 import { generateUUID } from '../../util/generate-uuid';
 import { calculateProgress } from '../../util/calculate-progress';
 
-const RATINGS_VALUES = RATINGS.map((v) => v.value);
 const UNRATINGS_VALUES = UNRATINGS.map((v) => v.value);
 
 function normalizeSectionTitle(title) {
@@ -34,12 +33,16 @@ function parseSection(title, section) {
 
 function totalSection(competencies) {
     let completed = 0,
-        score = 0;
+        score = 0,
+        maxScore = 0;
+
+    // max score not currently used.
+    // Required to provide more dynamic total score (instead of just static (# of comps * 3).
 
     for (let comp_id in competencies) {
         let rating = competencies[comp_id]['rating'];
 
-        if (RATINGS_VALUES.includes(rating)) {
+        if (ACCEPTABLE_SCORES.includes(rating)) {
             score += parseInt(rating);
             completed += 1;
         } else if (UNRATINGS_VALUES.includes(rating)) {
@@ -47,7 +50,7 @@ function totalSection(competencies) {
         }
     }
 
-    return { completed, score };
+    return { completed, score, maxScore };
 }
 
 function serializeSections(sections) {
@@ -287,10 +290,10 @@ const mutations = {
     },
 
     [MUTATIONS.SURVEY.CALCULATE_SECTION] (state, section_id) {
-        let completed, score,
+        let completed, score, maxScore,
             competencies = state.sections[section_id].competencies;
 
-        ({ completed, score } = totalSection(competencies));
+        ({ completed, score, maxScore } = totalSection(competencies));
 
         state.sections[section_id].completed = completed;
         state.sections[section_id].score = score;

@@ -108,6 +108,11 @@
             "ConfluenceURL": "https://confluence/display/TRAC/Leadership"
         },
         {
+            "Name": "Product Engineering Team Leader",
+            "URL": "/surveys/PETL.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Leadership"
+        },
+        {
             "Name": "Modeler",
             "URL": "/surveys/bi-modeler-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Modeler"

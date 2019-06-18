@@ -1,0 +1,584 @@
+{
+  "_comment": "https://confluence/display/TRAC/Leadership",
+
+  "type": "Leader",
+  "version": "0.1.0",
+  "id": "",
+  "name": "",
+  "updated": "",
+
+  "sections": {
+    "Driving The Culture": {
+      "competencies": {
+        "C1": {
+          "category": "Behavior",
+          "competency": "Lives the ISMs",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Has demonstrated a full understanding of the ISMS through actions, words, and behaviors throughout daily situations.",
+            "2": "Has clearly incorporated the ISMs into their core values by practicing the ISMs every day, continuously improving their knowledge and experience of the ISMs through actions, words, and behaviors throughout daily situations.",
+            "3": "Helps others practice the ISMs and ensures we continue to stay who we are through our ISMs by upholding them and teaching others to do the same throughout daily situations.",
+            "4": "Lives our ISMs outside of QL at conferences, recruiting events, on social media, and social events, promoting who we are by representing QL and the team at these events."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "C2": {
+          "category": "Behavior",
+          "competency": "Fosters Innovation",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Finds ways to improve themselves, the team, and the business.",
+            "2": "Creates an environment where team members want to and are able to be committed to innovating themselves, their team, and the business, as well as invest time innovating during Bullet Time, Hackathons, Conferences, and other types of innovation time focused on personal, team, and company growth.",
+            "3": "Is committed to innovation by continuously finding ways to improve themselves, the team, and the business, as well as finding ways to participate in innovation time like Bullet Time, Hackathons, Conferences, and Experiments focused on personal, team, and company growth.",
+            "4": "The team takes initiative and consistently demonstrates an innovative mindset by creating innovative solutions that transform our teams and our business."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "C3": {
+          "category": "Knowledge",
+          "competency": "Team Cultivation",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Rewards and celebrates important team and team member events, as well as team and team member successes.",
+            "2": "Team members support and work together to solve problems and help each other do what's right.",
+            "3": "Coordinates and attends team events, social hours, team outings, volunteer events, and company events to help strengthen relationships with team members.",
+            "4": "The team takes initiative and is engaged in cultivating the teams culture and mindset by being invested in and coordinating team events, social hours, team outings, volunteer events, and company events to help strengthen relationships with team members."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Building Trust": {
+      "competencies": {
+        "T1": {
+          "category": "Behavior",
+          "competency": "Builds strong, lasting relationships with others.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Performs one on one's with direct reports.  Gets to know their direct team on a personal level.",
+            "2": "Earns trust of team members by building meaningful relationships, respecting privacy, and maintaining transparency. Creates an environment where team members trust each other.",
+            "3": "Proactively networks and builds relationships across Technology and the business. Utilizes relationships to tie threads between Technology and the business.",
+            "4": "Networks and builds relationships with other leaders across the FOC and technology industry, and leverages those relationships to help us grow."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "T2": {
+          "category": "Behavior",
+          "competency": "Takes ownership and is accountable for themselves and for the team.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Takes responsibility for the team's results by leveraging a delivery and prioritization process, and ensures coverage by their team to fit the needs of their business domain.",
+            "2": "Has a high level of ownership and initiative on items relating to their specific business or IT domain.",
+            "3": "Takes the conn on tying the threads between their team and partner teams, and takes interest in the vision and performance of teams outside of their domain.",
+            "4": "Proactively stays engaged with the IT leadership team, and is involved in major initiatives that intersect their teams IT vertical. Ensures that Technology is driving the business."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "T3": {
+          "category": "Behavior",
+          "competency": "Has noticeable and admirable presence.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Makes a good first impression.  Displays appropriate levels of confidence and capability. ",
+            "2": "Uses an open and accepting physiology and tone that makes themselves approachable by others, even when extremely busy.",
+            "3": "Maintains composure in front of the team even in very challenging situations, to help the team remain calm.  Stands up for team in times of need and shields them from noise.",
+            "4": "Team members, leaders, and business partners seek them out both professionally and personally. Have the ability to command attention and engage listeners when presenting to large audiences. "
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "T4": {
+          "category": "Behavior",
+          "competency": "Consistently overcomes obstacles and delivers results.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Demonstrates a high degree of integrity by honoring commitments, and delivering timely results.",
+            "2": "Teaches others how to overcome obstacles in order to achieve personal and team goals. ",
+            "3": "Communicates and ties threads across business and technology teams in order to overcome obstacles, and ensures teams learn from past experiences.",
+            "4": "Anticipates potential issues before they occur by leveraging past experiences. Strategically guides team members toward the most desired outcome for a given situation, so they can do the same in the future."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Developing People": {
+      "competencies": {
+        "P1": {
+          "category": "Behavior",
+          "competency": "Gives appropriate & timely coaching and feedback.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Provides ongoing feedback to team members, and creates actionable goals and development plans with them.",
+            "2": "Is effective at providing tailored coaching to team members to realize their desired goals and objectives.",
+            "3": "Has proven success by coaching team members and achieving transformational growth. Leads outside his/her role by providing coaching and direct feedback to those outside of their immediate team.",
+            "4": "Keeps an open ear, and provides on the spot feedback when they observe something that warrants praise or constructive coaching. Invests time in mentoring leaders both in and out of their technology vertical."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "P2": {
+          "category": "Behavior",
+          "competency": "Sets clear expectations and maintains accountability.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Sets basic expectations up front, such as hours, attire, behavior, etc. Holds self accountable.",
+            "2": "Ensures that each person on their team understands what success looks like for their role. Takes appropriate action when team members do not meet expectations or commitments.",
+            "3": "Develops expectations for team members across teams in broader team initiatives, and ensures that everyone understands the unique role that they play.",
+            "4": "Negotiates expectations and creates alignment across multiple parties with differing points of view."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "P3": {
+          "category": "Behavior",
+          "competency": "Builds strong organizational teams.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Forms a team that leverages the strength of each individual. Drives resolution to team dynamic and interpersonal conflicts.",
+            "2": "Effectively leads teams through changes, including forming, storming, norming and performing.",
+            "3": "Grooms a successor for their role, and grows the bench strength of our leadership team.",
+            "4": "Recognizes opportunities within the organizational structure beyond their own team, and drives transformational change."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "P4": {
+          "category": "Behavior",
+          "competency": "Equips Team Members with tools and opportunities to grow.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Provides team members with the tools, knowledge, and resources they need to be successful in their current role.",
+            "2": "Gives team members challenging work that develops their natural talents, and connects mentors and mentees. Works with team and team members to set and achieve meaningful goals.",
+            "3": "Seeks out and provides opportunities for team members to experience performing a level up from their current role.",
+            "4": "Looking across the FOC and industry, finds and provides new ways to drive team member and organizational growth."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Strategic Thinking": {
+      "competencies": {
+        "S1": {
+          "category": "Behavior",
+          "competency": "Organizes high functioning teams.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Ensures the team has the right people, skills, knowledge, and diverse perspectives needed for success.",
+            "2": "Ensures that team has the right process, standards, and collaboration needed to deliver high quality business and technology solutions.",
+            "3": "Constantly reevaluates, and improves team structure and process to ensure it is optimized to meet the current needs of both technology and the business.",
+            "4": "Is able to anticipate where both technology and the business is heading, and proactively adapting the team structure, process, and technology to be ready for it."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S2": {
+          "category": "Behavior",
+          "competency": "Plans Strategically.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Ensures team backlog is groomed, prioritized, and is ready to be worked on at the beginning of each sprint.",
+            "2": "Drives quarterly planning and work break down sessions to prepare their team for future business and technology initiatives.",
+            "3": "Ensures that the team has a road map that makes it clear where they're going well into the future.",
+            "4": "Coordinates dependencies across multiple technology, business, and FOC teams to deliver on epic level initiatives."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S3": {
+          "category": "Behavior",
+          "competency": "Adapts to Change",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Demonstrates to the team that change is good by being open and flexible.",
+            "2": "Leads team through problem solving when road blocks exist. Provides a framework enabling team members to make effective and timely decisions.",
+            "3": "Can shift priorities to adapt to variable needs from our business, clients, other teams, and the business market.",
+            "4": "Has a pulse on their external environment. Understands when to react to change, when not to react to change and when to lead change, and executes effectively."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "S4": {
+          "category": "Behavior",
+          "competency": "Effective Decision Maker.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Understands the business, technology, and clients of the team well enough to make decisions that impact the company.",
+            "2": "Understands where their business and IT as a whole is going and makes decisions based on an aligned vision and roadmap.",
+            "3": "Knows how their team and systems impact partner teams, other systems, and the FOC. Leverages both IFR and VFR to measure performance and make decisions.",
+            "4": "Challenges our teams to look beyond what we know and what we do today, to make decisions that reflect what is possible in a future state based on industry and FOC knowledge."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Communicating Effectively": {
+      "competencies": {
+        "E1": {
+          "category": "Behavior",
+          "competency": "Paints a clear vision.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Speak to the focus of their team(s) and provide clarity to the areas of the business impacted.",
+            "2": "Is able to clearly communicate what the teams need to do and why it is important, and ensures the team understands the business impact of the solutions implemented.",
+            "3": "Effectively promotes their team vision to other teams, is able to market their team's vision to get buy-in with leadership across the enterprise.",
+            "4": "Is able to get buy-in on the overall direction of their team's vision, while maintaining alignment with leadership, business partners, and team members."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "E2": {
+          "category": "Behavior",
+          "competency": "Takes ownership of their communication.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Delivers messages in a timely fashion; acts with a sense of urgency.",
+            "2": "Proactively communicates critical information to the right people, and ensures that \"message sent\" is \"message received\". Takes ownership of mistakes, and effectively leverages the three step process.",
+            "3": "Creates environment of proactive communication within their team, and fosters ownership of communication on the individual level.",
+            "4": "Mediates, diffuses, and resolves conflict between any combination of teams, team members, and business partners."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "E3": {
+          "category": "Behavior",
+          "competency": "Aware of the communication needs of others.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Selects the appropriate delivery method, and is effective at crafting a message.",
+            "2": "Recognizes how words, tone and physiology impacts results then adapts accordingly.",
+            "3": "Ensures team members are effective at selecting the right delivery method, and crafting a message.",
+            "4": "Demonstrates active listening to team members in their words, tone, and body language, and effectively seeks to understand."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "E4": {
+          "category": "Behavior",
+          "competency": "Effective facilitator and presenter.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Runs effective team meetings.",
+            "2": "Is able to present topics to groups of people outside of your immediate team, and participates actively in leadership meetings. Speaks clearly and engages the audience.",
+            "3": "Drives larger strategic meetings, and effectively presents internally to large groups (i.e. All Platform Team Meeting).",
+            "4": "Presents externally to industry peers, partners, and FOCs."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "E5": {
+          "category": "Behavior",
+          "competency": "Clear and concise communicator.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Uses basic communication skills (physiology, tone, and words) to effectively deliver a message.",
+            "2": "Clearly communicates expectations with both the team and individual Team Members.",
+            "3": "Ensures that there is clear visibility into the team's commitments for all interested parties, and that team members are communicating in a \"gump\" fashion.",
+            "4": "Clearly communicates across the FOC, and ensures that messages are crafted so that the entire audience can understand them."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Team Process": {
+      "competencies": {
+        "PETP1": {
+          "category": "Behavior",
+          "competency": "Establishes and reinforces consistency around delivery teams day to day technical processes.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Is aware of what technical processes exist on their team such as code reviews, code repository work flows, and deployment tools.",
+            "2": "Can speak to the value of the technical team processes and how they add to overall quality and delivery.",
+            "3": "Is able to identify specific opportunities within the processes and establish new processes that add to the overall value of their teams quality and delivery.",
+            "4": "Reinforces consistency of the technical processes by evaluating impact, proactively finding opportunities and gaps, and iterating to consistently improve them."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "PETP2": {
+          "category": "Behavior",
+          "competency": "Manages budget around team lunches, Soucenirs, Wearables, Accessories, and Gifts (SWAG), and other team entertainment.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Can speak to the amount their team is allocated from a budget perspective on a month to month basis.",
+            "2": "Is able to track spending month over month.",
+            "3": "Is able to forecast spend based on upcoming events such as planning, enterprise meetings, or big team events.",
+            "4": "Keeps a detailed budget with historical, forecasted, and day to day team entertainment spend."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "PETP3": {
+          "category": "Behavior",
+          "competency": "Establishes and reinforces regular team meetings and team level agreements.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Understands the need for and can speak to the value of team meetings and team level agreements.",
+            "2": "Team meetings and agreements are consistently structured, productive, and have specific outcomes identified, captured, and completed (ex: House Commitmentz).",
+            "3": "Proactively identifies when team meetings and agreements have opportunities in cadence or substance and can adjust quickly.",
+            "4": "Team self organizes team meetings and team level agreements because of the framework that has been established and reinforced."
+          },
+          "rating": "",
+          "comment": ""
+        }
+
+      }
+    },
+    "Communication and Transparency": {
+      "competencies": {
+        "PECT1": {
+          "category": "Behavior",
+          "competency": "Ensures there is ownership and outbound communication around technical decisions, technical incidents, risks, concerns, and successes and wins.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Needs to be reminded to communicate and requires support in drafting clear communication.",
+            "2": "Usually proactively communicates and sends clear communication.",
+            "3": "Consistently and proactively communicates out all relevant information in a clear and concise manner.",
+            "4": "Sets the standard on how, when, and where to communicate which others adapt."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "PECT2": {
+          "category": "Behavior",
+          "competency": "Distills communication to the team to ensure understanding and alignment with Release Train, PE, and Enterprise Initiatives.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Inconsistently communicates updates and strategies to the team.",
+            "2": "Communicates updates and strategies to the team but does not ensure understanding.",
+            "3": "Consistently communicates updates and strategic direction to the team.",
+            "4": "Communicates and ensures team members make decisions that align around the release train, product engineering, and enterprise initiatives strategies."
+          },
+          "rating": "",
+          "comment": ""
+        }
+
+      }
+    },
+    "Operational Strategy": {
+      "competencies": {
+        "PEOS1": {
+          "category": "Behavior",
+          "competency": "Establishes clear alignment across the team and can speak to what the team supports, their technology stack, and documentation around it.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Understands what capabilities the team supports, the technology stack they work in, and what documentation exists.",
+            "2": "Creates alignment with the team on what they support, their technology stack, and what documentation is needed.",
+            "3": "Is able to effectively communicate about the capabilities the teams supports and the technologies they use. Challenges the team and drives discussions to ensure they're supporting the right capabilities and using the right technologies.",
+            "4": "Understands how the capabilities the team supports fit into the vision for the Release Train and can assist in decisions for which capabilities belong on the Release Train. Challenges the team to ensure they're using the appropriate technology stack and thinking long term about new technologies and industry trends."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "PEOS2": {
+          "category": "Behavior",
+          "competency": "Establishes a long term vision for their team with clear alignment to their Release Train, PE, Technology, and Quicken Loans initiatives.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Has established and documented a long term vision for the team that aligns to their Release Train, PE, and Technologies visions. Is able to effectively communicate the vision and how what their team does fits into the big picture.",
+            "2": "Is able to get buy in from the team and alignment on how the team fits into the vision and key initiatives at Quicken Loans. The team understands the vision, can communicate it, and use it to make decisions.",
+            "3": "Is able to identify opportunities where the team can better align to the vision and key initiatives at Quicken Loans and establishes a strategy to get the teams work aligned.",
+            "4": "Makes strategic decisions using the vision and key initiatives at Quicken Loans as a guide post or north star. Uses their long term vision to make decisions regarding the work the team does, technologies they use, and sizing the team."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "PEOS3": {
+          "category": "Behavior",
+          "competency": "Ensures what we build is quality software that fits into the overall enterprise initiatives and technical standards.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Is aware of enterprise initiatives and technology standards and makes sure their team is aware.",
+            "2": "Has a deep understanding of enterprise initiatives and technology standards and can ensure the team is following them.",
+            "3": "Builds quality into the process, ensures the team meets standards for code coverage, automated testing, NFRs, etc... Has a strategy for the capabilities they support and updating them to new standards and expectations.",
+            "4": "Makes decisions using a strategy for quality that fits into the enterprise initiatives and technical standards. Contributes to technology standards and drives their team to do the same."
+          },
+          "rating": "",
+          "comment": ""
+        }
+
+      }
+    },
+    "Dependency Management": {
+      "competencies": {
+        "PEOS1": {
+          "category": "Behavior",
+          "competency": "Is able to speak to what their support teams do in terms of what they own and how they operate.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Is aware of what teams rely on their team for support.",
+            "2": "Is aware of what teams their team relies on for support.",
+            "3": "Is aware of the technologies that their support teams use.",
+            "4": "Is aware of the technologies, processes, and operations that their support teams use on a day to day basis."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "PEOS2": {
+          "category": "Behavior",
+          "competency": "Is able to speak to how their specific team fits into the enterprise.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Is aware of capabilities and dependencies supported by their team.",
+            "2": "Is aware of the capabilities and dependencies supported by their train.",
+            "3": "Is aware of the capabilities and dependencies supported by their stream.",
+            "4": "Is aware of the capabilities, the overlap their their team may have with others, and the dependencies they have with other teams in the enterprise."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "PEOS3": {
+          "category": "Behavior",
+          "competency": "Is able to speak to our core business.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Understands our core business processes.",
+            "2": "Can speak to a broad range of businesses processes and new business initiatives.",
+            "3": "Is up to date on new business initiatives, their impact on existing business, and the impact to our core business.",
+            "4": "Has deep understanding of our core business processes and how they generate revenue."
+          },
+          "rating": "",
+          "comment": ""
+        }
+
+      }
+    },
+    "Leading One Level Up": {
+      "competencies": {
+        "PELU1": {
+          "category": "Behavior",
+          "competency": "Is able to speak to what their train and stream supports, the capabilities, and their impact on the business.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Understands the focus of their train, the capabilities, and their impact on the business.",
+            "2": "Can speak to the focus of their train, the capabilities, and their impact on the business.",
+            "3": "Effectively promotes the focus of their train, the capabilities, and their impact on the business.",
+            "4": "Understands and can speak to the focus of their stream, the capabilities, and their impact on the business."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "PELU2": {
+          "category": "Behavior",
+          "competency": "Is actively involved in leadership meetings.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Attends train leadership meetings.",
+            "2": "Has a deep understanding of the content in train leadership meetings and provides feedback and contributes to conversations.",
+            "3": "Actively involved and drives train leadership meetings.",
+            "4": "Attends and contributes to stream leadership meetings."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "PELU3": {
+          "category": "Behavior",
+          "competency": "Is actively participating in the leadership team initiatives.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Understands train initiatives.",
+            "2": "Can speak to the focus the train initiatives.",
+            "3": "Actively involved and drives train initiatives.",
+            "4": "Understands and can speak to stream initiatives."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "PELU4": {
+          "category": "Behavior",
+          "competency": "Is actively involved in enterprise technology initiatives.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Is aware of train enterprise initiatives and technology.",
+            "2": "Has a deep understanding of train enterprise initiatives and technology and provides feedback and contributes to conversations.",
+            "3": "Actively involved and drives train enterprise initiatives and technology by leading virtual groups or other active participation methods.",
+            "4": "Understands and can speak to stream enterprise technology initiatives."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      }
+    },
+    "Staffing": {
+      "competencies": {
+        "PES1": {
+          "category": "Behavior",
+          "competency": "Has a deep understanding and can effectively lead the roles and responsibilities on their team.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Understands at a high level the roles and responsibilities on their team.",
+            "2": "Capable of performing in any role on their team.",
+            "3": "Capable of making a critical decision on behalf of any role on their team.",
+            "4": "Capable of effectively challenging and coaching senior level team members."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "PES2": {
+          "category": "Behavior",
+          "competency": "Is able to objectively determine when a team needs to grow, or should conversly pivot focus.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Understands how capacity constraints impact product delivery at the team, release train, and portfolio level.",
+            "2": "Can use capacity and demand metrics to forecast growth for product delivery.",
+            "3": "Can use KPI and ROI metrics to determine when a team should pivot to higher value work.",
+            "4": "Does all of the above across their release train."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "PES3": {
+          "category": "Behavior",
+          "competency": "Establishes a framework for new team member on-boarding and can effectively plan around hiring and on-boarding capacity.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Has established a framework for new team member on boarding that provides clear direction for a new team member in their first 90 days.",
+            "2": "Has established a standard development environment, streamlining the setup process for a new engineer on the team.",
+            "3": "Has established a streamlined developer on boarding process, making it possible to commit production code on an engineer's first day.",
+            "4": "Does all of the above across their release train."
+          },
+          "rating": "",
+          "comment": ""
+        },
+        "PES4": {
+          "category": "Behavior",
+          "competency": "Is able to quantify the value of each existing and forecasted role on their team.",
+          "examples": {
+            "0": "Working on gaining the skills/experience needed for this competency.",
+            "1": "Understands how an individual role impacts capacity on their team.",
+            "2": "Understands how the output of their team directly impacts business value.",
+            "3": "Is able to quantify the value of each role on their team using business focused metrics (closed loan volume, revenue, etc.).",
+            "4": "Is able to accurately determine how changes in team member capacity impact our business."
+          },
+          "rating": "",
+          "comment": ""
+        }
+      },
+      "Product Delivery Execution": {
+        "competencies": {
+          "PEPDE1": {
+            "category": "Behavior",
+            "competency": "Consistently improves team's ability to deliver product.",
+            "examples": {
+              "0": "Working on gaining the skills/experience needed for this competency.",
+              "1": "Owns team's delivery process, and leverages sprint level metrics to removes impediments and plan capacity.",
+              "2": "Understands throughput and predictability metrics, and leverages them to set delivery goals for team, and enables team to achieve them.",
+              "3": "Consistently and significantly improves teams software delivery speed, quality, throughput, and predictability.",
+              "4": "Has created a scalable and replicatable team delivery process, and helps build other successful scrum masters within the organization."
+            },
+            "rating": "",
+            "comment": ""
+          }
+        }
+      }
+    }
+  }
+}

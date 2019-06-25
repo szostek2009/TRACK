@@ -562,22 +562,22 @@
                     "rating": "",
                     "comment": ""
                 }
-            },
-            "Product Delivery Execution": {
-                "competencies": {
-                    "PEPDE1": {
-                        "category": "Behavior",
-                        "competency": "Consistently improves team's ability to deliver product.",
-                        "examples": {
-                            "0": "Working on gaining the skills/experience needed for this competency.",
-                            "1": "Owns team's delivery process, and leverages sprint level metrics to removes impediments and plan capacity.",
-                            "2": "Understands throughput and predictability metrics, and leverages them to set delivery goals for team, and enables team to achieve them.",
-                            "3": "Consistently and significantly improves teams software delivery speed, quality, throughput, and predictability.",
-                            "4": "Has created a scalable and replicatable team delivery process, and helps build other successful scrum masters within the organization."
-                        },
-                        "rating": "",
-                        "comment": ""
-                    }
+            }
+        },
+        "Product Delivery Execution": {
+            "competencies": {
+                "PEPDE1": {
+                    "category": "Behavior",
+                    "competency": "Consistently improves team's ability to deliver product.",
+                    "examples": {
+                        "0": "Working on gaining the skills/experience needed for this competency.",
+                        "1": "Owns team's delivery process, and leverages sprint level metrics to removes impediments and plan capacity.",
+                        "2": "Understands throughput and predictability metrics, and leverages them to set delivery goals for team, and enables team to achieve them.",
+                        "3": "Consistently and significantly improves teams software delivery speed, quality, throughput, and predictability.",
+                        "4": "Has created a scalable and replicatable team delivery process, and helps build other successful scrum masters within the organization."
+                    },
+                    "rating": "",
+                    "comment": ""
                 }
             }
         }

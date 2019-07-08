@@ -13,10 +13,118 @@
             "ConfluenceURL": "https://confluence/display/TRAC/Agile+Coach"
         },
         {
+            "Name": "Enterprise Architect (V1)",
+            "URL": "/surveys/enterprise-architect-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Enterprise+Architect"
+        },
+        {
+            "Name": "Infosec Analyst (V1)",
+            "URL": "/surveys/infosec-analyst-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Information+Security+Analyst+%28ISECA%29"
+        },
+        {
+            "Name": "Infosec Engineer (V1)",
+            "URL": "/surveys/infosec-engineer-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Information+Security+Engineer+%28ISECE%29"
+        },
+        {
+            "Name": "IT Service Management Analyst (V1)",
+            "URL": "/surveys/itsm-analyst-survey.json",
+            "ConfluenceURL": ""
+        },
+        {
+            "Name": "Leadership",
+            "URL": "/surveys/leader-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Leadership"
+        },
+        {
+            "Name": "Product Engineering Team Leader",
+            "URL": "/surveys/pe-leader.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Leadership"
+        },
+        {
+            "Name": "Product Owner (V1)",
+            "URL": "/surveys/product-owner-survey.json",
+            "ConfluenceURL": ""
+        },
+        {
+            "Name": "Release Train Engineer (V1)",
+            "URL": "/surveys/agile-release-manager-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Release+Train+Engineer"
+        }
+    ],
+    "Development": [
+        {
+            "Name": "Software Engineer",
+            "URL": "/surveys/se-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Software+Development+and+Architecture+Skills+V2"
+        },
+        {
+            "Name": "Systems Engineer",
+            "URL": "/surveys/systems-engineer-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Systems+Engineer+and+Architecture+Skills"
+        },
+        {
+            "Name": "Software Quality Engineering and Architecture",
+            "URL": "/surveys/set-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Software+Quality+Engineering+and+Architecture+Skills"
+        },
+        {
+            "Name": "Web UI Development and Architecture",
+            "URL": "/surveys/webui-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Web+UI+Development+and+Architecture+Skills"
+        }
+    ],
+    "Learning and Communication": [
+        {
+            "Name": "Technical Editor",
+            "URL": "/surveys/technical-editor-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Technical+Editor"
+        },
+        {
+            "Name": "Technical Writer",
+            "URL": "/surveys/technical-writer-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Technical+Writer"
+        },
+        {
+            "Name": "Knowledge Management Specialist",
+            "URL": "/surveys/knowledge-management-specialist-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Knowledge+Management+Specialist"
+        },
+        {
+            "Name": "Tech U Learning Coordinator",
+            "URL": "/surveys/techu-learning-coordinator-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Learning+Coordinator"
+        },
+        {
+            "Name": "Tech U Learning Consultant",
+            "URL": "/surveys/techu-learning-consultant-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Learning+Consultant"
+        },
+        {
+            "Name": "Instructional Designer",
+            "URL": "/surveys/techu-instructional-designer-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Instructional+Designer-+IT"
+        }
+    ],
+    "Support": [
+        {
             "Name": "Application Engineer",
             "URL": "/surveys/application-engineer-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Application+Engineer"
         },
+        {
+            "Name": "Desktop Support",
+            "URL": "/surveys/desktop-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Desktop+Support"
+        },
+        {
+            "Name": "Tech Support",
+            "URL": "/surveys/guy-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Tech+Support"
+        }
+    ],
+    "BI / Data Analytics": [
         {
             "Name": "BI Business Analyst",
             "URL": "/surveys/bi-business-analyst-survey.json",
@@ -68,111 +176,17 @@
             "ConfluenceURL": "https://confluence/display/TRAC/Database+Engineer+%28DBE%29"
         },
         {
-            "Name": "Desktop Support",
-            "URL": "/surveys/desktop-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Desktop+Support"
-        },
-        {
-            "Name": "Enterprise Architect (V1)",
-            "URL": "/surveys/enterprise-architect-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Enterprise+Architect"
-        },
-        {
-            "Name": "Infosec Analyst (V1)",
-            "URL": "/surveys/infosec-analyst-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Information+Security+Analyst+%28ISECA%29"
-        },
-        {
-            "Name": "Infosec Engineer (V1)",
-            "URL": "/surveys/infosec-engineer-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Information+Security+Engineer+%28ISECE%29"
-        },
-        {
-            "Name": "Instructional Designer",
-            "URL": "/surveys/techu-instructional-designer-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Instructional+Designer-+IT"
-        },
-        {
-            "Name": "IT Service Management Analyst (V1)",
-            "URL": "/surveys/itsm-analyst-survey.json",
+            "Name": "Data Engineer",
+            "URL": "/surveys/bi-data-engineer-survey.json",
             "ConfluenceURL": ""
-        },
-        {
-            "Name": "Knowledge Management Specialist",
-            "URL": "/surveys/knowledge-management-specialist-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Knowledge+Management+Specialist"
-        },
-        {
-            "Name": "Leadership",
-            "URL": "/surveys/leader-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Leadership"
-        },
-        {
-            "Name": "Product Engineering Team Leader",
-            "URL": "/surveys/pe-leader.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Leadership"
         },
         {
             "Name": "Modeler",
             "URL": "/surveys/bi-modeler-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Modeler"
-        },
-        {
-            "Name": "Product Owner (V1)",
-            "URL": "/surveys/product-owner-survey.json",
-            "ConfluenceURL": ""
-        },
-        {
-            "Name": "Release Train Engineer (V1)",
-            "URL": "/surveys/agile-release-manager-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Release+Train+Engineer"
-        },
-        {
-            "Name": "Software Engineer",
-            "URL": "/surveys/se-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Software+Development+and+Architecture+Skills+V2"
-        },
-        {
-            "Name": "Systems Engineer",
-            "URL": "/surveys/systems-engineer-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Systems+Engineer+and+Architecture+Skills"
-        },
-        {
-            "Name": "Software Quality Engineering and Architecture",
-            "URL": "/surveys/set-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Software+Quality+Engineering+and+Architecture+Skills"
-        },
-        {
-            "Name": "Tech Support",
-            "URL": "/surveys/guy-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Tech+Support"
-        },
-        {
-            "Name": "Technical Editor",
-            "URL": "/surveys/technical-editor-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Technical+Editor"
-        },
-        {
-            "Name": "Technical Writer",
-            "URL": "/surveys/technical-writer-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Technical+Writer"
-        },
-        {
-            "Name": "Tech U Learning Coordinator",
-            "URL": "/surveys/techu-learning-coordinator-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Learning+Coordinator"
-        },
-        {
-            "Name": "Tech U Learning Consultant",
-            "URL": "/surveys/techu-learning-consultant-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Learning+Consultant"
-        },
-        {
-            "Name": "Web UI Development and Architecture",
-            "URL": "/surveys/webui-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Web+UI+Development+and+Architecture+Skills"
         }
     ],
+
     "Archived": [
         {
             "Name": "Product Management (V1)",

@@ -1,1145 +1,1140 @@
+{
+    "type": "BI - Data Engineer",
+    "version": "1.0.0",
 
+    "id": "",
+    "name": "",
+    "updated": "",
 
- { 
-
-
-  
-     "type": "Data Engineer", 
-     "version": "1.0.0", 
-  
-     "id": "", 
-     "name": "", 
-     "updated": "", 
-  
-     "sections": { 
-         "Database Technologies": { 
-             "competencies": { 
-                 "T1": { 
-                     "category": "Skill", 
-                     "competency": "Has a basic understanding of database development, different database technologies, and a basic understanding of database concepts.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "T2": { 
-                     "category": "Skill", 
-                     "competency": "Has experience in at least one database technology used on the development team's domain, and can execute without much assistance.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "T3": { 
-                     "category": "Skill", 
-                     "competency": "Has deep experience in multiple database technologies used on or around the development team's domain, and can execute without much assistance.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "T4": { 
-                     "category": "Skill", 
-                     "competency": "Mentors other engineers on databases best practices, use cases, and implementations.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "T5": { 
-                     "category": "Skill", 
-                     "competency": "Writes cross-platform solutions to improve developer efficiency.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "T6": { 
-                     "category": "Skill", 
-                     "competency": "Proactively researches new database technologies to learn use cases.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "T7": { 
-                     "category": "Skill", 
-                     "competency": "Is able to implement & show case a new database technology on a development team to solve a problem.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "T8": { 
-                     "category": "Skill", 
-                     "competency": "Is able to design solutions using a specific database technology, for specific use cases, in the right way. (The right tool for the job)", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "T9": { 
-                     "category": "Skill", 
-                     "competency": "Is able to communicate the design of a database related solution to engineers and the business, and why it is the correct decision to make.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "T10": { 
-                     "category": "Skill", 
-                     "competency": "Understands cloud database technologies, and is able to offer recommendations, for business use cases.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 } 
-             } 
-         }, 
-         "Database Concepts": { 
-             "competencies": { 
-                 "C1": { 
-                     "category": "Skill", 
-                     "competency": "Is aware of the development team's various database and analytical technologies concepts being used, and is actively learning them.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "C2": { 
-                     "category": "Skill", 
-                     "competency": "Is able to speak to most of the development teams various database and analytical technologies being used and how they are used by the team.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "C3": { 
-                     "category": "Skill", 
-                     "competency": "Is able to implement tasks by following many of the standards, patterns, and guidelines put in place by the data engineering team.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "C4": { 
-                     "category": "Skill", 
-                     "competency": "Has experience writing code in an Object Oriented Programming (OOP) based application.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "C5": { 
-                     "category": "Skill", 
-                     "competency": "Has a deep understanding of (Relational Database Management System) RDBMS and has experience designing databases using RDBMS best practices.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "C6": { 
-                     "category": "Skill", 
-                     "competency": "Has understanding of ACID (Atomicity, Consistency, Isolation, Durability) concepts and can speak to the benefits.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "C7": { 
-                     "category": "Skill", 
-                     "competency": "Understands the concepts of normalization & de-normalization, and can recommend a solution for a given use case.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "C8": { 
-                     "category": "Skill", 
-                     "competency": "Understand Primary keys, Foreign Keys & various constraints within databases.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "C9": { 
-                     "category": "Skill", 
-                     "competency": "Is able to understand transactions, when to use them and given a use case is able to provide a recommendation for it.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "C10": { 
-                     "category": "Skill", 
-                     "competency": "Understands proper warehousing Indexing, can speak to Columnnar, Rowstore, and benefits of each.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "C11": { 
-                     "category": "Skill", 
-                     "competency": "Implements and tests database design and functionality, and tuning for performance.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "C12": { 
-                     "category": "Skill", 
-                     "competency": "Is able to recognize code which is not following RDBMS best practices, and can communicate what is needed to improve the implementation.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "C13": { 
-                     "category": "Skill", 
-                     "competency": "Has experience practicing Conceptual, Logical, and Physical Database Designs and understand their differences and their importance.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "C14": { 
-                     "category": "Skill", 
-                     "competency": "Is able to communicate the benefits of database standards and practices to engineers, and mentor on various database concepts.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "C15": { 
-                     "category": "Skill", 
-                     "competency": "Understands the important value of unit testing, and implements within the database environment.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
- 				"C16": { 
-                     "category": "Skill", 
-                     "competency": "Understands the differences between OLAP and OLTP and how the best practices differ.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
- 				"C17": { 
-                     "category": "Skill", 
-                     "competency": "Understands Partitioning best practices and why it's important.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
- 				"C18": { 
-                     "category": "Skill", 
-                     "competency": "Understands the different techniques to query large tables efficiently.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
- 				"C19": { 
-                     "category": "Skill", 
-                     "competency": "Understands how to performance tune analytical queries and ETL processes.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 },                 
-                 "C20": { 
-                     "category": "Skill", 
-                     "competency": "Understands the concept of Big Data, and can identify use cases where leveraging Big Data makes sense.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 } 
-             } 
-         }, 
-         "Database Tooling": { 
-             "competencies": { 
-                 "TL1": { 
-                     "category": "Skill", 
-                     "competency": "Is aware of the development team's various tools being used and is actively learning them.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "TL2": { 
-                     "category": "Skill", 
-                     "competency": "Is able to speak to most of the development team's various tools being used, and how they are used by the team.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "TL3": { 
-                     "category": "Skill", 
-                     "competency": "Is able to implement tasks by using many of the tools used by the development team.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "TL4": { 
-                     "category": "Skill", 
-                     "competency": "Has experience setting up and running traces or extended events for a given database.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "TL5": { 
-                     "category": "Skill", 
-                     "competency": "Has experience with performance advisor tools for databases (SQL Sentry, Red-Gate, SQL Diagnostic Manager, Ignite)", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "TL6": { 
-                     "category": "Skill", 
-                     "competency": "Has experience with automated deployment tools for databases (Electric Commander, Jenkins, Visual Studio, TFS, Red-Gate)", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "TL7": { 
-                     "category": "Skill", 
-                     "competency": "Actively tries new tools to improve personal and team development processes, and to gain exposure of new ways of developing databases.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "TL8": { 
-                     "category": "Skill", 
-                     "competency": "Actively looks for opportunities to introduce tooling to improve software monitoring, automation, and quality of the development teams applications.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "TL9": { 
-                     "category": "Skill", 
-                     "competency": "Is able to get buy-in from team members and business partners for introducing development tooling.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 } 
-             } 
-         }, 
-         "Database Performance & Tuning": { 
-             "competencies": { 
-                 "P1": { 
-                     "category": "Skill", 
-                     "competency": "Is aware of various tools used by development teams to monitor the performance of a database.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "P2": { 
-                     "category": "Skill", 
-                     "competency": "Is aware of acceptable performance standards used in the industry, to support the best user experience possible.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "P3": { 
-                     "category": "Skill", 
-                     "competency": "Is aware of acceptable performance standards used in the industry, to support the best user experience possible.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "P4": { 
-                     "category": "Skill", 
-                     "competency": "Is able to use different tools used by the team to understand performance of a database.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "P5": { 
-                     "category": "Skill", 
-                     "competency": "Is able to debug performance issues by using different tools and fix any issues within it.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "P6": { 
-                     "category": "Skill", 
-                     "competency": "Analyzes and understand what an execution plan is.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "P7": { 
-                     "category": "Skill", 
-                     "competency": "Ensures code written adheres to performance standards put in place by the team.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "P8": { 
-                     "category": "Skill", 
-                     "competency": "Is aware of the strengths and weaknesses of the tools used to monitor performance of a database.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "P9": { 
-                     "category": "Skill", 
-                     "competency": "Analyzes various logs to ensure that databases are performing optimally.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "P10": { 
-                     "category": "Skill", 
-                     "competency": "Understands different types of execution plan operators and is able to explain the differences.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "P11": { 
-                     "category": "Skill", 
-                     "competency": "Proactively looks for areas within the code and optimizes them to prevent performance issues from occurring.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "P12": { 
-                     "category": "Skill", 
-                     "competency": "Mentors team members on the use of various performance monitoring tools and processes used.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "P13": { 
-                     "category": "Skill", 
-                     "competency": "Actively researches new tools to improve efficiency of tooling implementation.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 } 
-             } 
-         }, 
-         "Database Standards": { 
-             "competencies": { 
-                 "S1": { 
-                     "category": "Skill", 
-                     "competency": "Has experience working with database standards into development team's domain databases.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "S2": { 
-                     "category": "Skill", 
-                     "competency": "Is able to understand various database standards available on development team's platform.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "S3": { 
-                     "category": "Skill", 
-                     "competency": "Is able to modify existing database standards to fit the needs of development team and business areas", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "S4": { 
-                     "category": "Skill", 
-                     "competency": "Contributes to databases standards, and their evolution", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "S5": { 
-                     "category": "Skill", 
-                     "competency": "Mentors other engineers on database standards, best practices, use cases and implementations.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "S6": { 
-                     "category": "Skill", 
-                     "competency": "Investigates ways in which back-end code can be tested, learning best use cases of them, and shares the learning with other engineers on the platform.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "S7": { 
-                     "category": "Skill", 
-                     "competency": "Is able to design solutions using a specific database standards for specific use cases in the right way. (The right tool for the job)", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "S8": { 
-                     "category": "Skill", 
-                     "competency": "Actively looks for new ways to design and evolve database standards.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "S9": { 
-                     "category": "Skill", 
-                     "competency": "Is able to get buy-in from leaders and development teams when to use a certain database standard in a development teams domain.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 } 
-             } 
-         }, 
-         "Version Control": { 
-             "competencies": { 
-                 "VC1": { 
-                     "category": "Skill", 
-                     "competency": "Is aware of the development teams source control methods being used, and is actively learning them.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "VC2": { 
-                     "category": "Skill", 
-                     "competency": "Is able to speak to the development team's source control methods being used, and how they are used by the team.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "VC3": { 
-                     "category": "Skill", 
-                     "competency": "Is able to implement tasks by using the source control methods being used by the development team.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "VC4": { 
-                     "category": "Skill", 
-                     "competency": "Has experience using Red-Gate source control.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "VC5": { 
-                     "category": "Skill", 
-                     "competency": "Has experience using Git for Source Control.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "VC6": { 
-                     "category": "Skill", 
-                     "competency": "Has experience with various source control tools.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "VC7": { 
-                     "category": "Skill", 
-                     "competency": "Understands the differences between various source control methods, and can speak to the benefits and weaknesses of them.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "VC8": { 
-                     "category": "Skill", 
-                     "competency": "Has experience using some of the more advanced functions of the development team's source control system, and can speak to their proper/improper use.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "VC9": { 
-                     "category": "Skill", 
-                     "competency": "Is able to mentor other team members how to use the development team's source control system.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "V10": { 
-                     "category": "Skill", 
-                     "competency": "Actively looks for opportunities to integrate with the development team's source control system.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "V11": { 
-                     "category": "Skill", 
-                     "competency": "Is able to identify better ways to use source control on a development team, and gets buy-in from the team", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "V12": { 
-                     "category": "Skill", 
-                     "competency": "Understands when it makes sense for a team to try a different source control method, designs a simple process for switching, and mentors team members through the switch.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 } 
-             } 
-         }, 
-         "Security": { 
-             "competencies": { 
-                 "SC1": { 
-                     "category": "Skill", 
-                     "competency": " Understands data security standard and follow it.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "SC2": { 
-                     "category": "Skill", 
-                     "competency": "Understands what sensitive data is and what strategy should be applied.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "SC3": { 
-                     "category": "Skill", 
-                     "competency": "Understands proper ways to transfer data securely.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "SC4": { 
-                     "category": "Skill", 
-                     "competency": "Has a deep experience implementing process to transfer and store information securely.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 }, 
-                 "SC5": { 
-                     "category": "Skill", 
-                     "competency": "Recognizes data as a company asset and works to ensure we are following security guidelines to protect these assets.", 
-                     "examples": { 
-                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.", 
-                         "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.", 
-                         "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.", 
-                         "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality." 
-                     }, 
-                     "rating": "", 
-                     "comment": "" 
-                 } 
-             } 
-         },
-		 "ETL/SSIS": {
-			"competencies": {
-				"A1": {
-					"category": "Skill",
-					"competency": "2016 SSIS Deployment",
-					"examples": {
-						"0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-						"1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-						"2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-						"3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-					},
-					"rating": "",
-					"comment": ""
-				},
-				"A2": {
-					"category": "Skill",
-					"competency": "Troubleshooting SSIS Packages",
-					"examples": {
-						"0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-						"1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-						"2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-						"3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-					},
-					"rating": "",
-					"comment": ""
+    "sections": {
+        "Database Technologies": {
+            "competencies": {
+                "T1": {
+                    "category": "Skill",
+                    "competency": "Has a basic understanding of database development, different database technologies, and a basic understanding of database concepts.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T2": {
+                    "category": "Skill",
+                    "competency": "Has experience in at least one database technology used on the development team's domain, and can execute without much assistance.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T3": {
+                    "category": "Skill",
+                    "competency": "Has deep experience in multiple database technologies used on or around the development team's domain, and can execute without much assistance.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T4": {
+                    "category": "Skill",
+                    "competency": "Mentors other engineers on databases best practices, use cases, and implementations.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T5": {
+                    "category": "Skill",
+                    "competency": "Writes cross-platform solutions to improve developer efficiency.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T6": {
+                    "category": "Skill",
+                    "competency": "Proactively researches new database technologies to learn use cases.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T7": {
+                    "category": "Skill",
+                    "competency": "Is able to implement & show case a new database technology on a development team to solve a problem.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T8": {
+                    "category": "Skill",
+                    "competency": "Is able to design solutions using a specific database technology, for specific use cases, in the right way. (The right tool for the job)",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T9": {
+                    "category": "Skill",
+                    "competency": "Is able to communicate the design of a database related solution to engineers and the business, and why it is the correct decision to make.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "T10": {
+                    "category": "Skill",
+                    "competency": "Understands cloud database technologies, and is able to offer recommendations, for business use cases.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Database Concepts": {
+            "competencies": {
+                "C1": {
+                    "category": "Skill",
+                    "competency": "Is aware of the development team's various database and analytical technologies concepts being used, and is actively learning them.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C2": {
+                    "category": "Skill",
+                    "competency": "Is able to speak to most of the development teams various database and analytical technologies being used and how they are used by the team.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C3": {
+                    "category": "Skill",
+                    "competency": "Is able to implement tasks by following many of the standards, patterns, and guidelines put in place by the data engineering team.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C4": {
+                    "category": "Skill",
+                    "competency": "Has experience writing code in an Object Oriented Programming (OOP) based application.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C5": {
+                    "category": "Skill",
+                    "competency": "Has a deep understanding of (Relational Database Management System) RDBMS and has experience designing databases using RDBMS best practices.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C6": {
+                    "category": "Skill",
+                    "competency": "Has understanding of ACID (Atomicity, Consistency, Isolation, Durability) concepts and can speak to the benefits.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C7": {
+                    "category": "Skill",
+                    "competency": "Understands the concepts of normalization & de-normalization, and can recommend a solution for a given use case.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C8": {
+                    "category": "Skill",
+                    "competency": "Understand Primary keys, Foreign Keys & various constraints within databases.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C9": {
+                    "category": "Skill",
+                    "competency": "Is able to understand transactions, when to use them and given a use case is able to provide a recommendation for it.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C10": {
+                    "category": "Skill",
+                    "competency": "Understands proper warehousing Indexing, can speak to Columnnar, Rowstore, and benefits of each.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C11": {
+                    "category": "Skill",
+                    "competency": "Implements and tests database design and functionality, and tuning for performance.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C12": {
+                    "category": "Skill",
+                    "competency": "Is able to recognize code which is not following RDBMS best practices, and can communicate what is needed to improve the implementation.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C13": {
+                    "category": "Skill",
+                    "competency": "Has experience practicing Conceptual, Logical, and Physical Database Designs and understand their differences and their importance.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C14": {
+                    "category": "Skill",
+                    "competency": "Is able to communicate the benefits of database standards and practices to engineers, and mentor on various database concepts.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C15": {
+                    "category": "Skill",
+                    "competency": "Understands the important value of unit testing, and implements within the database environment.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C16": {
+                    "category": "Skill",
+                    "competency": "Understands the differences between OLAP and OLTP and how the best practices differ.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C17": {
+                    "category": "Skill",
+                    "competency": "Understands Partitioning best practices and why it's important.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C18": {
+                    "category": "Skill",
+                    "competency": "Understands the different techniques to query large tables efficiently.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C19": {
+                    "category": "Skill",
+                    "competency": "Understands how to performance tune analytical queries and ETL processes.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C20": {
+                    "category": "Skill",
+                    "competency": "Understands the concept of Big Data, and can identify use cases where leveraging Big Data makes sense.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Database Tooling": {
+            "competencies": {
+                "TL1": {
+                    "category": "Skill",
+                    "competency": "Is aware of the development team's various tools being used and is actively learning them.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TL2": {
+                    "category": "Skill",
+                    "competency": "Is able to speak to most of the development team's various tools being used, and how they are used by the team.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TL3": {
+                    "category": "Skill",
+                    "competency": "Is able to implement tasks by using many of the tools used by the development team.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TL4": {
+                    "category": "Skill",
+                    "competency": "Has experience setting up and running traces or extended events for a given database.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TL5": {
+                    "category": "Skill",
+                    "competency": "Has experience with performance advisor tools for databases (SQL Sentry, Red-Gate, SQL Diagnostic Manager, Ignite)",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TL6": {
+                    "category": "Skill",
+                    "competency": "Has experience with automated deployment tools for databases (Electric Commander, Jenkins, Visual Studio, TFS, Red-Gate)",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TL7": {
+                    "category": "Skill",
+                    "competency": "Actively tries new tools to improve personal and team development processes, and to gain exposure of new ways of developing databases.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TL8": {
+                    "category": "Skill",
+                    "competency": "Actively looks for opportunities to introduce tooling to improve software monitoring, automation, and quality of the development teams applications.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "TL9": {
+                    "category": "Skill",
+                    "competency": "Is able to get buy-in from team members and business partners for introducing development tooling.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Database Performance & Tuning": {
+            "competencies": {
+                "P1": {
+                    "category": "Skill",
+                    "competency": "Is aware of various tools used by development teams to monitor the performance of a database.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P2": {
+                    "category": "Skill",
+                    "competency": "Is aware of acceptable performance standards used in the industry, to support the best user experience possible.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P3": {
+                    "category": "Skill",
+                    "competency": "Is aware of acceptable performance standards used in the industry, to support the best user experience possible.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P4": {
+                    "category": "Skill",
+                    "competency": "Is able to use different tools used by the team to understand performance of a database.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P5": {
+                    "category": "Skill",
+                    "competency": "Is able to debug performance issues by using different tools and fix any issues within it.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P6": {
+                    "category": "Skill",
+                    "competency": "Analyzes and understand what an execution plan is.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P7": {
+                    "category": "Skill",
+                    "competency": "Ensures code written adheres to performance standards put in place by the team.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P8": {
+                    "category": "Skill",
+                    "competency": "Is aware of the strengths and weaknesses of the tools used to monitor performance of a database.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P9": {
+                    "category": "Skill",
+                    "competency": "Analyzes various logs to ensure that databases are performing optimally.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P10": {
+                    "category": "Skill",
+                    "competency": "Understands different types of execution plan operators and is able to explain the differences.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P11": {
+                    "category": "Skill",
+                    "competency": "Proactively looks for areas within the code and optimizes them to prevent performance issues from occurring.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P12": {
+                    "category": "Skill",
+                    "competency": "Mentors team members on the use of various performance monitoring tools and processes used.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P13": {
+                    "category": "Skill",
+                    "competency": "Actively researches new tools to improve efficiency of tooling implementation.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Database Standards": {
+            "competencies": {
+                "S1": {
+                    "category": "Skill",
+                    "competency": "Has experience working with database standards into development team's domain databases.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "S2": {
+                    "category": "Skill",
+                    "competency": "Is able to understand various database standards available on development team's platform.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "S3": {
+                    "category": "Skill",
+                    "competency": "Is able to modify existing database standards to fit the needs of development team and business areas",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "S4": {
+                    "category": "Skill",
+                    "competency": "Contributes to databases standards, and their evolution",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "S5": {
+                    "category": "Skill",
+                    "competency": "Mentors other engineers on database standards, best practices, use cases and implementations.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "S6": {
+                    "category": "Skill",
+                    "competency": "Investigates ways in which back-end code can be tested, learning best use cases of them, and shares the learning with other engineers on the platform.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "S7": {
+                    "category": "Skill",
+                    "competency": "Is able to design solutions using a specific database standards for specific use cases in the right way. (The right tool for the job)",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "S8": {
+                    "category": "Skill",
+                    "competency": "Actively looks for new ways to design and evolve database standards.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "S9": {
+                    "category": "Skill",
+                    "competency": "Is able to get buy-in from leaders and development teams when to use a certain database standard in a development teams domain.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Version Control": {
+            "competencies": {
+                "VC1": {
+                    "category": "Skill",
+                    "competency": "Is aware of the development teams source control methods being used, and is actively learning them.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "VC2": {
+                    "category": "Skill",
+                    "competency": "Is able to speak to the development team's source control methods being used, and how they are used by the team.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "VC3": {
+                    "category": "Skill",
+                    "competency": "Is able to implement tasks by using the source control methods being used by the development team.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "VC4": {
+                    "category": "Skill",
+                    "competency": "Has experience using Red-Gate source control.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "VC5": {
+                    "category": "Skill",
+                    "competency": "Has experience using Git for Source Control.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "VC6": {
+                    "category": "Skill",
+                    "competency": "Has experience with various source control tools.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "VC7": {
+                    "category": "Skill",
+                    "competency": "Understands the differences between various source control methods, and can speak to the benefits and weaknesses of them.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "VC8": {
+                    "category": "Skill",
+                    "competency": "Has experience using some of the more advanced functions of the development team's source control system, and can speak to their proper/improper use.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "VC9": {
+                    "category": "Skill",
+                    "competency": "Is able to mentor other team members how to use the development team's source control system.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "V10": {
+                    "category": "Skill",
+                    "competency": "Actively looks for opportunities to integrate with the development team's source control system.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "V11": {
+                    "category": "Skill",
+                    "competency": "Is able to identify better ways to use source control on a development team, and gets buy-in from the team",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "V12": {
+                    "category": "Skill",
+                    "competency": "Understands when it makes sense for a team to try a different source control method, designs a simple process for switching, and mentors team members through the switch.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Security": {
+            "competencies": {
+                "SC1": {
+                    "category": "Skill",
+                    "competency": " Understands data security standard and follow it.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "SC2": {
+                    "category": "Skill",
+                    "competency": "Understands what sensitive data is and what strategy should be applied.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "SC3": {
+                    "category": "Skill",
+                    "competency": "Understands proper ways to transfer data securely.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "SC4": {
+                    "category": "Skill",
+                    "competency": "Has a deep experience implementing process to transfer and store information securely.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "SC5": {
+                    "category": "Skill",
+                    "competency": "Recognizes data as a company asset and works to ensure we are following security guidelines to protect these assets.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "ETL/SSIS": {
+            "competencies": {
+                "A1": {
+                    "category": "Skill",
+                    "competency": "2016 SSIS Deployment",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "A2": {
+                    "category": "Skill",
+                    "competency": "Troubleshooting SSIS Packages",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
                 },
                 "A3": {
-					"category": "Skill",
-					"competency": "SSIS Package Tasks",
-					"examples": {
-						"0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-						"1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-						"2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-						"3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-					},
-					"rating": "",
-					"comment": ""
-				},
-				"A4": {
-					"category": "Skill",
-					"competency": "ETL Run Manager",
-					"examples": {
-						"0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-						"1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-						"2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-						"3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-					},
-					"rating": "",
-					"comment": ""
+                    "category": "Skill",
+                    "competency": "SSIS Package Tasks",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "A4": {
+                    "category": "Skill",
+                    "competency": "ETL Run Manager",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
                 },
                 "A5": {
-					"category": "Skill",
-					"competency": "Package Parameters",
-					"examples": {
-						"0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-						"1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-						"2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-						"3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-					},
-					"rating": "",
-					"comment": ""
-				},
-				"A6": {
-					"category": "Skill",
-					"competency": "Consuming Multiple Files",
-					"examples": {
-						"0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-						"1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-						"2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-						"3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-					},
-					"rating": "",
-					"comment": ""
+                    "category": "Skill",
+                    "competency": "Package Parameters",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "A6": {
+                    "category": "Skill",
+                    "competency": "Consuming Multiple Files",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
                 },
                 "A7": {
-					"category": "Skill",
-					"competency": "Automated Data Exports",
-					"examples": {
-						"0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-						"1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-						"2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-						"3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-					},
-					"rating": "",
-					"comment": ""
-				},
-				"A8": {
-					"category": "Skill",
-					"competency": "Creating/Modifying Jobs",
-					"examples": {
-						"0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-						"1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-						"2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-						"3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-					},
-					"rating": "",
-					"comment": ""
-				}
-			}
+                    "category": "Skill",
+                    "competency": "Automated Data Exports",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "A8": {
+                    "category": "Skill",
+                    "competency": "Creating/Modifying Jobs",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
         },
         "OLAP/AAS/Power BI": {
-			"competencies": {
-				"A1": {
-					"category": "Knowledge",
-					"competency": "Power BI Architecure - Understands the different components that make up the platform and how they fit together",
-					"examples": {
-						"0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-						"1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-						"2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-						"3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-					},
-					"rating": "",
-					"comment": ""
+            "competencies": {
+                "A1": {
+                    "category": "Knowledge",
+                    "competency": "Power BI Architecure - Understands the different components that make up the platform and how they fit together",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
                 },
-				"A2": {
-					"category": "Skill",
-					"competency": "DAX - Can effectively author DAX expressions to create measures, calculated columns / tables, or queries to answer business questions ",
-					"examples": {
-						"0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-						"1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-						"2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-						"3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-					},
-					"rating": "",
-					"comment": ""
+                "A2": {
+                    "category": "Skill",
+                    "competency": "DAX - Can effectively author DAX expressions to create measures, calculated columns / tables, or queries to answer business questions ",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
                 },
-        "A3": {
-          "category": "Skill",
-          "competency": "Power Query / M - Understands how modern datasources work and how to effectively leverage them when building tabular models",
-          "examples": {
-            "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-            "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-            "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-            "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-          },
-          "rating": "",
-          "comment": ""
-        },
-				"A4": {
-					"category": "Knowledge",
-					"competency": "Tabular Data Modeling - Understands best practices around designing OLAP models and a thorough comprehension of Kimball methodology along with the strenghts and weaknesses of the Tabular Engine.",
-					"examples": {
-						"0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-						"1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-						"2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-						"3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-					},
-					"rating": "",
-					"comment": ""
+                "A3": {
+                    "category": "Skill",
+                    "competency": "Power Query / M - Understands how modern datasources work and how to effectively leverage them when building tabular models",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
                 },
-				"A5": {
-					"category": "Skill",
-					"competency": "Tabular Performance Tuning - Can successfully troubleshoot performance issues in a data model, indentify root cause (source system, gateway, processing, dax) provide fix",
-					"examples": {
-						"0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-						"1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-						"2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-						"3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
-					},
-					"rating": "",
-					"comment": ""
+                "A4": {
+                    "category": "Knowledge",
+                    "competency": "Tabular Data Modeling - Understands best practices around designing OLAP models and a thorough comprehension of Kimball methodology along with the strenghts and weaknesses of the Tabular Engine.",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "A5": {
+                    "category": "Skill",
+                    "competency": "Tabular Performance Tuning - Can successfully troubleshoot performance issues in a data model, indentify root cause (source system, gateway, processing, dax) provide fix",
+                    "examples": {
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
+                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
+                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                    },
+                    "rating": "",
+                    "comment": ""
                 }
-			}
-		},
+            }
+        },
         "Reporting": {
             "competencies": {
                 "R1": {

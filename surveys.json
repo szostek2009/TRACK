@@ -178,7 +178,7 @@
         {
             "Name": "Data Engineer",
             "URL": "/surveys/bi-data-engineer-survey.json",
-            "ConfluenceURL": ""
+            "ConfluenceURL": "https://confluence/display/BI/Data+Engineer+TRACer"
         },
         {
             "Name": "Modeler",

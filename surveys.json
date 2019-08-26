@@ -13,6 +13,11 @@
             "ConfluenceURL": "https://confluence/display/TRAC/Agile+Coach"
         },
         {
+            "Name": "Business Analyst",
+            "URL": "/surveys/ba-survey.json",
+            "ConfluenceURL": "https://confluence/display/TRAC/Business+Analyst"
+        },
+        {
             "Name": "Enterprise Architect (V1)",
             "URL": "/surveys/enterprise-architect-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Enterprise+Architect"
@@ -144,11 +149,6 @@
             "Name": "Big Data Engineer",
             "URL": "/surveys/bi-big-data-engineer-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Big+Data+Engineer"
-        },
-        {
-            "Name": "Business Analyst",
-            "URL": "/surveys/ba-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Business+Analyst"
         },
         {
             "Name": "Business Support Specialist (V1)",

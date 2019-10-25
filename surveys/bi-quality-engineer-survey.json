@@ -1,0 +1,263 @@
+{
+    "type": "BI - Quality Engineer",
+    "version": "1.0.0",
+
+    "id": "",
+    "name": "",
+    "updated": "",
+
+    "sections": {
+        "Core": {
+            "competencies": {
+                "C1": {
+                    "category": "Knowledge",
+                    "competency": "Understands the business process and technology used by business partners, including the impact to the client experience",
+                    "examples": {
+                        "0": "Does not have a clear understanding of the immediate business processes, technology, or client impact.",
+                        "1": "Has a basic understanding of the business and technology processes to handle requests, but may need assistance.",
+                        "2": "Has a detailed knowledge of the business and technology processes, and the general impact to its clients.",
+                        "3": "Has a detailed knowledge of the business and technology processes and ties threads with dependencies to ensure a positive impact to the client."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C2": {
+                    "category": "Knowledge",
+                    "competency": "Application Knowledge: Understands the functionality within the application",
+                    "examples": {
+                        "0": "Understands an application – what it does and why.",
+                        "1": "Understands how the application flows specifically for various user and data scenarios.",
+                        "2": "Has domain specific knowledge of exceptions/special cases for an application, and why – and then what happens next.",
+                        "3": "Drives / advocates for functionality improvements within the application."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                 "C3": {
+                    "category": "Skill",
+                    "competency": "Team Quality Strategy (end-to-end, security, performance, regression, etc.) and Types of Testing used throughout SDLC (Testing Types: Unit, integration, web service, user interface, database, security, performance, etc.)",
+                    "examples": {
+                        "0": "Familiar with team quality standards, tools, languages, and processes.",
+                        "1": "Understands the Quality Strategy and knows when to implement.",
+                        "2": "Designs and implements for a team, project, or product.",
+                        "3": "Develop program-level quality strategy and test plan (e.g. Apollo or Darwin overall quality strategy and testing plan)"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C4": {
+                    "category": "Knowledge",
+                    "competency": "Work Management Systems (Agile, TFS/JIRA, etc.)",
+                    "examples": {
+                        "0": "Knows how to create a work item + knows various work item life-cycle flows (Create > Done, for Features, Stories, Issues, Bugs, Test Cases, etc.)",
+                        "1": "Knows how to query on and organize work items.",
+                        "2": "Uses the system to organize and track various testing activities and display test results to the team/stakeholders.",
+                        "3": "Can suggest changes or modify work item life-cycles for process efficiencies, can perform advanced functions (such as tying test related work items to existing automation, integrating the work management system to other tooling for added visibility/tracking, etc.)"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C5": {
+                    "category": "Skill",
+                    "competency": "Quality Standards (security, performance, testing, coding style), Addresses NFRs and actively works to ensure compliance with company standards.",
+                    "examples": {
+                        "0": "Is unaware of team or company standards or often ignores them.",
+                        "1": "Is aware of company and community standards for development languages and processes.",
+                        "2": "Follows company standards and understands the importance of adhering to them.",
+                        "3": "Sets an example for others in following standards and doing the right thing."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C6": {
+                    "category": "Skill",
+                    "competency": "Quality Concepts: Testing Pyramid, DRY, TDD, BDD, Continuous Integration/Deployment, Page Models, Functional Programming, Peer Design/Programming, SOLID, Design Patterns/Anti-Patterns, Package Design/Coupling, etc.",
+                    "examples": {
+                        "0": "Understands some of it.",
+                        "1": "Understands the importance and able to implements some of it.",
+                        "2": "Actively practices and Implements at a high level most of it.",
+                        "3": "Has personally implemented many of the quality concepts for their application stack, and can speak to / train others on, both the why and how of each implementation."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C7": {
+                    "category": "Skill",
+                    "competency": "Fundamentals of coding (class, functions, methods, loops, if/else/switch, exceptions, OO/Functional, etc.) and Language Types (VBScript, Javascript, PHP, Python, Java, Groovy, C#, F#, GoLang, etc.)",
+                    "examples": {
+                        "0": "Knows basic coding concepts.",
+                        "1": "Can write code with help from someone.",
+                        "2": "Can independently write code, implementing concepts.",
+                        "3": "Can write advanced code, using advanced concepts, and can mentor other engineers and teach these concepts. A proponent of quality coding practices, code coverage, and evangelizes high quality standards on their projects."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C8": {
+                    "category": "Skill",
+                    "competency": "Applying Testing Concepts: Takes functional requirements/acceptance criteria and converting them into automated tests. Can integrate automation scripts with advanced quality concepts such as: CI/CD pipelines, Scheduled Tests, quality gates, disaster recovery planning, high availability testing, performance considerations, scalability testing, etc.",
+                    "examples": {
+                        "0": "Understands the fundamentals but does tests mostly manually.",
+                        "1": "Able to implement automated tests with some help.",
+                        "2": "Creates/implements an automation test strategy.",
+                        "3": "Advocates and mentors other team members on best practices and provides guidance on automation testing concepts."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C9": {
+                    "category": "Skill",
+                    "competency": "Test Automation Frameworks / Tooling",
+                    "examples": {
+                        "0": "Understands the value of frameworks/libraries.",
+                        "1": "Has used frameworks and knows how to be more efficient.",
+                        "2": "Digs deeply into framework or code and knows the frameworks and libraries used by the team's applications in great detail.",
+                        "3": "Has a lot of experience with frameworks and comparing the features they provide to judge which frameworks or libraries should be used by the team's applications."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C10": {
+                    "category": "Skill",
+                    "competency": "Integration Testing Web Services (APIs): Understands Communication protocols (e.g. REST, SOAP, RPC, Queues), basics of SOA and how services are used to communicate. (200s, 400s, 500s) using best practices and industry-standards (service virtualization/mocking).",
+                    "examples": {
+                        "0": "Understands the communication protocols.",
+                        "1": "Has familiarity and experience testing web services, with common protocols used for inter-system communication in the organization.",
+                        "2": "Can test a service used by other services or systems.",
+                        "3": "Has deep knowledge and experience in testing/ensuring the quality of a Service Oriented Architected application."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C11": {
+                    "category": "Skill",
+                    "competency": "Application Knowledge: Understands the functionality within the application",
+                    "examples": {
+                        "0": "Understands the basics of securing information but may not understand how they work or can be tested.",
+                        "1": "Is aware of some common attacks and can co-ordinate to perform basic security tests and threat assessments.",
+                        "2": "Has an in-depth understanding of most types of attack vectors.",
+                        "3": "Ability to work with the InfoSec team to ensure that all application security concerns are addressed. (ex: STRIDE modeling)"
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "C12": {
+                    "category": "Skill",
+                    "competency": "Performance: Understands different metrics of application health and performance such as response time, throughput, error rates, logging and how to respond appropriately at various thresholds. Utilizes advanced tools (Ex: Grafana) to track load and performance.",
+                    "examples": {
+                        "0": "Has limited familiarity with application health.",
+                        "1": "Understands most of it and knows the need for it.",
+                        "2": "Understands and defines the metrics. Co-ordinates with Team Impact to remediate any performance related issues.",
+                        "3": "Drives UI performance optimization/improvements from existing benchmarks and Knows what could be optimized within the team's applications and when optimization is less necessary due to diminishing returns."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "DevOps / Deployments": {
+            "competencies": {
+                "D1": {
+                    "category": "Knowledge",
+                    "competency": "Continuous Integration: Understands Continuous Integration concepts. (Checking-in changes early and often, run tests, and tighter feedback loops). Has knowledge of how various tools are used to support CI, and continuously run tests. Has knowledge of how various delivery processes/concepts pertaining to Continuous Integration are implemented/set-up.",
+                    "examples": {
+                        "0": "Posses knowledge on continuous integration concepts.",
+                        "1": "Able to run/test/manage a continuously integrated application.",
+                        "2": "Ability to create/debug Continuous Integration tooling for an application.",
+                        "3": "Drives for/implements a Continuous Integration strategy for their team - and can coach others on best practices."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "D2": {
+                    "category": "Knowledge",
+                    "competency": "Knowledge of Continuous Deployment / Continuous Delivery: Assists the team to prepare for deployments, ensuring tasks are complete, organized, and following team’s deployment standards. Plans, manages, and coordinates an application deployment.",
+                    "examples": {
+                        "0": "Has knowledge of deployment processes.",
+                        "1": "Able to help implement Continuous Deployment practices within the application team.",
+                        "2": "Understands the different tools in the market for continuous deployments, and is able to discuss major concerns/advantages.",
+                        "3": "Deep knowledge in how to perform automated testing as part of the Build-Test-Deploy Pipelines, Continuous Deployment, etc."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "D3": {
+                    "category": "Knowledge",
+                    "competency": "Code Metrics: Code Coverage increases, Tech Debt reduction, Code Complexity / Class Coupling reduction, etc.), Helps push the bar higher on code coverage, Able to implement tools (Sonarqube) and tracks code metrics actively.",
+                    "examples": {
+                        "0": "Has a basic understanding of quality metrics.",
+                        "1": "Deep knowledge in various concepts for Code Metrics, and why/how to measure and track metrics.",
+                        "2": "Actively drives for code quality metric improvements.",
+                        "3": "Takes action to actively improve/implement code quality metrics."
+                    },
+                    "rating": "",
+                    "comment": ""
+                }
+            }
+        },
+        "Personal Growth": {
+            "competencies": {
+                "P1": {
+                    "category": "Knowledge",
+                    "competency": "Growing Others: Learning / Teaching / Mentoring + Coaching: Provide the guidance, support, and feedback for our technology team members to assess, grow, and progress in their careers.",
+                    "examples": {
+                        "0": "Be mentored by others, consistently.",
+                        "1": "Mentor peers occasionally.",
+                        "2": "Consistently mentor team members.",
+                        "3": "Helps to drive mentoring at a higher level, by helping drive / defining content for such programs as: TRAC, CGL, MAP, The Key Project, The Journey, etc."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P2": {
+                    "category": "Knowledge",
+                    "competency": "Community Presence: Quality Community (Attending / Presenting / Driver) Is actively involved with quality / development communities (e.g. giving talks, helping others).",
+                    "examples": {
+                        "0": "Does not actively participate in IT Communities or contribute knowledge back to other developers, on a consistent basis.",
+                        "1": "Participates regularly in IT Communities, and actively involved in developing standards and best practices across teams and applications.",
+                        "2": "Actively looks for ways to share knowledge and improve developer skills. Mentors other engineers in both an unofficial and official capacity.",
+                        "3": "Works to improve developer relations and recruiting at QL. Mentors other engineers and frequently gives talks both within QL and outside of QL at conferences or meet-ups. Is a domain expert and makes great effort to be available to assist other developers and teams."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P3": {
+                    "category": "Knowledge",
+                    "competency": "Collaboration Skills: Business/Team Collaboration: Presentation, Communication, Knowledge Sharing, Explaining / Helping drive the direction of the business, ensuring all aspects of quality for their systems.",
+                    "examples": {
+                        "0": "Able to speak to the team, defining quality requirements and processes for their applications. Consistent clear and gump communication, fostering positive working relationships within the team.",
+                        "1": "Ability to explain to, understand, and work with the business, from a quality perspective.",
+                        "2": "Capable of analyzing business requests and propose flexible solutions which work for the team, the user, and the business - setting the quality direction for an application.",
+                        "3": "Consistent, all of the above."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P4": {
+                    "category": "Skill",
+                    "competency": "Commitment to Personal Growth: Learns new languages or systems and knows when it is appropriate to introduce them.",
+                    "examples": {
+                        "0": "Has shown limited interest in learning new technology beyond that used by the team.",
+                        "1": "Has learned basics of a new technology or language and written code or implemented it during a bullet time project.",
+                        "2": "Demonstrates curiosity and interest in learning new technology and applying it to QL to make themselves and others more efficient or produce higher quality software. Works with architects to investigate new technology or products when introduced into the company or the team's applications.",
+                        "3": "Enterprise: Actively investigates and reviews new technology such as programming languages or services and tools such as database technologies. Can justify their use and when to make use of them within QL in an enterprise setting. Understands the ramifications of introducing a new technology within QL in a mission critical system. Has discovered, researched, and implemented a new technology within QL while satisfying NFRs and company standards for quality and security."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+                "P5": {
+                    "category": "Skill",
+                    "competency": "Staying Current on Quality Technologies",
+                    "examples": {
+                        "0": "Has shown limited interest in learning new technology beyond that used by the team.",
+                        "1": "Learns about new technology in the industry by attending bullet time talks, attending conferences, or reading online materials, blogs, and articles.",
+                        "2": "Shows active interest and curiosity in new initiatives and services or systems within QL. Stays up to date on new libraries or technology in their domain. Knows about upcoming changes or versions of libraries or frameworks used by the team and shares that knowledge with others.",
+                        "3": "Enterprise: Has their finger on the pulse of technology and the industry. Actively stays current on all technologies in their domain including front-end, backend, database, and any other systems used by their team - even components they do not directly contribute too. Usually one of the first in the company to know about an upcoming technology and how it may be useful."
+                    },
+                    "rating": "",
+                    "comment": ""
+                },
+            }
+        }
+    }
+}

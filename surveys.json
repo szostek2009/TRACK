@@ -184,6 +184,10 @@
             "Name": "Modeler",
             "URL": "/surveys/bi-modeler-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Modeler"
+        },
+        {
+            "Name": "DI Quality Engineer",
+            "URL": "/surveys/bi-quality-engineer-survey.json"
         }
     ],
 

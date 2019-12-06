@@ -1,6 +1,6 @@
 {
     "type": "BI - Data Engineer",
-    "version": "1.0.0",
+    "version": "2.0.0",
 
     "id": "",
     "name": "",
@@ -14,9 +14,9 @@
                     "competency": "Experience with SSIS Package/ETL",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Can effectively debug or troubleshoot an SSIS Package/ETL",
-                        "2": "Can create a basic (single source & type) SSIS Package/ETL to move data",
-                        "3": "Can create advanced (multiple sources & types) SSIS Package/ETL with robust logging and error handling"
+                        "1": "Can create a basic (single source & type) SSIS Package/ETL to move data.",
+                        "2": "Can effectively debug or troubleshoot an SSIS Package/ETL they haven't seen before.",
+                        "3": "Can create advanced (multiple sources & types) SSIS Package/ETL with robust logging and error handling."
                     },
                     "rating": "",
                     "comment": ""
@@ -26,21 +26,21 @@
                     "competency": "Understands different types of ingestion patterns (file, SQL to SQL, Queues, APIs)",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Can create an ingestion process for filedrops or SQL to SQL patterns and understands how to use/set environment variables",
-                        "2": "Understands all different ingestion methods currently used (file, SQL to SQL, Queues, APIs) and can create an ingestion process for at least two. Understands the difference between deployment models (package vs project) and when to use them.",
-                        "3": "Creates docs, processes, templates, and examples for different ingestion use cases. Proactively seeks out new and better ingestion methods and tools."
+                        "1": "Can create an ingestion process for file drops or SQL to SQL scenarios and can explain the process effectively.",
+                        "2": "Uses all different ingestion methods currently used (File, SQL to SQL, Queues, APIs) and can create an ingestion process for at least two.",
+                        "3": "Creates documents, processes, templates, and examples for different ingestion use cases. Proactively seeks out new and better ingestion methods and tools and presents these to the Engineering Community."
                     },
                     "rating": "",
                     "comment": ""
                 },
                 "C3": {
                     "category": "Skill",
-                    "competency": "Experience querying large tables on SQL Server",
+                    "competency": "Experience querying tables on SQL Server",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Can write basic T-SQL syntax with joins and aggregates that is Sargable",
-                        "2": "Good grasp of functions, window functions, and CTEs.",
-                        "3": "Can write complex SQL and understands performance trade-offs."
+                        "1": "Writes basic T-SQL syntax with joins and aggregates. Shows the ability to use functions, SQL functions, and CTEs.",
+                        "2": "Writes performant SQL when querying large tables.",
+                        "3": "Writes complex SQL and understands performance trade-offs (For example: Subqueries vs. Temp tables, SELECT DISTINCT vs. GROUP BY, Indexing Temp tables, etc.)."
                     },
                     "rating": "",
                     "comment": ""
@@ -50,8 +50,8 @@
                     "competency": "SQL Server performance tuning ability",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Follows SSMS indexing suggestions. Looks for basic operations in query execution plan using SSMS or Sentry One Plan Explorer",
-                        "2": "Creates columnstore and row indexes (not what SSMS suggests). Analyzes execution plan and uses stats to find real issues and other advanced features (join operators).",
+                        "1": "Follows SSMS indexing suggestions. Looks for basic operations in query execution plan using SSMS or Sentry One Plan Explorer.",
+                        "2": "Creates columnstore and row indexes (not what SSMS suggests). Analyzes execution plan and uses stats to find real issues and other advanced features (join operators). Uses tools to measure performance against Non Functional Requirements.",
                         "3": "Advanced understanding of the execution plan vs the data set and the best way to structure a query to achieve the business case."
                     },
                     "rating": "",
@@ -62,21 +62,9 @@
                     "competency": "Knowledge of Dimensional Modeling Patterns",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Understands how a bus matrix is created and what its purpose is",
-                        "2": "Knows the difference between star and snowflake schema and why Kimball uses star",
-                        "3": "Understands how all models fit in to a global semantic framework and the business cases they solve for"
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "C6": {
-                    "category": "Skill",
-                    "competency": "Experience creating a relational database schema",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Understands partitioning/index types and standard metadata columns",
-                        "2": "Implements basic partitioning and proper constraints",
-                        "3": "Creates highly scalable schema(s) with a combination of indexing/partitioning"
+                        "1": "Understands the purpose of the Bus Matrix and how to create one.",
+                        "2": "Understands how all models fit in to a global semantic framework and the business cases they solve for.",
+                        "3": "Is able to lead and drive discussions related to the development of the Bus Matrix as teams are globalizing data."
                     },
                     "rating": "",
                     "comment": ""
@@ -86,9 +74,9 @@
                     "competency": "Experience creating dimensional models",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Understands and implements kimball methodology",
-                        "2": "Implements logical models using Kimball methodology and our current global standards",
-                        "3": "Leads modeling design sessions and create new design patterns for data models"
+                        "1": "Creates a Logical Model from a Bus Matrix.",
+                        "2": "Creates a Physical Model from a Logical Model with correct data types and standard indexing.",
+                        "3": "Applies all Modeling Global Standards to a Physical Model so it is Production Ready."
                     },
                     "rating": "",
                     "comment": ""
@@ -98,9 +86,9 @@
                     "competency": "Knowledge of OLTP",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Understands difference between OLAP and OLTP.",
-                        "2": "Understands the impact indexes have on ingesting into OLTP model.",
-                        "3": "Experience implementing an OLTP model."
+                        "1": "Understands and can confidently explain basic differences between OLAP Models and OLTP Models.",
+                        "2": "Understands and can confidently explain the pros and cons of using OLAP verses OLTP and why OLAP is beneficial for data warehousing.",
+                        "3": "Experience implementing or supporting an OLTP Model and can confidently explain. "
                     },
                     "rating": "",
                     "comment": ""
@@ -113,22 +101,10 @@
                     "category": "Behavior",
                     "competency": "Proactively looks for code enhancements",
                     "examples": {
-                        "0": "Does not look for code enhancements",
-                        "1": "Actively improves code used in solutions regardless of the owner",
-                        "2": "Uses Query Store or other similar tools to proactively find areas for enhancement and updates them",
+                        "0": "Sometimes looks for code enhancements and opportunities.",
+                        "1": "Actively improves code used in solutions regardless of the owner.",
+                        "2": "Uses Query Store or other similar tools to proactively find areas for enhancement and updates them.",
                         "3": "Sets up proactive monitoring and alerting to check for quality issues (performance, error handling, logging, etc..)"
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
-                "B2": {
-                    "category": "Behavior",
-                    "competency": "Proactively researches new tools and technology",
-                    "examples": {
-                        "0": "Does not research new technologies or seek to understand technology decisions being made",
-                        "1": "Seeks to understand technology decisions that have been made or are in progress",
-                        "2": "Utilizes new technology on the train and proactively seeks out training",
-                        "3": "Proactively migrates to utilizing new technologies and actively trains team members"
                     },
                     "rating": "",
                     "comment": ""
@@ -137,22 +113,22 @@
                     "category": "Behavior",
                     "competency": "Follows data engineering best practices",
                     "examples": {
-                        "0": "Does not follow best practices",
-                        "1": "Seeks to understand and follow data engineering best practices",
-                        "2": "Proactively teaches, researches, and recommends industry best practices",
-                        "3": "Documents, rolls out, gets buy in, and follows through with the implementation of best practices"
+                        "0": "Is not familiar with Engineering Best Practices.",
+                        "1": "Understands and follows Data Engineering Best Practices.",
+                        "2": "Documents best practice recommendations, presents these recommendations to Senior Engineers for approval and implements them into Engineering Best Practices documentation.",
+                        "3": "Proactively researches, recommends and promotes industry best practices in order to improve Data Engineering Best Practices."
                     },
                     "rating": "",
                     "comment": ""
                 },
                 "B4": {
                     "category": "Behavior",
-                    "competency": "Follow quality standards (unit testing, error handling, regression testing, post-deployment validation)",
+                    "competency": "Data Quality Best Practices",
                     "examples": {
-                        "0": "Does not follow quality standards",
-                        "1": "Always validates business use case is met post-deployment",
-                        "2": "Includes error handling and regression testing as a normal part of the development life cycle",
-                        "3": "Performs unit testing as a normal part of the development life cycle"    
+                        "0": "Includes functional testing as a normal part of the development life cycle.",
+                        "1": "Includes functional testing and regression testing as a normal part of the development life cycle.",
+                        "2": "Consistently creates test scripts and data validation steps for post-deployment validation. Always fully validates business use case is met post-deployment. Makes suggestions to improve best practices.",
+                        "3": " Contributes to Best Practices and implementation of them. Shares and educates the group about using and adhering to our best practices."    
                     },
                     "rating": "",
                     "comment": ""
@@ -161,10 +137,10 @@
                     "category": "Behavior",
                     "competency": "Utilizes source control systems in their development (GIT, Redgate, TFS, other)",
                     "examples": {
-                        "0": "Does not utilize source control in their development",
-                        "1": "Is able to perform basic functions in source control such as fork, commit, pull requests or equivalent",
-                        "2": "Is able to perform more advanced functions in source control such as cloning and rebase or equivalent",
-                        "3": "Is an expert and go to person in one or more source control systems"    
+                        "0": "Uses source control in their development to some degree.",
+                        "1": "Performs basic functions in source control such as branch, commit, pull requests. Commits all work in source control.",
+                        "2": "Performs more advanced functions in source control such as cloning and rebase. Can resolve merge conflicts.",
+                        "3": "Shown expertise and is the go to person in one or more source control systems. Drives accountability and mentors on the source control system."    
                     },
                     "rating": "",
                     "comment": ""
@@ -175,12 +151,12 @@
             "competencies": {
                 "A1": {
                     "category": "Knowledge",
-                    "competency": "Knowledge of Tabular and Multi-Dimensional Cubes for Analytical Processing",
+                    "competency": "Knowledge of Multi-Dimensional Cubes for Analytical Processing",
                     "examples": {
-                        "0": "Has no knowledge of Tabular or Multi-Dimensional cubes",
-                        "1": "Understands the basic concepts of Tabular or Multi-Dimensional cubes and why they are useful",
-                        "2": "Understands advanced concepts (perspectives, partitioning, direct query) of Tabular cubes and technologies related to their development such as Azure Analysis Services",
-                        "3": "Proactively seeks to understand data technology decisions, roadmap, and the implementation of the technology"
+                        "0": "Has little knowledge of Multi-Dimensional SSAS cubes.",
+                        "1": "Understands the basic concepts of Multi-Dimensional cubes and why they are useful, knows how to browse them.",
+                        "2": "Can design build and deploy an SSAS Cube. Can write MDX to retrieve result sets in SSMS and Stored Procedures.",
+                        "3": "Proactively seeks to identify SSAS Cube improvements to speed, design and documents solutions. Shares them with the Engineering Community."
                     },
                     "rating": "",
                     "comment": ""
@@ -189,9 +165,9 @@
                     "category": "Knowledge",
                     "competency": "Tabular Modeling",
                     "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience",
-                        "1": "Can create a Tabular model in SSDT",
-                        "2": "Leverages Power Query/M when building the model",
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Can create a Tabular model in SSDT.",
+                        "2": "Leverages Power Query/M when building the model.",
                         "3": "Creates partitioning for optimal reporting (such as a hot partition.)"
                     },
                     "rating": "",
@@ -201,10 +177,10 @@
                     "category": "Knowledge",
                     "competency": "Tabular Querying",
                     "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience",
-                        "1": "Can create simple measures, calculated columns, and tables using DAX",
-                        "2": "Understands filter context",
-                        "3": "Troubleshoots performance issues and identify root causes (system gateway, DAX, processing, rendering)"
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
+                        "1": "Can create simple measures, calculated columns, and tables using DAX.",
+                        "2": "Understands filter context.",
+                        "3": "Troubleshoots performance issues and identify root causes (system gateway, DAX, processing, rendering)."
                     },
                     "rating": "",
                     "comment": ""
@@ -213,10 +189,10 @@
                     "category": "Knowledge",
                     "competency": "Knowledge of front-end reporting solutions (Power BI, SSRS, Tableau, QSlice)",
                     "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Knows which reporting solutions are legacy vs new",
-                        "2": "Knows how the legacy reporting solutions are populated and the differences between how they receive data.",
-                        "3": "Knows how all reporting solutions are populated and the difference between how they receive data."
+                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience utilizing tools.",
+                        "1": "Knows how the legacy reporting solutions are populated and how they receive data. In addition, is able to troubleshoot data in legacy reporting solutions.",
+                        "2": "Knows how all reporting solutions are populated and how they receive data. Can troubleshoot and refresh data sets.",
+                        "3": "Mentors others on best practices and stays up to date with new versions and functionalities of tools."
                     },
                     "rating": "",
                     "comment": ""
@@ -226,9 +202,9 @@
                     "competency": "Experience building datasets in various reporting solutions",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Experience building datasets in one reporting systems",
-                        "2": "Experience building datasets in two legacy reporting systems and experience building a dataset in Power BI",
-                        "3": "Mentored other on building datasets in legacy reporting systems as well as Power BI"
+                        "1": "Experience building datasets in one reporting systems.",
+                        "2": "Experience building datasets in two legacy reporting systems and experience building a dataset in Power BI.",
+                        "3": "Mentors others on building datasets in legacy reporting systems as well as Power BI."
                     },
                     "rating": "",
                     "comment": ""
@@ -238,8 +214,8 @@
                     "competency": "Knowledge of Power BI as the reporting tool of choice",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Understands how to build a report and accompanying dataset",
-                        "2": "Understands the Power BI architecture (report, service, gateways, datasets) and how it integrates into the BIG framework",
+                        "1": "Understands how to build a report and accompanying dataset.",
+                        "2": "Understands the Power BI architecture (report, service, gateways, datasets) and how it integrates into the BIG framework.",
                         "3": "Documents how we utilize Power BI and shares it with other data engineers."
                     },
                     "rating": "",
@@ -249,26 +225,14 @@
         },
         "System Health": {
             "competencies": {
-                "S1": {
-                    "category": "Knowledge",
-                    "competency": "Experience administering SQL Server",
-                    "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Can read an error log to troubleshoot basic issues such as kill long-running processes",
-                        "2": "Understands and implements extended events",
-                        "3": "Understands infrequently used system dmvs sush as sys.dm_db_page_info"
-                    },
-                    "rating": "",
-                    "comment": ""
-                },
                 "S2": {
                     "category": "Knowledge",
                     "competency": "Knowledge of system monitoring",
                     "examples": {
                         "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Is able to use perfmon, grafana, etc... to monitor health",
-                        "2": "Takes action based on monitoring tools output",
-                        "3": "Is able to setup monitoring for servers using perf mon, grafana, influx, etc..."
+                        "1": "Uses perfmon, grafana, system views, sp_whoisactive to monitor health.",
+                        "2": " Takes action based on monitoring tools output. Can display and read SQL Server and Windows error logs.",
+                        "3": "Sets up monitoring for servers tools. Can check and understand real time CPU, Memory, Page Life Expectancy and Wait Types."
                     },
                     "rating": "",
                     "comment": ""
@@ -277,42 +241,43 @@
         },
         "Security": {
             "competencies": {
-                "SE1": {
+                
+				"SE1": {
                     "category": "Knowledge",
                     "competency": "Understands data security within SQL Server",
                     "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Understands what is PII/PFI and how we control it with the access model (logins/roles/auditing) ",
-                        "2": "Leverages existing sensitive schemas",
-                        "3": "Implements secure data models using security at the db, schema, table, and row level"
+                        "0": "Limited experience or knowledge. Has some understanding of how SQL Server security works.",
+                        "1": "Understands the use of schemas, roles, users and relation to Active Directory in SQL Server.",
+                        "2": "Is able to determine a user or group's access to objects in SQL Server.",
+                        "3": "Implements secure data models using security at the db, schema, table, and row level."
                     },
                     "rating": "",
                     "comment": ""
                 },
-                "SE2": {
+				"SE2": {
                     "category": "Knowledge",
                     "competency": "Understands data security when sharing and transmitting",
                     "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Understands privacy by design and legal implications",
-                        "2": "Leverages existing sharing and transmitting model",
-                        "3": "Creates a new process to improve security of data being shared and transmitting. Sets up auditing."
+                        "0": "Limited experience or knowledge. Understands FOC Security policies and requirements.",
+                        "1": "Understands AE privacy by design and legal implications.",
+                        "2": "Can explain AE privacy policies and practices and implement it in solutions.",
+                        "3": "Makes suggestions to improve security and auditing. Understands PII, PCI and PIFI."
                     },
                     "rating": "",
                     "comment": ""
                 }
-            }
+			}
         },
         "The Future is Now": {
             "competencies": {
                 "F1": {
                     "category": "Knowledge",
-                    "competency": "Data Lake Ingestion",
+                    "competency": "New Technology",
                     "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Understands the basic Data Lake architecture",
-                        "2": "Knows where to find the data I need in the Data Lake and can successfully query that data",
-                        "3": " Not only can I effectively query the Data Lake, but I can build SSIS packages to retrieve data from the Data Lake and land it in DW"
+                        "0": "Limited experience or knowledge. Learns passively through others and attending trainings.",
+                        "1": "Actively seeks out new technology and approaches to solutions. Applies them when possible in projects. ",
+                        "2": "Learns new technologies, tests them out in POC's and shares findings through demonstrations and knowledge sharing.",
+                        "3": "Implements and applies new technologies and approaches in Production."
                     },
                     "rating": "",
                     "comment": ""
@@ -321,10 +286,10 @@
                     "category": "Knowledge",
                     "competency": "Understands cloud database technologies",
                     "examples": {
-                        "0": "Limited experience or knowledge. May have some familiarity but no hands-on or professional experience.",
-                        "1": "Has some experience or knowledge. Can perform with limited oversight and guidance.",
-                        "2": "Has production-level experience and deep hands-on knowledge. Can effectively share knowledge and assist others.",
-                        "3": "Expert-level. Fully autonomous and can deliver consistently with an exceptional degree of quality."
+                        "0": "Limited experience or knowledge. Knows some Cloud concepts and terms but no hands-on or professional experience.",
+                        "1": "Knows different data stores and instance types. Can instantiate one of these and use it to load and retrieve data.",
+                        "2": "Understands Cloud security models, functional applications within a platform and is able to apply knowledge in a system.",
+                        "3": "Understands and helps manage costs, performance and matching of Cloud services in appropriate regions to the right business need."
                     },
                     "rating": "",
                     "comment": ""

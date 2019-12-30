@@ -45,14 +45,14 @@
                 },
                 "Q3": {
                     "category": "Behavior",
-                    "competency": "Analyses the team's applications for vulnerabilities.",
+                    "competency": "Analyzes the team's applications for vulnerabilities.",
                     "references": {
                         "OWASP": "https://www.owasp.org/index.php/Main_Page",
                         "OWASP: Attacks": "https://www.owasp.org/index.php/Category:Attack",
                         "CVE": "https://cve.mitre.org/"
                     },
                     "examples": {
-                        "0": "Rarely analyses the team's applications for vulnerabilities or does not know what vulnerabilities to check for.",
+                        "0": "Rarely analyzes the team's applications for vulnerabilities or does not know what vulnerabilities to check for.",
                         "1": "Reviews new code written by themselves or others and evaluates how it may be vulnerable to attacks from OWASP.",
                         "2": "Reviews both new code and old code for vulnerabilities and also actively refactors old code to make it more secure and resistant to attacks. Responds to security issues quickly.",
                         "3": "Consistently analyzes team code for vulnerabilities, actively writes mitigations against common vulnerabilities, and quickly implements fixes or updates for security issues (such as CVE) when found. This person also actively reviews CVE notices for how they may affect QL and team applications."

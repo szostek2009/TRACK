@@ -1,5 +1,5 @@
 terraform {
-  source = "git::https://git.rockfin.com/terraform/aws-s3-cloudfront-waf-tf.git?ref=3.1.1"
+  source = "git::https://git.rockfin.com/terraform/aws-s3-cloudfront-waf-tf.git?ref=bucket-encryption"
 }
 
 include {

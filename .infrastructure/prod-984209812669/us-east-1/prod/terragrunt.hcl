@@ -1,9 +1,4 @@
 terraform {
-  after_hook "add_local_backend" {
-    commands = ["init", "init-from-module"]
-    execute = ["cp", "${get_terragrunt_dir()}/${find_in_parent_folders("backend.tf", "ignore")}", "."]
-  }
-
   extra_arguments "autoload_varfiles" {
     commands = get_terraform_commands_that_need_vars()
 
@@ -12,16 +7,32 @@ terraform {
     ]
 
     optional_var_files = [
-      "${get_terragrunt_dir()}/${find_in_parent_folders("account.tfvars", "ignore")}",
-      "${get_terragrunt_dir()}/${find_in_parent_folders("region.tfvars", "ignore")}",
-      "${get_terragrunt_dir()}/${find_in_parent_folders("env.tfvars", "ignore")}",
+      find_in_parent_folders("account.tfvars", "ignore"),
+      find_in_parent_folders("region.tfvars", "ignore"),
+      find_in_parent_folders("env.tfvars", "ignore"),
+    ]
+  }
+
+  extra_arguments "add_state_path" {
+    commands = [
+      "taint",
+    ]
+
+    arguments = [
+      "-state=${get_terragrunt_dir()}.terraform.tfstate"
     ]
   }
 }
 
 remote_state {
-   backend = "local"
-   config = {
-     path = "${get_terragrunt_dir()}.terraform.tfstate"
-   }
+  backend = "local"
+
+  generate = {
+    path      = "backend.tf"
+    if_exists = "overwrite"
+  }
+
+  config = {
+    path = "${get_terragrunt_dir()}.terraform.tfstate"
+  }
 }

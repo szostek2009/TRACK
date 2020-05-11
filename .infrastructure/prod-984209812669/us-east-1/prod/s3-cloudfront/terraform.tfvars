@@ -9,7 +9,7 @@ aws_account_id = "984209812669"
 # Standard Module Required Variables
 # ----------------------------------------------------------------------------------------------------------------------
 
-app_id           = "000000"
+app_id           = "206916"
 application_name = "trac"
 environment      = "prod"
 
@@ -20,6 +20,14 @@ infrastructure_engineer_email = "stevekluck@quickenloans.com"
 app_tags = {
   hal-app-id = "671"
 }
+
+# ----------------------------------------------------------------------------------------------------------------------
+# Access Logs
+# ----------------------------------------------------------------------------------------------------------------------
+
+enable_access_logs_encryption       = true
+access_logs_expiration_time_in_days = 90
+force_destroy_access_logs_bucket    = true
 
 # ----------------------------------------------------------------------------------------------------------------------
 # Module Variables
@@ -50,5 +58,4 @@ index_document     = "index.html"
 error_document_404 = "error.html"
 error_document_500 = "error.html"
 
-hal_deployment_role_name         = "Hal-Manual-Deployment-User"
-force_destroy_access_logs_bucket = true
+hal_deployment_role_name = "Hal-Manual-Deployment-User"

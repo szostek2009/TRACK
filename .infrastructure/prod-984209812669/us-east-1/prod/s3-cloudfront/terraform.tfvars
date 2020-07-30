@@ -47,6 +47,7 @@ default_ttl = 30
 
 is_ipv6_enabled                       = false
 minimum_https_protocol_version_policy = "TLSv1.2_2018"
+use_canonical_iam_user_for_s3         = false
 
 allowed_external_ips = [
   "12.165.188.0/24",

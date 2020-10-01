@@ -36,7 +36,7 @@
                         <b class="t-small pr-2">References:</b>
                         <div class="ui horizontal bulleted link list">
                             <template v-for="(reference_url, reference_title) in comp.references">
-                                <a class="item t-small" :href="reference_url">{{ reference_title }}</a>
+                                <a class="item t-small" :href="reference_url" target="_blank" rel="noopener noreferrer">{{ reference_title }}</a>
                             </template>
                         </div>
                     </div>
@@ -72,7 +72,7 @@
                                     <b class="t-small pr-2">References:</b>
                                     <div class="ui horizontal bulleted link list">
                                         <template v-for="(reference_url, reference_title) in comp.references">
-                                            <a class="item t-small" :href="reference_url">{{ reference_title }}</a>
+                                            <a class="item t-small" :href="reference_url" target="_blank" rel="noopener noreferrer">{{ reference_title }}</a>
                                         </template>
                                     </div>
                                 </div>

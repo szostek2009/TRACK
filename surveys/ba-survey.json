@@ -294,7 +294,7 @@
           },
           "rating": "",
           "comment": ""
-        }        
+        }
       }
     },
     "Requirements Gathering and Problem Solving": {
@@ -501,7 +501,7 @@
         },
         "SD3": {
           "category": "Skill",
-          "competency": "Develops skills by seeking mentorship and participating in activities such as Bullet Time, online learning, community participation, conferences, etc.",
+          "competency": "Develops skills by seeking mentorship and participating in activities such as Hack Week, online learning, community participation, conferences, etc.",
           "examples": {
             "0": "Does not actively participate in any extra activities.",
             "1": "Seeks mentorship and participates in extra activities to develop skills when suggested.",

@@ -238,7 +238,7 @@
                     "competency": "Commitment to Personal Growth: Learns new languages or systems and knows when it is appropriate to introduce them.",
                     "examples": {
                         "0": "Has shown limited interest in learning new technology beyond that used by the team.",
-                        "1": "Has learned basics of a new technology or language and written code or implemented it during a bullet time project.",
+                        "1": "Has learned basics of a new technology or language and written code or implemented it during a Hack Week project.",
                         "2": "Demonstrates curiosity and interest in learning new technology and applying it to QL to make themselves and others more efficient or produce higher quality software. Works with architects to investigate new technology or products when introduced into the company or the team's applications.",
                         "3": "Enterprise: Actively investigates and reviews new technology such as programming languages or services and tools such as database technologies. Can justify their use and when to make use of them within QL in an enterprise setting. Understands the ramifications of introducing a new technology within QL in a mission critical system. Has discovered, researched, and implemented a new technology within QL while satisfying NFRs and company standards for quality and security."
                     },
@@ -250,7 +250,7 @@
                     "competency": "Staying Current on Quality Technologies",
                     "examples": {
                         "0": "Has shown limited interest in learning new technology beyond that used by the team.",
-                        "1": "Learns about new technology in the industry by attending bullet time talks, attending conferences, or reading online materials, blogs, and articles.",
+                        "1": "Learns about new technology in the industry by attending Hack Week experiments, attending conferences, or reading online materials, blogs, and articles.",
                         "2": "Shows active interest and curiosity in new initiatives and services or systems within QL. Stays up to date on new libraries or technology in their domain. Knows about upcoming changes or versions of libraries or frameworks used by the team and shares that knowledge with others.",
                         "3": "Enterprise: Has their finger on the pulse of technology and the industry. Actively stays current on all technologies in their domain including front-end, backend, database, and any other systems used by their team - even components they do not directly contribute too. Usually one of the first in the company to know about an upcoming technology and how it may be useful."
                     },

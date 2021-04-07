@@ -12,7 +12,7 @@ function downloadSurveyJSON(meta) {
         survey = getSurveyFromStorageByID(meta.id),
         blob = JSON.stringify(survey);
 
-    download(blob, filename, 'application/json');
+    download(blob, filename + '.json', 'application/json');
 }
 
 function downloadSurveyCSV(meta) {
@@ -49,7 +49,7 @@ function downloadSurveyCSV(meta) {
 
     let blob = Papa.unparse(rows, { quotes: true });
 
-    download(blob, filename, 'text/csv');
+    download(blob, filename + '.csv', 'text/csv');
 }
 
 function download(data, filename, type) {

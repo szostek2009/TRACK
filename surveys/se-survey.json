@@ -15,14 +15,15 @@
                     "category": "Knowledge",
                     "competency": "Understands potential attack vectors within applications.",
                     "references": {
-                        "OWASP": "https://www.owasp.org/index.php/Main_Page",
-                        "OWASP: Top 10": "https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project"
+                        "OWASP": "https://owasp.org/",
+                        "OWASP: Top 10": "https://owasp.org/www-project-top-ten/",
+                        "OWASP: API Security": "https://owasp.org/www-project-api-security/"
                     },
                     "examples": {
                         "0": "Has heard of a few common attacks such as XSS and SQL Injection but may not understand how they work.",
                         "1": "Is aware of some common attacks from OWASP such as XSS, CSRF, and SQL injection and how they may be used to take advantage of an application.",
-                        "2": "Familiar with the entire OWASP Top 10.",
-                        "3": "Has an in-depth understanding of most types of attack vectors and how they affect and exploit their team's applications. Knows how to avoid unsafe programming patterns and can guide others in best practices."
+                        "2": "Familiar with the entire OWASP Top 10 for multiple application types.",
+                        "3": "Has an in-depth understanding of most types of attack vectors and how they affect and exploit their team's applications. Knows how to avoid unsafe programming patterns, securely configure endpoints, and can guide others in best practices."
                     },
                     "rating": "",
                     "comment": ""
@@ -31,8 +32,9 @@
                     "category": "Skill",
                     "competency": "Writes code that protects against potential attack vectors.",
                     "references": {
-                        "OWASP": "https://www.owasp.org/index.php/Main_Page",
-                        "OWASP: Top 10": "https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project"
+                        "OWASP": "https://owasp.org/",
+                        "OWASP: Top 10": "https://owasp.org/www-project-top-ten/",
+                        "OWASP: API Security": "https://owasp.org/www-project-api-security/"
                     },
                     "examples": {
                         "0": "Does not consider security when writing code.",
@@ -45,9 +47,9 @@
                 },
                 "Q3": {
                     "category": "Behavior",
-                    "competency": "Analyzes the team's applications for vulnerabilities.",
+                    "competency": "Analyzes the team's applications attack surface and potential vulnerabilities.",
                     "references": {
-                        "OWASP": "https://www.owasp.org/index.php/Main_Page",
+                        "OWASP": "https://owasp.org/",
                         "OWASP: Attacks": "https://www.owasp.org/index.php/Category:Attack",
                         "CVE": "https://cve.mitre.org/"
                     },
@@ -67,7 +69,7 @@
                         "0": "May be familiar with one or two services but does not have a complete picture of all monitoring services used by applications their team supports.",
                         "1": "Is aware of core services, their purpose, and which tools to integrate with, but needs guidance to integrate with their application.",
                         "2": "Can do complete setup for an application to connect to core services - either directly or through SDKs provided by the company.",
-                        "3": "Contributes to libraries and SDKs for core services and participates in setting standards, including evaluation of those tools and systems. (Splunk, App Dynamics, SCOM, Zabbix, Acunetix, etc) "
+                        "3": "Contributes to libraries and SDKs for core services and participates in setting standards, including evaluation of those tools and systems. (Grafana, Splunk, App Dynamics, SCOM, Zabbix, Acunetix, etc) "
                     },
                     "rating": "",
                     "comment": ""
@@ -75,7 +77,6 @@
                 "Q5": {
                     "category": "Skill",
                     "competency": "Profiles an application to identify and implement performance enhancements.",
-
                     "examples": {
                         "0": "Does not know how to test application performance or ignores performance metrics when writing code.",
                         "1": "Can connect a profiler to their application and understands its output to identify inefficient codeblocks.",
@@ -88,7 +89,6 @@
                 "Q6": {
                     "category": "Knowledge",
                     "competency": "Understands different metrics of application health and performance.",
-
                     "examples": {
                         "0": "Has limited familiarity with application health, error handling, and other metrics of quality.",
                         "1": "Understands at a high level the signals of application health and performance and the factors that impact them.",
@@ -101,7 +101,6 @@
                 "Q7": {
                     "category": "Behavior",
                     "competency": "Follows established development standards (security, performance, testing, coding style).",
-
                     "examples": {
                         "0": "Is unaware of team or company standards or often ignores them.",
                         "1": "Is aware of company and community standards for development languages and processes. May ignore standards on occasion to ship features sooner for business partners and demands.",
@@ -127,7 +126,6 @@
                 "Q9": {
                     "category": "Skill",
                     "competency": "Identifies, explains, and resolves software issues.",
-
                     "examples": {
                         "0": "Can assist with troubleshooting issues but may have difficulty finding their exact causes and requires supervision from a more experienced team member.",
                         "1": "Can troubleshoot and fix simple issues found by QA. Often needs help to identify an issue but can fix it under guidance from a more senior developer.",
@@ -140,7 +138,6 @@
                 "Q10": {
                     "category": "Skill",
                     "competency": "Writes code that fails gracefully and handles error conditions (e.g. service failures, logging).",
-
                     "examples": {
                         "0": "Has limited familiarity with how to best handle edge cases or error conditions.",
                         "1": "Can write code that handles errors and exceptions from dependent systems or libraries. Also appropriately surfaces errors to the user with errors or exceptions in severe scenarios that cannot be recovered. Knows how to avoid leaking sensitive code or details from users in these scenarios.",
@@ -198,7 +195,7 @@
                     "competency": "Understands functional programming paradigms and patterns.",
                     "examples": {
                         "0": "Knows what FP is and the differences between FP and other paradigms such as object-oriented or procedural programming.",
-                        "1": "Understands FP basics such as first-class functions, closures, immutability, and statelessness.",
+                        "1": "Understands FP basics such as first-class functions, higher-order functions, closures, immutability, and statelessness.",
                         "2": "Understands more advanced FP topics such as monads, currying, accumulators, pipelines, fold/reduce, map, etc and has used them when developing.",
                         "3": "Has deep knowledge of most functional programming design patterns and has built or managed large-scale software using them."
                     },

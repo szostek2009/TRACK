@@ -33,11 +33,6 @@
             "ConfluenceURL": "https://confluence/display/TRAC/Information+Security+Engineer+%28ISECE%29"
         },
         {
-            "Name": "IT Service Management Analyst (V1)",
-            "URL": "/surveys/itsm-analyst-survey.json",
-            "ConfluenceURL": ""
-        },
-        {
             "Name": "Leadership",
             "URL": "/surveys/leader-survey.json",
             "ConfluenceURL": "https://confluence/display/TRAC/Leadership"
@@ -80,38 +75,7 @@
             "ConfluenceURL": "https://confluence/display/TRAC/Web+UI+Development+and+Architecture+Skills"
         }
     ],
-    "Learning and Communication": [
-        {
-            "Name": "Technical Editor",
-            "URL": "/surveys/technical-editor-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Technical+Editor"
-        },
-        {
-            "Name": "Technical Writer",
-            "URL": "/surveys/technical-writer-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Technical+Writer"
-        },
-        {
-            "Name": "Knowledge Management Specialist",
-            "URL": "/surveys/knowledge-management-specialist-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Knowledge+Management+Specialist"
-        },
-        {
-            "Name": "Tech U Learning Coordinator",
-            "URL": "/surveys/techu-learning-coordinator-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Learning+Coordinator"
-        },
-        {
-            "Name": "Tech U Learning Consultant",
-            "URL": "/surveys/techu-learning-consultant-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Learning+Consultant"
-        },
-        {
-            "Name": "Instructional Designer",
-            "URL": "/surveys/techu-instructional-designer-survey.json",
-            "ConfluenceURL": "https://confluence/display/TRAC/Instructional+Designer-+IT"
-        }
-    ],
+
     "Support": [
         {
             "Name": "Application Engineer",

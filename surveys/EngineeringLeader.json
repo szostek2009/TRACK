@@ -1,7 +1,7 @@
 {
     "_comment": "https://confluence/display/TRAC/Leadership",
 
-    "type": "Leader",
+    "type": "Engineering Leader",
     "version": "0.1.0",
 
     "id": "",
@@ -19,7 +19,7 @@
                         "1": "Has demonstrated a full understanding of the ISMS through actions, words, and behaviors throughout daily situations.",
                         "2": "Has clearly incorporated the ISMs into their core values by practicing the ISMs every day, continuously improving their knowledge and experience of the ISMs through actions, words, and behaviors throughout daily situations.",
                         "3": "Helps others practice the ISMs and ensures we continue to stay who we are through our ISMs by upholding them and teaching others to do the same throughout daily situations.",
-                        "4": "Lives our ISMs outside of QL at conferences, recruiting events, on social media, and social events, promoting who we are by representing QL and the team at these events."
+                        "4": "Lives our ISMs outside of the FOC at conferences, recruiting events, on social media, and social events, promoting who we are by representing the FOC and the team at these events."
                     },
                     "rating": "",
                     "comment": ""
@@ -30,8 +30,8 @@
                     "examples": {
                         "0": "Working on gaining the skills/experience needed for this competency.",
                         "1": "Finds ways to improve themselves, the team, and the business.",
-                        "2": "Creates an environment where team members want to and are able to be committed to innovating themselves, their team, and the business, as well as invest time innovating during Hack Week, Hackathons, Conferences, and other types of innovation time focused on personal, team, and company growth.",
-                        "3": "Is committed to innovation by continuously finding ways to improve themselves, the team, and the business, as well as finding ways to participate in innovation time like Hack Week, Hackathons, Conferences, and Experiments focused on personal, team, and company growth.",
+                        "2": "Creates an environment where team members want to and are able to be committed to innovating themselves, their team, and the business, as well as invest time innovating during Hackathons, Conferences, and other types of innovation time focused on personal, team, and company growth.",
+                        "3": "Is committed to innovation by continuously finding ways to improve themselves, the team, and the business, as well as finding ways to participate in innovation time like Hackathons, Conferences, and Experiments focused on personal, team, and company growth.",
                         "4": "The team takes initiative and consistently demonstrates an innovative mindset by creating innovative solutions that transform our teams and our business."
                     },
                     "rating": "",
@@ -73,9 +73,9 @@
                     "examples": {
                         "0": "Working on gaining the skills/experience needed for this competency.",
                         "1": "Takes responsibility for the team's results by leveraging a delivery and prioritization process, and ensures coverage by their team to fit the needs of their business domain.",
-                        "2": "Has a high level of ownership and initiative on items relating to their specific business or IT domain.",
+                        "2": "Has a high level of ownership and initiative on items relating to their specific business or Technology domain.",
                         "3": "Takes the conn on tying the threads between their team and partner teams, and takes interest in the vision and performance of teams outside of their domain.",
-                        "4": "Proactively stays engaged with the IT leadership team, and is involved in major initiatives that intersect their teams IT vertical. Ensures that Technology is driving the business."
+                        "4": "Proactively stays engaged with the Technology leadership team, and is involved in major initiatives that intersect their teams Technology vertical. Ensures that Technology is driving the business."
                     },
                     "rating": "",
                     "comment": ""
@@ -212,7 +212,7 @@
                         "0": "Working on gaining the skills/experience needed for this competency.",
                         "1": "Understands the business, technology, and clients of the team well enough to make decisions that impact the company.",
                         "2": "Understands where their business and IT as a whole is going and makes decisions based on an aligned vision and roadmap.",
-                        "3": "Knows how their team and systems impact partner teams, other systems, and the FOC. Leverages both IFR and VFR to measure performance and make decisions.",
+                        "3": "Knows how their team and systems impact partner teams, other systems, and the FOC. Leverages OKRs to measure performance and make decisions.",
                         "4": "Challenges our teams to look beyond what we know and what we do today, to make decisions that reflect what is possible in a future state based on industry and FOC knowledge."
                     },
                     "rating": "",
@@ -268,7 +268,7 @@
                         "0": "Working on gaining the skills/experience needed for this competency.",
                         "1": "Runs effective team meetings.",
                         "2": "Is able to present topics to groups of people outside of your immediate team, and participates actively in leadership meetings. Speaks clearly and engages the audience.",
-                        "3": "Drives larger strategic meetings, and effectively presents internally to large groups (i.e. All Platform Team Meeting).",
+                        "3": "Drives larger strategic meetings, and effectively presents internally to large groups (i.e. All Technology Meeting).",
                         "4": "Presents externally to industry peers, partners, and FOCs."
                     },
                     "rating": "",
@@ -350,13 +350,13 @@
                 },
                 "PECT2": {
                     "category": "Behavior",
-                    "competency": "Distills communication to the team to ensure understanding and alignment with Release Train, PE, and Enterprise Initiatives.",
+                    "competency": "Distills communication to the team to ensure understanding and alignment within the direct team, Technology, and enterprise initiatives.",
                     "examples": {
                         "0": "Working on gaining the skills/experience needed for this competency.",
                         "1": "Inconsistently communicates updates and strategies to the team.",
                         "2": "Communicates updates and strategies to the team but does not ensure understanding.",
                         "3": "Consistently communicates updates and strategic direction to the team.",
-                        "4": "Communicates and ensures team members make decisions that align around the release train, product engineering, and enterprise initiatives strategies."
+                        "4": "Communicates and ensures team members make decisions that align the direct team, Technology, and enterprise initiatives strategies."
                     },
                     "rating": "",
                     "comment": ""
@@ -374,20 +374,20 @@
                         "1": "Understands what capabilities the team supports, the technology stack they work in, and what documentation exists.",
                         "2": "Creates alignment with the team on what they support, their technology stack, and what documentation is needed.",
                         "3": "Is able to effectively communicate about the capabilities the teams supports and the technologies they use. Challenges the team and drives discussions to ensure they're supporting the right capabilities and using the right technologies.",
-                        "4": "Understands how the capabilities the team supports fit into the vision for the Release Train and can assist in decisions for which capabilities belong on the Release Train. Challenges the team to ensure they're using the appropriate technology stack and thinking long term about new technologies and industry trends."
+                        "4": "Understands how the capabilities the team supports fit into the vision for Technology. Challenges the team to ensure they're using the appropriate technology stack and thinking long term about new technologies and industry trends."
                     },
                     "rating": "",
                     "comment": ""
                 },
                 "PEOS2": {
                     "category": "Behavior",
-                    "competency": "Establishes a long term vision for their team with clear alignment to their Release Train, PE, Technology, and Quicken Loans initiatives.",
+                    "competency": "Establishes a long term vision for their team with clear alignment to their direct team, Technology, and enterprise initiatives.",
                     "examples": {
                         "0": "Working on gaining the skills/experience needed for this competency.",
-                        "1": "Has established and documented a long term vision for the team that aligns to their Release Train, PE, and Technologies visions. Is able to effectively communicate the vision and how what their team does fits into the big picture.",
-                        "2": "Is able to get buy in from the team and alignment on how the team fits into the vision and key initiatives at Quicken Loans. The team understands the vision, can communicate it, and use it to make decisions.",
-                        "3": "Is able to identify opportunities where the team can better align to the vision and key initiatives at Quicken Loans and establishes a strategy to get the teams work aligned.",
-                        "4": "Makes strategic decisions using the vision and key initiatives at Quicken Loans as a guide post or north star. Uses their long term vision to make decisions regarding the work the team does, technologies they use, and sizing the team."
+                        "1": "Has established and documented a long term vision for the team that aligns to their direct team and Technology visions. Is able to effectively communicate the vision and how what their team does fits into the big picture.",
+                        "2": "Is able to get buy in from the team and alignment on how the team fits into the vision and key initiatives at Rocket Auto. The team understands the vision, can communicate it, and use it to make decisions.",
+                        "3": "Is able to identify opportunities where the team can better align to the vision and key initiatives at Rocket Auto and establishes a strategy to get the teams work aligned.",
+                        "4": "Makes strategic decisions using the vision and key initiatives at Rocket Auto as a guide post or north star. Uses their long term vision to make decisions regarding the work the team does, technologies they use, and sizing the team."
                     },
                     "rating": "",
                     "comment": ""
@@ -425,12 +425,12 @@
                 },
                 "PEOS2": {
                     "category": "Behavior",
-                    "competency": "Is able to speak to how their specific team fits into the enterprise.",
+                    "competency": "Is able to speak to how their specific team fits into the overall enterprise.",
                     "examples": {
                         "0": "Working on gaining the skills/experience needed for this competency.",
                         "1": "Is aware of capabilities and dependencies supported by their team.",
-                        "2": "Is aware of the capabilities and dependencies supported by their train.",
-                        "3": "Is aware of the capabilities and dependencies supported by their stream.",
+                        "2": "Is aware of the capabilities and dependencies supported by Engineering.",
+                        "3": "Is aware of the capabilities and dependencies supported by all of Technology.",
                         "4": "Is aware of the capabilities, the overlap their their team may have with others, and the dependencies they have with other teams in the enterprise."
                     },
                     "rating": "",
@@ -456,52 +456,39 @@
             "competencies": {
                 "PELU1": {
                     "category": "Behavior",
-                    "competency": "Is able to speak to what their train and stream supports, the capabilities, and their impact on the business.",
+                    "competency": "Is able to speak to what their direct team and Engineering supports, the capabilities, and their impact on the business.",
                     "examples": {
                         "0": "Working on gaining the skills/experience needed for this competency.",
-                        "1": "Understands the focus of their train, the capabilities, and their impact on the business.",
-                        "2": "Can speak to the focus of their train, the capabilities, and their impact on the business.",
-                        "3": "Effectively promotes the focus of their train, the capabilities, and their impact on the business.",
-                        "4": "Understands and can speak to the focus of their stream, the capabilities, and their impact on the business."
+                        "1": "Understands the focus of their direct team, the capabilities, and their impact on the business.",
+                        "2": "Can speak to the focus of their direct team, the capabilities, and their impact on the business.",
+                        "3": "Effectively promotes the focus of their direc team, the capabilities, and their impact on the business.",
+                        "4": "Understands and can speak to the focus of the Engineering team, the capabilities, and their impact on the business."
                     },
                     "rating": "",
                     "comment": ""
                 },
                 "PELU2": {
                     "category": "Behavior",
-                    "competency": "Is actively involved in leadership meetings.",
+                    "competency": "Is actively involved in leadership meetings and initiatives.",
                     "examples": {
                         "0": "Working on gaining the skills/experience needed for this competency.",
-                        "1": "Attends train leadership meetings.",
-                        "2": "Has a deep understanding of the content in train leadership meetings and provides feedback and contributes to conversations.",
-                        "3": "Actively involved and drives train leadership meetings.",
-                        "4": "Attends and contributes to stream leadership meetings."
+                        "1": "Attends Rocket Auto Technology leadership meetings.",
+                        "2": "Has a deep understanding of the content in Rocket Auto Technology leadership meetings and provides feedback and contributes to conversations.",
+                        "3": "Takes the conn on initiatives coming out of Rocket Auto Technology leadership meetings.",
+                        "4": "Actively involved and drives Rocket Auto Technology leadership meetings and initiatives."
                     },
                     "rating": "",
-                    "comment": ""
-                },
-                "PELU3": {
-                    "category": "Behavior",
-                    "competency": "Is actively participating in the leadership team initiatives.",
-                    "examples": {
-                        "0": "Working on gaining the skills/experience needed for this competency.",
-                        "1": "Understands train initiatives.",
-                        "2": "Can speak to the focus the train initiatives.",
-                        "3": "Actively involved and drives train initiatives.",
-                        "4": "Understands and can speak to stream initiatives."
-                    },
-                    "rating": "",
-                    "comment": ""
+                    "comment": ""               
                 },
                 "PELU4": {
                     "category": "Behavior",
-                    "competency": "Is actively involved in enterprise technology initiatives.",
+                    "competency": "Is actively involved in enterprise initiatives.",
                     "examples": {
                         "0": "Working on gaining the skills/experience needed for this competency.",
-                        "1": "Is aware of train enterprise initiatives and technology.",
-                        "2": "Has a deep understanding of train enterprise initiatives and technology and provides feedback and contributes to conversations.",
-                        "3": "Actively involved and drives train enterprise initiatives and technology by leading virtual groups or other active participation methods.",
-                        "4": "Understands and can speak to stream enterprise technology initiatives."
+                        "1": "Is aware of enterprise initiatives and how they impact the organization.",
+                        "2": "Has a deep understanding of enterprise initiatives, provides feedback, and contributes to conversations.",
+                        "3": "Actively involved as a participant in enterprise initiatives by being a member of virtual groups or other participation methods.",
+                        "4": "Actively involved and drives enterprise initiatives by leading virtual groups or other active participation methods."
                     },
                     "rating": "",
                     "comment": ""
@@ -528,10 +515,10 @@
                     "competency": "Is able to objectively determine when a team needs to grow, or should conversly pivot focus.",
                     "examples": {
                         "0": "Working on gaining the skills/experience needed for this competency.",
-                        "1": "Understands how capacity constraints impact product delivery at the team, release train, and portfolio level.",
-                        "2": "Can use capacity and demand metrics to forecast growth for product delivery.",
+                        "1": "Understands how capacity constraints impact product delivery at the direct team, Engineering, and Technology level.",
+                        "2": "Can use capacity and demand metrics to forecast growth for their direct team.",
                         "3": "Can use KPI and ROI metrics to determine when a team should pivot to higher value work.",
-                        "4": "Does all of the above across their release train."
+                        "4": "Does all of the above to help inform Technology-wide initiatives."
                     },
                     "rating": "",
                     "comment": ""
@@ -544,7 +531,7 @@
                         "1": "Has established a framework for new team member on boarding that provides clear direction for a new team member in their first 90 days.",
                         "2": "Has established a standard development environment, streamlining the setup process for a new engineer on the team.",
                         "3": "Has established a streamlined developer on boarding process, making it possible to commit production code on an engineer's first day.",
-                        "4": "Does all of the above across their release train."
+                        "4": "Does all of the above across Technology (where applicable)."
                     },
                     "rating": "",
                     "comment": ""
@@ -556,7 +543,7 @@
                         "0": "Working on gaining the skills/experience needed for this competency.",
                         "1": "Understands how an individual role impacts capacity on their team.",
                         "2": "Understands how the output of their team directly impacts business value.",
-                        "3": "Is able to quantify the value of each role on their team using business focused metrics (closed loan volume, revenue, etc.).",
+                        "3": "Is able to quantify the value of each role on their team using business focused metrics (lead conversion, revenue, etc.).",
                         "4": "Is able to accurately determine how changes in team member capacity impact our business."
                     },
                     "rating": "",
